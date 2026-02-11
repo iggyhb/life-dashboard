@@ -18,6 +18,7 @@ import time
 import urllib.request
 import urllib.error
 from datetime import datetime, timedelta
+from html.parser import HTMLParser
 from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).parent
@@ -93,6 +94,131 @@ def build_readings_list(api_data):
     return readings
 
 
+# ── USCCB Reading Text Scraper ──
+
+class USCCBParser(HTMLParser):
+    """Simple parser to extract reading text sections from USCCB page."""
+    def __init__(self):
+        super().__init__()
+        self.sections = {}
+        self.current_section = None
+        self.in_heading = False
+        self.in_content = False
+        self.current_text = []
+        self._heading_buf = []
+        self.in_script = False
+        self.in_footer = False
+
+    def handle_starttag(self, tag, attrs):
+        attrs_dict = dict(attrs)
+        # Stop parsing on script/style/footer regions
+        if tag in ('script', 'style', 'noscript'):
+            self.in_script = True
+            return
+        if tag == 'footer' or (tag == 'div' and 'footer' in attrs_dict.get('class', '')):
+            self.in_footer = True
+            return
+        if self.in_script or self.in_footer:
+            return
+        if tag in ('h3', 'h4'):
+            self.in_heading = True
+            self._heading_buf = []
+        if tag == 'br' and self.in_content:
+            self.current_text.append('\n')
+
+    def handle_endtag(self, tag):
+        if tag in ('script', 'style', 'noscript'):
+            self.in_script = False
+            return
+        if self.in_script or self.in_footer:
+            return
+        if tag in ('h3', 'h4') and self.in_heading:
+            self.in_heading = False
+            heading = ''.join(self._heading_buf).strip()
+            # Save previous section
+            if self.current_section and self.current_text:
+                self.sections[self.current_section] = ''.join(self.current_text).strip()
+            # Start new section if it's a reading heading
+            matched = False
+            for key in ['Reading 1', 'Reading 2', 'Responsorial Psalm', 'Gospel', 'Alleluia']:
+                if key.lower() in heading.lower():
+                    self.current_section = key
+                    self.current_text = []
+                    self.in_content = True
+                    matched = True
+                    break
+            # Stop collecting on unrelated headings
+            if not matched and self.current_section:
+                self.sections[self.current_section] = ''.join(self.current_text).strip()
+                self.current_section = None
+                self.in_content = False
+        if tag == 'p' and self.in_content:
+            self.current_text.append('\n')
+
+    def handle_data(self, data):
+        if self.in_script or self.in_footer:
+            return
+        if self.in_heading:
+            self._heading_buf.append(data)
+        elif self.in_content and self.current_section:
+            self.current_text.append(data)
+
+    def get_results(self):
+        if self.current_section and self.current_text:
+            self.sections[self.current_section] = ''.join(self.current_text).strip()
+        return self.sections
+
+
+def _clean_reading_text(text):
+    """Clean up scraped reading text: remove reference header, excess whitespace."""
+    # Remove leading Bible reference line (e.g. "Mark 7:14-23\n\n")
+    text = re.sub(r'^[\w\d\s]+\d+:\d+[\d\-,\s]*\s*\n\s*', '', text, count=1)
+    # Collapse excessive whitespace
+    text = re.sub(r'[ \t]+', ' ', text)
+    text = re.sub(r'\n{3,}', '\n\n', text)
+    text = text.strip()
+    return text
+
+
+def fetch_reading_texts(usccb_url):
+    """Scrape actual reading texts from the USCCB daily readings page."""
+    try:
+        req = urllib.request.Request(usccb_url, headers={
+            'User-Agent': 'Mozilla/5.0 (compatible; LifeDashboard/1.0)'
+        })
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            html = resp.read().decode('utf-8', errors='replace')
+
+        parser = USCCBParser()
+        parser.feed(html)
+        sections = parser.get_results()
+
+        # Clean up text
+        cleaned = {}
+        for key, text in sections.items():
+            text = _clean_reading_text(text)
+            if text and len(text) > 20:  # Ignore tiny fragments
+                cleaned[key] = text
+        return cleaned
+    except Exception as e:
+        print(f"  Warning: Could not fetch USCCB texts: {e}")
+        return {}
+
+
+def attach_reading_texts(readings, usccb_texts):
+    """Match USCCB scraped sections to our reading objects."""
+    type_to_usccb = {
+        'first_reading': 'Reading 1',
+        'psalm': 'Responsorial Psalm',
+        'second_reading': 'Reading 2',
+        'gospel': 'Gospel',
+    }
+    for reading in readings:
+        usccb_key = type_to_usccb.get(reading['type'], '')
+        if usccb_key and usccb_key in usccb_texts:
+            reading['text'] = usccb_texts[usccb_key]
+
+
 # ── Patristic Comments Lookup ──
 
 def load_fathers_index():
@@ -166,7 +292,7 @@ def lookup_fathers(fathers_index, reference):
             comments.append({
                 'reading_ref': reference,
                 'father': father[:100],
-                'text': text[:800],  # Cap for dashboard display
+                'text': text[:2000],  # Full text for expand/collapse view
                 'verse_ref': entry_ref,
             })
 
@@ -198,6 +324,28 @@ def fetch_subreddit(subreddit, limit=10, retries=2):
             posts = []
             for child in data.get('data', {}).get('children', []):
                 d = child.get('data', {})
+                # Get best thumbnail: prefer preview images, fall back to thumbnail
+                thumb = ''
+                try:
+                    previews = d.get('preview', {}).get('images', [])
+                    if previews:
+                        # Get a medium resolution preview (~320px wide)
+                        resolutions = previews[0].get('resolutions', [])
+                        for res in resolutions:
+                            if res.get('width', 0) >= 320:
+                                thumb = res.get('url', '')
+                                break
+                        if not thumb and resolutions:
+                            thumb = resolutions[-1].get('url', '')
+                        if not thumb:
+                            thumb = previews[0].get('source', {}).get('url', '')
+                except Exception:
+                    pass
+                if not thumb:
+                    t = d.get('thumbnail', '')
+                    if t and t.startswith('http'):
+                        thumb = t
+
                 posts.append({
                     'title': d.get('title', ''),
                     'url': f"https://reddit.com{d.get('permalink', '')}",
@@ -206,6 +354,7 @@ def fetch_subreddit(subreddit, limit=10, retries=2):
                     'num_comments': d.get('num_comments', 0),
                     'created_utc': d.get('created_utc', 0),
                     'selftext': (d.get('selftext', '') or '')[:200],
+                    'thumbnail': thumb,
                 })
             return posts
         except urllib.error.HTTPError as e:
@@ -264,6 +413,7 @@ def categorize_posts(all_posts, config):
             'score': 0,  # Will be normalized later
             'summary': post['selftext'][:150] if post['selftext'] else '',
             'why_it_matters': '',
+            'thumbnail': post.get('thumbnail', ''),
         })
 
     # Sort items in each section by combined Reddit score + comments
@@ -322,6 +472,19 @@ def main():
         }
 
         print(f"  Found {len(readings)} readings")
+
+        # Fetch actual reading text from USCCB
+        usccb_link = api_data.get('usccbLink', '') if api_data else ''
+        if usccb_link and readings:
+            print(f"  Fetching reading texts from USCCB...")
+            usccb_texts = fetch_reading_texts(usccb_link)
+            if usccb_texts:
+                attach_reading_texts(readings, usccb_texts)
+                for r in readings:
+                    has_text = '✓' if r.get('text') else '✗'
+                    print(f"    {r['reference']}: text {has_text}")
+            else:
+                print("    Could not scrape USCCB texts")
 
         # 2. Patristic comments
         if config.get('liturgy', {}).get('include_fathers', True) and readings:

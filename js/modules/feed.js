@@ -35,6 +35,15 @@ function formatFeedDate(dateStr) {
   }
 }
 
+/** Create a small fixed-size icon */
+function sIcon(name, size = 16) {
+  const i = icon(name);
+  i.style.width = size + 'px';
+  i.style.height = size + 'px';
+  i.style.flexShrink = '0';
+  return i;
+}
+
 function renderTabs(container, activeTab, onSwitch) {
   const tabs = el('div', { className: 'tabs' });
   const tabDefs = [
@@ -53,6 +62,42 @@ function renderTabs(container, activeTab, onSwitch) {
   container.appendChild(tabs);
 }
 
+// ── Expandable text block ──
+
+function renderExpandable(text, previewLen = 250, style = {}) {
+  if (!text || text.length <= previewLen + 50) {
+    // Short enough to show in full
+    return el('div', { className: 'card-body', style }, text || '');
+  }
+
+  const wrapper = el('div', { className: 'card-body', style });
+  const preview = text.substring(0, previewLen).replace(/\s+\S*$/, '') + '...';
+  let expanded = false;
+
+  const textEl = el('div', {
+    style: { whiteSpace: 'pre-wrap', lineHeight: '1.6' }
+  }, preview);
+
+  const toggleBtn = el('button', {
+    style: {
+      background: 'none', border: 'none', color: 'var(--accent-blue)',
+      fontSize: '0.8rem', cursor: 'pointer', padding: '6px 0 0', display: 'flex',
+      alignItems: 'center', gap: '4px'
+    },
+    onClick: () => {
+      expanded = !expanded;
+      textEl.textContent = expanded ? text : preview;
+      toggleBtn.innerHTML = '';
+      toggleBtn.appendChild(sIcon(expanded ? 'chevronUp' : 'chevronDown', 14));
+      toggleBtn.appendChild(document.createTextNode(expanded ? 'Ver menos' : 'Ver mas'));
+    }
+  }, [sIcon('chevronDown', 14), 'Ver mas']);
+
+  wrapper.appendChild(textEl);
+  wrapper.appendChild(toggleBtn);
+  return wrapper;
+}
+
 // ── Liturgy Tab ──
 
 function renderLiturgyTab(container) {
@@ -68,18 +113,13 @@ function renderLiturgyTab(container) {
   }
 
   // Date & Season
-  const calIcon = icon('calendar');
-  calIcon.style.width = '16px';
-  calIcon.style.height = '16px';
-  calIcon.style.flexShrink = '0';
-
   const dateHeader = el('div', {
     style: { marginBottom: '20px' }
   }, [
     el('div', {
       style: { display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '4px' }
     }, [
-      calIcon,
+      sIcon('calendar'),
       el('span', {
         style: { fontSize: '0.9rem', fontWeight: '600' }
       }, formatFeedDate(liturgy.date))
@@ -116,23 +156,72 @@ function renderLiturgyTab(container) {
     }, reading.reference));
     card.appendChild(header);
 
-    if (reading.summary) {
+    // Show full reading text with expand/collapse
+    if (reading.text) {
+      card.appendChild(renderExpandable(reading.text, 300, {
+        fontSize: '0.88rem', lineHeight: '1.7', color: 'var(--text-primary)'
+      }));
+    } else if (reading.summary) {
       card.appendChild(el('div', { className: 'card-body' }, reading.summary));
     }
 
     container.appendChild(card);
   }
 
-  // Patristic Comments
+  // ── Patristic Comments ──
   if (liturgy.patristic_comments && liturgy.patristic_comments.length > 0) {
-    const bookIcon = icon('book');
-    bookIcon.style.width = '18px';
-    bookIcon.style.height = '18px';
-    bookIcon.style.flexShrink = '0';
-    container.appendChild(el('h3', {
-      style: { fontSize: '0.95rem', color: 'var(--text-secondary)', margin: '24px 0 12px', display: 'flex', alignItems: 'center', gap: '8px' }
-    }, [bookIcon, 'Padres de la Iglesia']));
+    container.appendChild(el('div', {
+      style: { borderTop: '1px solid var(--border)', margin: '24px 0 0' }
+    }));
 
+    container.appendChild(el('h3', {
+      style: { fontSize: '0.95rem', color: 'var(--text-secondary)', margin: '20px 0 12px', display: 'flex', alignItems: 'center', gap: '8px' }
+    }, [sIcon('book', 18), 'Padres de la Iglesia']));
+
+    // ── Summary overview ──
+    const commentsByReading = {};
+    for (const c of liturgy.patristic_comments) {
+      const key = c.reading_ref || 'General';
+      if (!commentsByReading[key]) commentsByReading[key] = [];
+      commentsByReading[key].push(c);
+    }
+
+    // Build a brief overview of what the Fathers say
+    const summaryLines = [];
+    for (const [ref, comments] of Object.entries(commentsByReading)) {
+      const fatherNames = comments.map(c => {
+        const f = c.father || '';
+        // Try to extract a recognizable name
+        for (const name of ['Origenes', 'Orígenes', 'Crisostomo', 'Crisóstomo', 'Beda', 'Efren', 'Efrén',
+          'Agustin', 'Agustín', 'Ambrosio', 'Jeronimo', 'Jerónimo', 'Gregorio', 'Basilio',
+          'Cirilo', 'Tertuliano', 'Atanasio', 'Ireneo', 'Clemente', 'Origen', 'Chrysostom',
+          'Augustine', 'Ambrose', 'Jerome', 'Gregory', 'Basil', 'Cyril', 'Tertullian']) {
+          if (f.toLowerCase().includes(name.toLowerCase())) return name;
+        }
+        return f.length > 40 ? f.substring(0, 40) + '...' : f;
+      });
+      summaryLines.push(`${ref}: ${fatherNames.join(', ')}`);
+    }
+
+    if (summaryLines.length > 0) {
+      const summaryCard = el('div', { className: 'card', style: {
+        marginBottom: '16px', background: 'rgba(167, 139, 250, 0.06)', borderLeft: '3px solid var(--accent-purple)'
+      }});
+      summaryCard.appendChild(el('div', {
+        className: 'card-header',
+        style: { borderBottom: 'none' }
+      }, [
+        el('span', { style: { fontSize: '0.8rem', fontWeight: '600', color: 'var(--accent-purple)' } }, 'Resumen patristico')
+      ]));
+      const summaryBody = el('div', { className: 'card-body', style: { fontSize: '0.85rem', color: 'var(--text-secondary)' } });
+      for (const line of summaryLines) {
+        summaryBody.appendChild(el('div', { style: { marginBottom: '4px' } }, line));
+      }
+      summaryCard.appendChild(summaryBody);
+      container.appendChild(summaryCard);
+    }
+
+    // ── Individual patristic comments with expand/collapse ──
     for (const comment of liturgy.patristic_comments) {
       const card = el('div', { className: 'card', style: { marginBottom: '12px', borderLeft: '3px solid var(--accent-purple)' } });
 
@@ -140,17 +229,21 @@ function renderLiturgyTab(container) {
       header.appendChild(el('span', {
         style: { fontSize: '0.8rem', fontWeight: '600', color: 'var(--accent-purple)' }
       }, comment.father || 'Padre de la Iglesia'));
-      header.appendChild(el('span', {
-        style: { fontSize: '0.75rem', color: 'var(--text-muted)' }
+
+      const metaRight = el('div', { style: { display: 'flex', alignItems: 'center', gap: '8px' } });
+      if (comment.verse_ref) {
+        metaRight.appendChild(el('span', {
+          style: { fontSize: '0.7rem', color: 'var(--text-muted)', background: 'var(--bg-secondary)', padding: '2px 6px', borderRadius: '4px' }
+        }, comment.verse_ref));
+      }
+      metaRight.appendChild(el('span', {
+        style: { fontSize: '0.7rem', color: 'var(--text-muted)' }
       }, comment.reading_ref || ''));
+      header.appendChild(metaRight);
       card.appendChild(header);
 
-      const text = comment.text || '';
-      const displayText = text.length > 500 ? text.substring(0, 500) + '...' : text;
-      card.appendChild(el('div', {
-        className: 'card-body',
-        style: { fontStyle: 'italic' }
-      }, displayText));
+      // Expandable text
+      card.appendChild(renderExpandable(comment.text || '', 200, { fontStyle: 'italic' }));
 
       container.appendChild(card);
     }
@@ -212,47 +305,83 @@ function renderNewsTab(container) {
     }, section.title));
 
     for (const item of section.items) {
-      const card = el('div', { className: 'list-item', style: { cursor: 'default' } });
+      const card = el('div', {
+        style: {
+          display: 'flex', gap: '12px', padding: '12px',
+          borderRadius: '8px', marginBottom: '8px',
+          background: 'var(--bg-secondary)', cursor: 'default',
+          alignItems: 'flex-start'
+        }
+      });
 
-      // Score badge
+      // Thumbnail
+      if (item.thumbnail) {
+        const thumbEl = el('img', {
+          src: item.thumbnail,
+          style: {
+            width: '64px', height: '64px', borderRadius: '6px',
+            objectFit: 'cover', flexShrink: '0',
+            background: 'var(--bg-tertiary, #1a1a2e)'
+          }
+        });
+        thumbEl.onerror = function() { this.style.display = 'none'; };
+        card.appendChild(thumbEl);
+      }
+
+      // Score column
       if (item.score !== undefined) {
         const scoreColor = item.score >= 70 ? 'var(--accent-green)' :
                           item.score >= 40 ? 'var(--accent-yellow)' : 'var(--text-muted)';
-        card.appendChild(el('span', {
+        const scoreEl = el('div', {
           style: {
             fontSize: '0.75rem', fontWeight: '700', color: scoreColor,
-            minWidth: '32px', textAlign: 'center'
+            minWidth: '28px', textAlign: 'center', paddingTop: '2px', flexShrink: '0'
           }
+        }, String(item.score));
+        if (!item.thumbnail) card.appendChild(scoreEl);
+      }
+
+      const content = el('div', { style: { flex: '1', minWidth: '0' } });
+
+      // Title row (with score badge inline when there's a thumbnail)
+      const titleRow = el('div', { style: { display: 'flex', alignItems: 'baseline', gap: '8px' } });
+
+      if (item.thumbnail && item.score !== undefined) {
+        const scoreColor = item.score >= 70 ? 'var(--accent-green)' :
+                          item.score >= 40 ? 'var(--accent-yellow)' : 'var(--text-muted)';
+        titleRow.appendChild(el('span', {
+          style: { fontSize: '0.7rem', fontWeight: '700', color: scoreColor, flexShrink: '0' }
         }, String(item.score)));
       }
 
-      const content = el('div', { className: 'list-item-content' });
-
-      // Title with optional link
       if (item.url) {
         const link = el('a', {
           href: item.url,
-          style: { color: 'var(--text-primary)', textDecoration: 'none', fontSize: '0.9rem', fontWeight: '500' },
+          style: { color: 'var(--text-primary)', textDecoration: 'none', fontSize: '0.88rem', fontWeight: '500', lineHeight: '1.3' },
           target: '_blank',
           rel: 'noopener'
         }, item.title || 'Untitled');
         link.addEventListener('mouseenter', () => link.style.color = 'var(--accent-blue)');
         link.addEventListener('mouseleave', () => link.style.color = 'var(--text-primary)');
-        content.appendChild(link);
+        titleRow.appendChild(link);
       } else {
-        content.appendChild(el('div', { className: 'list-item-title' }, item.title || 'Untitled'));
+        titleRow.appendChild(el('span', { style: { fontSize: '0.88rem', fontWeight: '500' } }, item.title || 'Untitled'));
       }
+      content.appendChild(titleRow);
 
-      // Meta: source + why it matters
+      // Meta: source + comments
       const meta = [];
       if (item.source) meta.push(item.source);
+      if (item.reddit_comments) meta.push(`${item.reddit_comments} comments`);
       if (item.why_it_matters) meta.push(item.why_it_matters);
       if (meta.length) {
-        content.appendChild(el('div', { className: 'list-item-meta' }, meta.join(' · ')));
+        content.appendChild(el('div', {
+          style: { fontSize: '0.75rem', color: 'var(--text-muted)', marginTop: '3px' }
+        }, meta.join(' · ')));
       }
       if (item.summary) {
         content.appendChild(el('div', {
-          style: { fontSize: '0.8rem', color: 'var(--text-secondary)', marginTop: '4px' }
+          style: { fontSize: '0.8rem', color: 'var(--text-secondary)', marginTop: '4px', lineHeight: '1.4' }
         }, item.summary));
       }
 
@@ -315,14 +444,10 @@ function renderSettingsTab(container) {
 
 function renderConfigSection(container, title, items, iconName) {
   const section = el('div', { style: { marginBottom: '16px' } });
-  const sIcon = icon(iconName);
-  sIcon.style.width = '16px';
-  sIcon.style.height = '16px';
-  sIcon.style.flexShrink = '0';
   section.appendChild(el('div', {
     style: { display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '8px' }
   }, [
-    sIcon,
+    sIcon(iconName),
     el('span', { style: { fontSize: '0.85rem', fontWeight: '600' } }, title)
   ]));
 
