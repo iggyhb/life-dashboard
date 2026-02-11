@@ -1,0 +1,29 @@
+{
+  "topics": [
+    "Iglesia Católica",
+    "Archidiócesis de Madrid",
+    "Inteligencia Artificial",
+    "Dorothy Day",
+    "Catholic Social Teaching"
+  ],
+  "music": [],
+  "subreddits": [
+    "Catholicism",
+    "ChatGPT",
+    "OpenAI",
+    "Artificial",
+    "ArtificialInteligence",
+    "ChatGPTPro",
+    "AGI",
+    "AIPromptProgramming"
+  ],
+  "rss_feeds": [],
+  "substacks": [],
+  "liturgy": {
+    "enabled": true,
+    "include_fathers": true,
+    "language": "es"
+  },
+  "schedule": "weekly",
+  "max_items_per_section": 10
+}

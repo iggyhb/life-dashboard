@@ -237,14 +237,19 @@ def categorize_posts(all_posts, config):
             'title': post['title'],
             'url': post['url'],
             'source': post['source'],
-            'score': min(100, int(post['score'] / max(1, post['score']) * 50 + post['num_comments'] / max(1, post['num_comments']) * 50)) if post['score'] > 0 else 0,
+            'reddit_score': post['score'],
+            'reddit_comments': post['num_comments'],
+            'score': 0,  # Will be normalized later
             'summary': post['selftext'][:150] if post['selftext'] else '',
             'why_it_matters': '',
         })
 
-    # Sort items in each section by Reddit score
+    # Sort items in each section by combined Reddit score + comments
     for section in sections.values():
-        section['items'].sort(key=lambda x: x.get('score', 0), reverse=True)
+        section['items'].sort(
+            key=lambda x: x.get('reddit_score', 0) + x.get('reddit_comments', 0) * 2,
+            reverse=True
+        )
         max_items = config.get('max_items_per_section', 10)
         section['items'] = section['items'][:max_items]
 
@@ -252,9 +257,15 @@ def categorize_posts(all_posts, config):
     for section in sections.values():
         if not section['items']:
             continue
-        max_score = max(item.get('score', 1) for item in section['items']) or 1
-        for item in section['items']:
-            item['score'] = int((item.get('score', 0) / max_score) * 100)
+        # Use combined reddit_score + comments*2 as the raw signal
+        raw_scores = [
+            item.get('reddit_score', 0) + item.get('reddit_comments', 0) * 2
+            for item in section['items']
+        ]
+        max_raw = max(raw_scores) if raw_scores else 1
+        max_raw = max(max_raw, 1)  # Avoid division by zero
+        for item, raw in zip(section['items'], raw_scores):
+            item['score'] = max(1, int((raw / max_raw) * 100))
 
     return list(sections.values())
 

@@ -1,0 +1,40 @@
+name: Weekly Feed Collector
+
+on:
+  schedule:
+    # Every Monday at 6:00 AM UTC (8:00 AM Madrid time)
+    - cron: '0 6 * * 1'
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  collect-feed:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run feed collector
+        run: python3 scripts/collect_feed.py
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --quiet data/weekly-feed.json && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push updated feed
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/weekly-feed.json
+          git commit -m "Update weekly feed $(date +%Y-%m-%d)"
+          git push
