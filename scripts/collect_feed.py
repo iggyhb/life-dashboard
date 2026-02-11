@@ -14,6 +14,7 @@ No AI tokens needed for this script. AI ranking is optional (separate step).
 import json
 import re
 import sys
+import time
 import urllib.request
 import urllib.error
 from datetime import datetime, timedelta
@@ -175,32 +176,53 @@ def lookup_fathers(fathers_index, reference):
 
 # ── Reddit ──
 
-def fetch_subreddit(subreddit, limit=10):
-    """Fetch top posts from a subreddit (last week)."""
-    try:
-        url = f'https://www.reddit.com/r/{subreddit}/top.json?t=week&limit={limit}'
-        req = urllib.request.Request(url, headers={
-            'User-Agent': 'DashboardCollector/1.0 (personal feed aggregator)'
-        })
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            data = json.loads(resp.read().decode())
+def fetch_subreddit(subreddit, limit=10, retries=2):
+    """Fetch top posts from a subreddit (last week) with retry logic."""
+    url = f'https://www.reddit.com/r/{subreddit}/top.json?t=week&limit={limit}&raw_json=1'
+    headers = {
+        'User-Agent': 'linux:life-dashboard:v1.0 (personal feed aggregator by /u/nachohb)',
+        'Accept': 'application/json',
+    }
 
-        posts = []
-        for child in data.get('data', {}).get('children', []):
-            d = child.get('data', {})
-            posts.append({
-                'title': d.get('title', ''),
-                'url': f"https://reddit.com{d.get('permalink', '')}",
-                'source': f"r/{subreddit}",
-                'score': d.get('score', 0),
-                'num_comments': d.get('num_comments', 0),
-                'created_utc': d.get('created_utc', 0),
-                'selftext': (d.get('selftext', '') or '')[:200],
-            })
-        return posts
-    except Exception as e:
-        print(f"  Warning: Could not fetch r/{subreddit}: {e}")
-        return []
+    for attempt in range(retries + 1):
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=20) as resp:
+                if resp.status == 429:
+                    wait = 5 * (attempt + 1)
+                    print(f"  Rate limited on r/{subreddit}, waiting {wait}s...")
+                    time.sleep(wait)
+                    continue
+                data = json.loads(resp.read().decode())
+
+            posts = []
+            for child in data.get('data', {}).get('children', []):
+                d = child.get('data', {})
+                posts.append({
+                    'title': d.get('title', ''),
+                    'url': f"https://reddit.com{d.get('permalink', '')}",
+                    'source': f"r/{subreddit}",
+                    'score': d.get('score', 0),
+                    'num_comments': d.get('num_comments', 0),
+                    'created_utc': d.get('created_utc', 0),
+                    'selftext': (d.get('selftext', '') or '')[:200],
+                })
+            return posts
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < retries:
+                wait = 5 * (attempt + 1)
+                print(f"  Rate limited on r/{subreddit} (429), waiting {wait}s...")
+                time.sleep(wait)
+                continue
+            print(f"  Warning: HTTP {e.code} fetching r/{subreddit}: {e}")
+            return []
+        except Exception as e:
+            if attempt < retries:
+                time.sleep(2)
+                continue
+            print(f"  Warning: Could not fetch r/{subreddit}: {e}")
+            return []
+    return []
 
 
 def categorize_posts(all_posts, config):
@@ -326,13 +348,29 @@ def main():
     print("[3/3] Fetching Reddit posts...")
     subreddits = config.get('subreddits', [])
     all_posts = []
-    for sub in subreddits:
+    for i, sub in enumerate(subreddits):
+        if i > 0:
+            time.sleep(2)  # Rate limit: 2s between subreddits
         posts = fetch_subreddit(sub, limit=5)
         all_posts.extend(posts)
         if posts:
             print(f"  r/{sub}: {len(posts)} posts")
+        else:
+            print(f"  r/{sub}: 0 posts (blocked or empty)")
 
     sections = categorize_posts(all_posts, config)
+
+    # If Reddit returned nothing, try to keep previous Reddit data
+    if not sections and OUTPUT_PATH.exists():
+        try:
+            with open(OUTPUT_PATH) as f:
+                prev = json.load(f)
+            prev_sections = prev.get('sections', [])
+            if prev_sections:
+                print("  Reddit returned no data. Keeping previous Reddit posts.")
+                sections = prev_sections
+        except Exception:
+            pass
 
     # Build output
     output = {
