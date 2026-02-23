@@ -178,7 +178,7 @@ function renderLiturgyTab(container) {
       style: { fontSize: '0.95rem', color: 'var(--text-secondary)', margin: '20px 0 12px', display: 'flex', alignItems: 'center', gap: '8px' }
     }, [sIcon('book', 18), 'Padres de la Iglesia']));
 
-    // ── Summary overview ──
+    // Group comments by reading reference
     const commentsByReading = {};
     for (const c of liturgy.patristic_comments) {
       const key = c.reading_ref || 'General';
@@ -186,66 +186,122 @@ function renderLiturgyTab(container) {
       commentsByReading[key].push(c);
     }
 
-    // Build a brief overview of what the Fathers say
-    const summaryLines = [];
+    // ── Expandable summary card ──
+    const summaryCard = el('div', { className: 'card', style: {
+      marginBottom: '20px', background: 'rgba(167, 139, 250, 0.06)', borderLeft: '3px solid var(--accent-purple)'
+    }});
+
+    let summaryExpanded = false;
+
+    // Summary header (always visible, clickable)
+    const summaryHeader = el('div', {
+      style: {
+        display: 'flex', alignItems: 'center', justifyContent: 'space-between',
+        padding: '12px 16px', cursor: 'pointer', userSelect: 'none'
+      },
+      onClick: () => {
+        summaryExpanded = !summaryExpanded;
+        summaryBody.style.display = summaryExpanded ? 'block' : 'none';
+        summaryChevron.innerHTML = '';
+        summaryChevron.appendChild(sIcon(summaryExpanded ? 'chevronUp' : 'chevronDown', 14));
+      }
+    });
+    const summaryLeft = el('div', { style: { display: 'flex', alignItems: 'center', gap: '8px' } });
+    summaryLeft.appendChild(el('span', {
+      style: { fontSize: '0.8rem', fontWeight: '600', color: 'var(--accent-purple)' }
+    }, 'Resumen patristico'));
+    // Count total fathers
+    const totalFathers = new Set(liturgy.patristic_comments.map(c => c.father)).size;
+    summaryLeft.appendChild(el('span', {
+      style: { fontSize: '0.7rem', color: 'var(--text-muted)', background: 'var(--bg-secondary)', padding: '2px 8px', borderRadius: '10px' }
+    }, `${totalFathers} autores`));
+    summaryHeader.appendChild(summaryLeft);
+    const summaryChevron = el('div', { style: { color: 'var(--accent-purple)' } });
+    summaryChevron.appendChild(sIcon('chevronDown', 14));
+    summaryHeader.appendChild(summaryChevron);
+    summaryCard.appendChild(summaryHeader);
+
+    // Summary body (hidden by default)
+    const summaryBody = el('div', {
+      style: { display: 'none', padding: '0 16px 12px', fontSize: '0.85rem', color: 'var(--text-secondary)' }
+    });
     for (const [ref, comments] of Object.entries(commentsByReading)) {
-      const fatherNames = comments.map(c => {
-        const f = c.father || '';
-        // Try to extract a recognizable name
-        for (const name of ['Origenes', 'Orígenes', 'Crisostomo', 'Crisóstomo', 'Beda', 'Efren', 'Efrén',
-          'Agustin', 'Agustín', 'Ambrosio', 'Jeronimo', 'Jerónimo', 'Gregorio', 'Basilio',
-          'Cirilo', 'Tertuliano', 'Atanasio', 'Ireneo', 'Clemente', 'Origen', 'Chrysostom',
-          'Augustine', 'Ambrose', 'Jerome', 'Gregory', 'Basil', 'Cyril', 'Tertullian']) {
-          if (f.toLowerCase().includes(name.toLowerCase())) return name;
+      const fatherNames = [...new Set(comments.map(c => c.father || 'Padre de la Iglesia'))];
+      const lineEl = el('div', { style: { marginBottom: '8px' } });
+      lineEl.appendChild(el('div', {
+        style: { fontSize: '0.75rem', fontWeight: '600', color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.3px', marginBottom: '2px' }
+      }, ref));
+      lineEl.appendChild(el('div', {}, fatherNames.join(', ')));
+      summaryBody.appendChild(lineEl);
+    }
+    summaryCard.appendChild(summaryBody);
+    container.appendChild(summaryCard);
+
+    // ── Individual comments grouped by reading ──
+    for (const [ref, comments] of Object.entries(commentsByReading)) {
+      // Reading group header
+      container.appendChild(el('div', {
+        style: {
+          fontSize: '0.75rem', fontWeight: '600', color: 'var(--text-muted)',
+          textTransform: 'uppercase', letterSpacing: '0.5px',
+          margin: '20px 0 10px', padding: '0 0 6px',
+          borderBottom: '1px solid var(--border)',
+          display: 'flex', alignItems: 'center', gap: '6px'
         }
-        return f.length > 40 ? f.substring(0, 40) + '...' : f;
-      });
-      summaryLines.push(`${ref}: ${fatherNames.join(', ')}`);
-    }
+      }, [sIcon('cross', 12), ref]));
 
-    if (summaryLines.length > 0) {
-      const summaryCard = el('div', { className: 'card', style: {
-        marginBottom: '16px', background: 'rgba(167, 139, 250, 0.06)', borderLeft: '3px solid var(--accent-purple)'
-      }});
-      summaryCard.appendChild(el('div', {
-        className: 'card-header',
-        style: { borderBottom: 'none' }
-      }, [
-        el('span', { style: { fontSize: '0.8rem', fontWeight: '600', color: 'var(--accent-purple)' } }, 'Resumen patristico')
-      ]));
-      const summaryBody = el('div', { className: 'card-body', style: { fontSize: '0.85rem', color: 'var(--text-secondary)' } });
-      for (const line of summaryLines) {
-        summaryBody.appendChild(el('div', { style: { marginBottom: '4px' } }, line));
+      for (const comment of comments) {
+        const card = el('div', { className: 'card', style: {
+          marginBottom: '14px', borderLeft: '3px solid var(--accent-purple)',
+          overflow: 'hidden'
+        }});
+
+        // Card header with father name badge and verse ref
+        const header = el('div', {
+          style: {
+            display: 'flex', alignItems: 'center', justifyContent: 'space-between',
+            padding: '10px 14px 8px', borderBottom: '1px solid rgba(167, 139, 250, 0.1)'
+          }
+        });
+
+        // Father name as prominent badge
+        const fatherBadge = el('span', {
+          style: {
+            fontSize: '0.78rem', fontWeight: '700', color: 'var(--accent-purple)',
+            background: 'rgba(167, 139, 250, 0.1)', padding: '3px 10px',
+            borderRadius: '12px', display: 'inline-flex', alignItems: 'center', gap: '4px'
+          }
+        }, [sIcon('book', 12), comment.father || 'Padre de la Iglesia']);
+        header.appendChild(fatherBadge);
+
+        if (comment.verse_ref) {
+          header.appendChild(el('span', {
+            style: {
+              fontSize: '0.68rem', color: 'var(--text-muted)',
+              background: 'var(--bg-secondary)', padding: '2px 8px', borderRadius: '4px'
+            }
+          }, comment.verse_ref));
+        }
+        card.appendChild(header);
+
+        // Title line (if different from father name)
+        if (comment.title && comment.title !== comment.father) {
+          card.appendChild(el('div', {
+            style: {
+              fontSize: '0.82rem', fontWeight: '600', color: 'var(--text-primary)',
+              padding: '8px 14px 0', lineHeight: '1.4'
+            }
+          }, comment.title));
+        }
+
+        // Expandable body text
+        card.appendChild(renderExpandable(comment.text || '', 200, {
+          fontStyle: 'italic', fontSize: '0.84rem', padding: '8px 14px 12px',
+          color: 'var(--text-secondary)', lineHeight: '1.65'
+        }));
+
+        container.appendChild(card);
       }
-      summaryCard.appendChild(summaryBody);
-      container.appendChild(summaryCard);
-    }
-
-    // ── Individual patristic comments with expand/collapse ──
-    for (const comment of liturgy.patristic_comments) {
-      const card = el('div', { className: 'card', style: { marginBottom: '12px', borderLeft: '3px solid var(--accent-purple)' } });
-
-      const header = el('div', { className: 'card-header' });
-      header.appendChild(el('span', {
-        style: { fontSize: '0.8rem', fontWeight: '600', color: 'var(--accent-purple)' }
-      }, comment.father || 'Padre de la Iglesia'));
-
-      const metaRight = el('div', { style: { display: 'flex', alignItems: 'center', gap: '8px' } });
-      if (comment.verse_ref) {
-        metaRight.appendChild(el('span', {
-          style: { fontSize: '0.7rem', color: 'var(--text-muted)', background: 'var(--bg-secondary)', padding: '2px 6px', borderRadius: '4px' }
-        }, comment.verse_ref));
-      }
-      metaRight.appendChild(el('span', {
-        style: { fontSize: '0.7rem', color: 'var(--text-muted)' }
-      }, comment.reading_ref || ''));
-      header.appendChild(metaRight);
-      card.appendChild(header);
-
-      // Expandable text
-      card.appendChild(renderExpandable(comment.text || '', 200, { fontStyle: 'italic' }));
-
-      container.appendChild(card);
     }
   }
 

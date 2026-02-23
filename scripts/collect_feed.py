@@ -94,10 +94,10 @@ def build_readings_list(api_data):
     return readings
 
 
-# ── USCCB Reading Text Scraper ──
+# ── Dominicos.org Spanish Readings Scraper ──
 
-class USCCBParser(HTMLParser):
-    """Simple parser to extract reading text sections from USCCB page."""
+class DominicosParser(HTMLParser):
+    """Parser to extract reading texts from dominicos.org."""
     def __init__(self):
         super().__init__()
         self.sections = {}
@@ -107,56 +107,69 @@ class USCCBParser(HTMLParser):
         self.current_text = []
         self._heading_buf = []
         self.in_script = False
-        self.in_footer = False
 
     def handle_starttag(self, tag, attrs):
-        attrs_dict = dict(attrs)
-        # Stop parsing on script/style/footer regions
         if tag in ('script', 'style', 'noscript'):
             self.in_script = True
             return
-        if tag == 'footer' or (tag == 'div' and 'footer' in attrs_dict.get('class', '')):
-            self.in_footer = True
+        if self.in_script:
             return
-        if self.in_script or self.in_footer:
-            return
-        if tag in ('h3', 'h4'):
+        if tag in ('h2', 'h3', 'h4'):
             self.in_heading = True
             self._heading_buf = []
         if tag == 'br' and self.in_content:
             self.current_text.append('\n')
+        if tag == 'p' and self.in_content:
+            if self.current_text and self.current_text[-1] != '\n':
+                self.current_text.append('\n')
 
     def handle_endtag(self, tag):
         if tag in ('script', 'style', 'noscript'):
             self.in_script = False
             return
-        if self.in_script or self.in_footer:
+        if self.in_script:
             return
-        if tag in ('h3', 'h4') and self.in_heading:
+        if tag in ('h2', 'h3', 'h4') and self.in_heading:
             self.in_heading = False
-            heading = ''.join(self._heading_buf).strip()
+            heading = ''.join(self._heading_buf).strip().lower()
             # Save previous section
             if self.current_section and self.current_text:
                 self.sections[self.current_section] = ''.join(self.current_text).strip()
-            # Start new section if it's a reading heading
-            matched = False
-            for key in ['Reading 1', 'Reading 2', 'Responsorial Psalm', 'Gospel', 'Alleluia']:
-                if key.lower() in heading.lower():
-                    self.current_section = key
-                    self.current_text = []
-                    self.in_content = True
-                    matched = True
-                    break
-            # Stop collecting on unrelated headings
-            if not matched and self.current_section:
-                self.sections[self.current_section] = ''.join(self.current_text).strip()
+            # Detect reading sections
+            if 'primera lectura' in heading:
+                self.current_section = 'primera_lectura'
+                self.current_text = []
+                self.in_content = True
+            elif 'segunda lectura' in heading:
+                self.current_section = 'segunda_lectura'
+                self.current_text = []
+                self.in_content = True
+            elif 'salmo' in heading:
+                self.current_section = 'salmo'
+                self.current_text = []
+                self.in_content = True
+            elif ('evangelio' in heading
+                  and 'suscripci' not in heading and 'vídeo' not in heading
+                  and 'video' not in heading and 'audio' not in heading
+                  and 'reflexi' not in heading
+                  and 'evangelio' not in self.sections):
+                # Only capture evangelio once (skip "Reflexión del Evangelio", etc.)
+                self.current_section = 'evangelio'
+                self.current_text = []
+                self.in_content = True
+            elif self.current_section and (
+                'comentario' in heading or 'reflexi' in heading or 'oración' in heading
+                or 'suscripci' in heading or 'vídeo' in heading or 'video' in heading
+                or 'audio' in heading
+            ):
+                # Stop: we've reached non-reading content
+                if self.current_text:
+                    self.sections[self.current_section] = ''.join(self.current_text).strip()
                 self.current_section = None
                 self.in_content = False
-        if tag == 'p' and self.in_content:
-            self.current_text.append('\n')
 
     def handle_data(self, data):
-        if self.in_script or self.in_footer:
+        if self.in_script:
             return
         if self.in_heading:
             self._heading_buf.append(data)
@@ -170,53 +183,84 @@ class USCCBParser(HTMLParser):
 
 
 def _clean_reading_text(text):
-    """Clean up scraped reading text: remove reference header, excess whitespace."""
-    # Remove leading Bible reference line (e.g. "Mark 7:14-23\n\n")
-    text = re.sub(r'^[\w\d\s]+\d+:\d+[\d\-,\s]*\s*\n\s*', '', text, count=1)
+    """Clean up scraped reading text, removing promotional blocks."""
+    # Remove WhatsApp/email subscription blocks that dominicos.org injects
+    # These typically appear before the actual reading text
+    promo_patterns = [
+        r'Recibirá un único mensaje.*?(?:Políticas de Privacidad[^.]*\.)',
+        r'Suscribirme por (?:Whatsapp|email).*?(?:campanita|email)\.',
+        r'He leído y acepto.*?(?:LOPD|protección de datos)[^.]*\.',
+        r'De conformidad con.*?(?:LOPD|protección)[^.]*\.',
+        r'La Oficina de Comunicación.*?(?:recabados|garantiza)[^.]*\.',
+    ]
+    for pattern in promo_patterns:
+        text = re.sub(pattern, '', text, flags=re.DOTALL | re.IGNORECASE)
+
+    # Try to find the actual reading start markers
+    reading_markers = [
+        'Lectura del santo', 'Lectura del libro', 'Lectura de la carta',
+        'Lectura de la profecía', 'Lectura del profeta',
+        'Del libro', 'Del salmo',
+        'En aquel tiempo', 'En aquellos días',
+        'Dichosos los que', 'Encomienda tu camino',
+        'Cuando el rey', 'Así dice el Señor',
+    ]
+    for marker in reading_markers:
+        idx = text.find(marker)
+        if idx > 0:
+            text = text[idx:]
+            break
+
     # Collapse excessive whitespace
     text = re.sub(r'[ \t]+', ' ', text)
     text = re.sub(r'\n{3,}', '\n\n', text)
+    text = re.sub(r'^\s*\n', '', text)
     text = text.strip()
     return text
 
 
-def fetch_reading_texts(usccb_url):
-    """Scrape actual reading texts from the USCCB daily readings page."""
+def fetch_reading_texts_es(date_str):
+    """Fetch Spanish reading texts from dominicos.org."""
     try:
-        req = urllib.request.Request(usccb_url, headers={
+        # URL format: DD-M-YYYY (no leading zero on month)
+        d = datetime.strptime(date_str, '%Y-%m-%d')
+        url_date = f'{d.day}-{d.month}-{d.year}'
+        url = f'https://www.dominicos.org/predicacion/evangelio-del-dia/{url_date}/'
+        print(f"  Fetching Spanish readings from dominicos.org...")
+
+        req = urllib.request.Request(url, headers={
             'User-Agent': 'Mozilla/5.0 (compatible; LifeDashboard/1.0)'
         })
         with urllib.request.urlopen(req, timeout=20) as resp:
             html = resp.read().decode('utf-8', errors='replace')
 
-        parser = USCCBParser()
+        parser = DominicosParser()
         parser.feed(html)
         sections = parser.get_results()
 
-        # Clean up text
         cleaned = {}
         for key, text in sections.items():
             text = _clean_reading_text(text)
-            if text and len(text) > 20:  # Ignore tiny fragments
+            if text and len(text) > 20:
                 cleaned[key] = text
         return cleaned
     except Exception as e:
-        print(f"  Warning: Could not fetch USCCB texts: {e}")
+        print(f"  Warning: Could not fetch Spanish readings: {e}")
         return {}
 
 
-def attach_reading_texts(readings, usccb_texts):
-    """Match USCCB scraped sections to our reading objects."""
-    type_to_usccb = {
-        'first_reading': 'Reading 1',
-        'psalm': 'Responsorial Psalm',
-        'second_reading': 'Reading 2',
-        'gospel': 'Gospel',
+def attach_reading_texts(readings, es_texts):
+    """Match scraped Spanish sections to our reading objects."""
+    type_map = {
+        'first_reading': 'primera_lectura',
+        'psalm': 'salmo',
+        'second_reading': 'segunda_lectura',
+        'gospel': 'evangelio',
     }
     for reading in readings:
-        usccb_key = type_to_usccb.get(reading['type'], '')
-        if usccb_key and usccb_key in usccb_texts:
-            reading['text'] = usccb_texts[usccb_key]
+        key = type_map.get(reading['type'], '')
+        if key and key in es_texts:
+            reading['text'] = es_texts[key]
 
 
 # ── Patristic Comments Lookup ──
@@ -249,6 +293,63 @@ def parse_reference(ref_str):
     return None
 
 
+# Known Church Fathers - Spanish and English names mapped to Spanish display names
+FATHERS_MAP = {
+    'orígenes': 'Orígenes', 'origenes': 'Orígenes', 'origen': 'Orígenes',
+    'crisóstomo': 'San Juan Crisóstomo', 'crisostomo': 'San Juan Crisóstomo', 'chrysostom': 'San Juan Crisóstomo',
+    'beda': 'San Beda', 'bede': 'San Beda',
+    'efrén': 'San Efrén', 'efren': 'San Efrén', 'ephrem': 'San Efrén',
+    'agustín': 'San Agustín', 'agustin': 'San Agustín', 'augustine': 'San Agustín',
+    'ambrosio': 'San Ambrosio', 'ambrose': 'San Ambrosio',
+    'jerónimo': 'San Jerónimo', 'jeronimo': 'San Jerónimo', 'jerome': 'San Jerónimo',
+    'gregorio': 'San Gregorio', 'gregory': 'San Gregorio',
+    'basilio': 'San Basilio', 'basil': 'San Basilio',
+    'cirilo': 'San Cirilo', 'cyril': 'San Cirilo',
+    'tertuliano': 'Tertuliano', 'tertullian': 'Tertuliano',
+    'atanasio': 'San Atanasio', 'athanasius': 'San Atanasio',
+    'ireneo': 'San Ireneo', 'irenaeus': 'San Ireneo',
+    'clemente': 'San Clemente', 'clement': 'San Clemente',
+    'juan de damasco': 'San Juan Damasceno', 'john of damascus': 'San Juan Damasceno',
+    'hilario': 'San Hilario', 'hilary': 'San Hilario',
+    'león': 'San León Magno', 'leo': 'San León Magno',
+    'cipriano': 'San Cipriano', 'cyprian': 'San Cipriano',
+}
+
+
+def _extract_father_name(text):
+    """Extract a Church Father name from patristic comment text."""
+    text_lower = text.lower()
+    # Search for known father names in the first 400 chars
+    search_zone = text_lower[:400]
+    for key, display in FATHERS_MAP.items():
+        if key in search_zone:
+            return display
+    return ''
+
+
+def _clean_patristic_text(text):
+    """Clean patristic text: remove English bibliographic references, etc."""
+    # Remove bibliographic references in brackets like [NPNF 2 13: 295.], [FC 94: 158.]
+    text = re.sub(r'\[(?:NPNF|ANF|FC|CS|TLG|CETEDOC|CCL|PG|PL|SC|GCS|CSEL|CTP)\s*[\d:.,\s*\-]+\]', '', text)
+    # Remove other English bibliographic refs like [Jerome Nom. Hebr. (CCL 72.144.3).]
+    text = re.sub(r'\[\w+\s+\w+\s*\.\s*\w+\s*\.\s*\([^)]+\)\s*\.?\]', '', text)
+    # Remove inline verse references like [ Joh_6: 35 .], [ Mar_7: 15 .]
+    text = re.sub(r'\[\s*(?:Cf\.\s*)?[A-Z][a-z]{2}_\d+:\s*\d+[^]]*\]', '', text)
+    # Remove [Ver ...] and [Esta es ...] editorial notes
+    text = re.sub(r'\[(?:Ver|See|Esta es|Cf\.)[^]]{0,150}\]', '', text)
+    # Replace common English words left from imperfect translation
+    replacements = {
+        'Broken': 'roto',
+        'broken': 'roto',
+    }
+    for eng, esp in replacements.items():
+        text = text.replace(eng, esp)
+    # Clean up spacing artifacts from removals
+    text = re.sub(r'\s{2,}', ' ', text)
+    text = re.sub(r'\n\s*\n\s*\n', '\n\n', text)
+    return text.strip()
+
+
 def lookup_fathers(fathers_index, reference):
     """
     Look up patristic comments for a Bible reference.
@@ -278,21 +379,28 @@ def lookup_fathers(fathers_index, reference):
         # Check overlap
         if e_start <= end_verse and e_end >= start_verse:
             text = entry.get('text', '')
-            # Extract the author from the text (usually "AuthorName: ..." pattern)
+
+            # Clean patristic text
+            text = _clean_patristic_text(text)
+
+            # Extract title (first line) and author name
+            title = ''
             father = 'Padre de la Iglesia'
-            author_match = re.match(r'^(.+?(?:Agustín|Crisóstomo|Orígenes|Ambrosio|Jerónimo|Gregorio|Basilio|Cirilo|Efrén|Tertuliano|Atanasio|Ireneo|Clemente|Augustine|Chrysostom|Origen|Ambrose|Jerome|Gregory|Basil|Cyril|Ephrem|Tertullian|Athanasius|Irenaeus|Clement)[\w\s]*?)[:.]', text[:200])
-            if author_match:
-                father = author_match.group(1).strip()
-            else:
-                # Try simpler pattern: first sentence as title
-                first_line = text.split('\n')[0][:100] if text else ''
-                if first_line:
-                    father = first_line
+            lines = text.split('\n')
+            if lines:
+                title = lines[0].strip()
+
+            # Find the actual Church Father name in the text
+            father = _extract_father_name(text) or title
+
+            # Remove the title from the body text if it's duplicated
+            body = '\n'.join(lines[1:]).strip() if len(lines) > 1 else text
 
             comments.append({
                 'reading_ref': reference,
+                'title': title[:120],
                 'father': father[:100],
-                'text': text[:2000],  # Full text for expand/collapse view
+                'text': body[:2000],
                 'verse_ref': entry_ref,
             })
 
@@ -473,18 +581,16 @@ def main():
 
         print(f"  Found {len(readings)} readings")
 
-        # Fetch actual reading text from USCCB
-        usccb_link = api_data.get('usccbLink', '') if api_data else ''
-        if usccb_link and readings:
-            print(f"  Fetching reading texts from USCCB...")
-            usccb_texts = fetch_reading_texts(usccb_link)
-            if usccb_texts:
-                attach_reading_texts(readings, usccb_texts)
+        # Fetch reading texts in Spanish from dominicos.org
+        if readings:
+            es_texts = fetch_reading_texts_es(date_str)
+            if es_texts:
+                attach_reading_texts(readings, es_texts)
                 for r in readings:
                     has_text = '✓' if r.get('text') else '✗'
-                    print(f"    {r['reference']}: text {has_text}")
+                    print(f"    {r['reference']}: texto {has_text}")
             else:
-                print("    Could not scrape USCCB texts")
+                print("    No se pudieron obtener los textos en español")
 
         # 2. Patristic comments
         if config.get('liturgy', {}).get('include_fathers', True) and readings:
