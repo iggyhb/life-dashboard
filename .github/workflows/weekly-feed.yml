@@ -1,9 +1,9 @@
-name: Weekly Feed Collector
+name: Daily Feed Collector
 
 on:
   schedule:
-    # Every Monday at 6:00 AM UTC (8:00 AM Madrid time)
-    - cron: '0 6 * * 1'
+    # Every day at 6:00 AM UTC (8:00 AM Madrid time)
+    - cron: '0 6 * * *'
   workflow_dispatch:  # Allow manual trigger
 
 permissions:
@@ -36,5 +36,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/weekly-feed.json
-          git commit -m "Update weekly feed $(date +%Y-%m-%d)"
+          git commit -m "Update daily feed $(date +%Y-%m-%d)"
           git push
