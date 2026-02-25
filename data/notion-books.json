@@ -1,0 +1,4187 @@
+{
+  "meta": {
+    "version": 1,
+    "source": "notion-import",
+    "created": "2026-02-25T11:34:11.437815"
+  },
+  "books": [
+    {
+      "notionUrl": "e18b3522",
+      "title": "Discerning the will of God",
+      "autor": [
+        "Timothy M. Gallagher"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "2baaefab-3e97-40e3-ad1e-380e247f650f",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/12885532-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.435939",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "63d82f22",
+      "title": "The World's First Love",
+      "autor": [
+        "Fulton J. Sheen"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "08a908a9-befc-474e-a8a8-14b30c1700b3",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/698276-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.435974",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "74ebdfbe",
+      "title": "The Fathers Know Best",
+      "autor": [
+        "Jimmy Akin"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "4741ba79-c9b9-4260-b81f-6b930b8ff912",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8328147-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.435996",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "f315d4bb",
+      "title": "Socrates' Children Vol III",
+      "autor": [
+        "Peter Kreeft"
+      ],
+      "estado": "Wishlist Verano 2023",
+      "tipo": "Cultura",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Historia de la filosofía",
+        "Filosofía"
+      ],
+      "id": "4fba7c09-5710-4dbf-b51e-f9d52e9518ba",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436071",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "22183bca",
+      "title": "Diario de un exorcista",
+      "autor": [
+        "Gabriele Amorth"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "389eda67-9858-4792-9d2e-88cadf419a21",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436079",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "86cee524",
+      "title": "El santo cura de Ars",
+      "autor": [
+        "Jean de Fabregues"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐",
+      "anoLeido": "2021",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "f8174ac2-20e8-484c-a9f1-d91b06152196",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13734157-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436085",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "2c4c77b0e7f48056a27c979105",
+      "title": "Elijah in Jerusalem",
+      "autor": [
+        "Michael D. O'Brien"
+      ],
+      "estado": "Leído",
+      "tipo": "Cultura",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2025",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [
+        "Kindle"
+      ],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 1,
+      "tags": [],
+      "id": "625fa999-5ed1-4847-b9cf-ba35cd902bd4",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436091",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "080bb4bf",
+      "title": "Iniciación a la Vida Espiritual",
+      "autor": [
+        "André Louf"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "2022",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "32cd5503-9e83-4539-b782-61dccba933cc",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13634475-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436096",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "b6b5a759",
+      "title": "Vida Ignacio de loyola",
+      "autor": [
+        "Pedro De Ribadeneyra"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "ca652b2b-ddd9-43b2-84da-8e74087da7e0",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436102",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "2b41a9dc",
+      "title": "Vida de Bernardita",
+      "autor": [
+        "René Laurentin"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐",
+      "anoLeido": "2023",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "b167ebc9-7aa6-41d4-94e2-4527890fac8b",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13703425-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436107",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "3f387524",
+      "title": "Introducción a la vida de oración",
+      "autor": [
+        "Romano Guardini"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐",
+      "anoLeido": "2022",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "a34da90e-f9d6-47dc-be1c-41c016f7dea1",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13507708-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436114",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "13b57d13",
+      "title": "El combate espiritual",
+      "autor": [
+        "P. Lorenzo Scúpoli"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "7c8cf157-4946-4952-9d28-273e947ee4d3",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436119",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "07c813dc",
+      "title": "Vida de Jesús",
+      "autor": [
+        "Francisco Fernández-Carvajal"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "98e81523-f755-43d1-8bce-9ea04a59ce14",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13506883-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436125",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "c3073157",
+      "title": "Llamados a la vida",
+      "autor": [
+        "Jacques Philippe"
+      ],
+      "estado": "Matar",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "a4d65c4f-073c-46a8-aa61-e67504bbfdda",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13733520-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436130",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "cdfc1a99",
+      "title": "Veinticuatro horas en la vida de una mujer",
+      "autor": [
+        "Stefan Zweig"
+      ],
+      "estado": "Leído",
+      "tipo": "Cultura",
+      "calificacion": "⭐⭐⭐⭐",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "831706ed-cded-458e-8045-a69f5679b3c5",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/10688298-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436136",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "eb57b6cc",
+      "title": "The Cantata Of Love",
+      "autor": [
+        "Blaise Arminjon"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "4cfcd56a-844b-4ccd-929f-ceea361940db",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/4130813-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436141",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "5c9951be",
+      "title": "Father Elijah: An Apocalypse",
+      "autor": [
+        "Michael D. O'Brien"
+      ],
+      "estado": "Leído",
+      "tipo": "Cultura",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2022",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "3dc169ea-73e8-49fe-ae16-57849420c09d",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436146",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "f725de08",
+      "title": "Padre Pio: Man of Hope",
+      "autor": [
+        "Renzo Allegri"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "8678e5a0-3e3a-4be6-887f-a079c8d97657",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436152",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "5dd4890f",
+      "title": "The Four Loves",
+      "autor": [
+        "C. S. Lewis"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐",
+      "anoLeido": "2023",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "07fc7f01-1cd5-444a-a500-69c0b6bbc4fa",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/9321672-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436173",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "67816e38",
+      "title": "Kristin Lavransdatter",
+      "autor": [
+        "Sigrid Undset"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Cultura",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "41dff2e3-1c0e-42c6-bc2e-7727f8d27378",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/212758-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436277",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "949fc957",
+      "title": "Christianity and Politics",
+      "autor": [
+        "C. C. Pecknold"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "eb68c9fe-c5bb-4835-90da-a66d4ca64136",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13263495-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436294",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "1e7c77b0e7f480c2",
+      "title": "Gaudete et exsultate",
+      "autor": [
+        "Papa Francisco"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2025",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "e21f9989-ed9b-4fd0-8e37-f5241576f1e6",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13506975-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436302",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "2c4c77b0e7f4809d",
+      "title": "Humanae Vitae",
+      "autor": [
+        "Papa Pablo VI"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2025",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "49fff9f2-f7d3-409a-86cb-619391ad5660",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436308",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "2c4c77b0-e7f4-803f-a917-fde839244503",
+      "title": "Laudato Si'",
+      "autor": [
+        "Papa Francisco"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2025",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 1,
+      "tags": [],
+      "id": "53646db6-508d-4d9f-a429-de09be23a1e4",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/15088345-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436315",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "9365bea0",
+      "title": "The Cloud of Unknowing",
+      "autor": [
+        "Anónimo"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "db7b7584-1956-40a3-af06-425883508092",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/9127499-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436320",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "2c4c77b0e7f48075a27b",
+      "title": "Obras Completas San Rafael Arnaiz",
+      "autor": [
+        "San Rafael Arnaiz"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐",
+      "anoLeido": "2024",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "9593e946-bfe2-4057-8515-73422a034012",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436325",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "2c4c77b0e7f48075b4c1",
+      "title": "Sólo quien ama canta",
+      "autor": [
+        "Josef Pieper"
+      ],
+      "estado": "Leído",
+      "tipo": "Cultura",
+      "calificacion": "⭐⭐⭐",
+      "anoLeido": "2025",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "499c3b83-cb18-412b-8d87-9481bc578b39",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13729309-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436330",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "24bbaa66-bcd5-44d0-b460-402e8a5cb95b",
+      "title": "La sombra del padre",
+      "autor": [
+        "Jan Dobraczynski"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐",
+      "anoLeido": "2023",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "dbdc197c-262b-4ee7-b490-d1927792719a",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436336",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "68104cbf",
+      "title": "Entusiasmo",
+      "autor": [
+        "Pablo d'Ors"
+      ],
+      "estado": "Leído",
+      "tipo": "Cultura",
+      "calificacion": "⭐⭐",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "ea95b93e-b17d-4781-9202-04544fe8dd98",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8070857-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436341",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "3e217f69",
+      "title": "My Heart Will Triumph",
+      "autor": [
+        "Mirjana Soldo"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "57fd6949-56a0-4191-a53b-7f8afb2f8c2c",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/9372101-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436346",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "97d43791-eb6e-4501-bcec-00825995e9c9",
+      "title": "Relics and Miracles",
+      "autor": [
+        "Sergius Bulgakov"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "86c775b0-ac3a-48dd-8d9b-106e4af544dc",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436411",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "17460252-dc06-404c-b955-2d8e38ded19b",
+      "title": "The Cries of Jesus from the Cross",
+      "autor": [
+        "Fulton J. Sheen"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "28f457e6-408c-4559-b6ab-3a5ddd39852d",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436445",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "d0b84d0d",
+      "title": "How to Profit from Your Faults",
+      "autor": [
+        "Claude-Joseph Tissot"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "d470780c-7ebc-48c4-89f1-be8cf7afd6c4",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436461",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "13e3a36a",
+      "title": "La Paz Interior",
+      "autor": [
+        "Jacques Philippe"
+      ],
+      "estado": "Por leer",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "1a233e71-3ef8-436d-b46b-667029d709c6",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/3326550-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436467",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "296e3a4e-bf19-4792-88d1-e12e0c9f4ab9",
+      "title": "La confianza en Dios",
+      "autor": [
+        "Jacques Philippe"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2016",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 2,
+      "tags": [],
+      "id": "76e3ddea-31b6-4ba2-9df7-44a951a60397",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436472",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "996cf966",
+      "title": "El Asistente Interior",
+      "autor": [
+        "Norberto Levy"
+      ],
+      "estado": "Por leer",
+      "tipo": "Autoayuda",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "d850df36-8d28-4aed-bc6b-42bae14136d2",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/9242601-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436478",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "47fb761b",
+      "title": "Las moradas del castillo interior",
+      "autor": [
+        "Santa Teresa de Ávila"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "76509602-a0c1-413c-b08d-8de33a74f6c9",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436483",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "fe8f3edb-4703-4098-9a3d-c529a87bb23f",
+      "title": "La oración, camino de amor",
+      "autor": [
+        "Jacques Philippe"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2021",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "9505129f-c9c9-411c-b3d3-963fe3cc9908",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13733362-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436488",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "1e810b65-6d9e-4e6c-8384-f174595576d2",
+      "title": "Los defectos de los santos",
+      "autor": [
+        "Jesús Urteaga Loidi"
+      ],
+      "estado": "Por leer",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "03377030-4de2-459c-a788-c954da5fca66",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/15116048-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436518",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "a90e08d4-4efe-4fd7-9347-02ae5775c962",
+      "title": "En la Escuela del Espíritu Santo",
+      "autor": [
+        "Jacques Philippe"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐",
+      "anoLeido": "2021",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "307ec73f-e337-4093-9d9d-791599ef9344",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/3326554-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436524",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "9d309699-c95c-424c-8068-6a586ef48847",
+      "title": "Historia de la Filosofía Vol 1",
+      "autor": [
+        "Frederick Copleston"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Cultura",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "16b8c964-16c0-4c52-a79a-efc7543124df",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436530",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "663fd212",
+      "title": "Historia de un alma",
+      "autor": [
+        "Santa Teresa de Lisieux"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "67f86f29-bc05-41e3-b6e7-75f5e01af4e8",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436535",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "9ca27abb",
+      "title": "Historia breve del cristianismo",
+      "autor": [
+        "José Orlandis"
+      ],
+      "estado": "Por leer",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "377a9457-b6d0-47bf-ae0b-aff9dfdd3539",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/899273-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436540",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "c98ff950-429b-4408-bf95-02d967f2a244",
+      "title": "El Sentido Religioso",
+      "autor": [
+        "Luigi Giussani"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "edcba8a9-fb98-4718-aacf-e4bec2b8d21c",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/10415417-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436545",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "569f45bf",
+      "title": "Catecismo de la Iglesia Católica",
+      "autor": [],
+      "estado": "Por leer",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "b2d0a5c4-7b3d-4bde-920e-527933a0a389",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13550323-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436551",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "93e5d624-567d-4709-b99f-5e8edaf79d23",
+      "title": "Fe y Ciencia",
+      "autor": [
+        "Benedicto XVI"
+      ],
+      "estado": "Por leer",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "cee6668f-d660-40c6-ad50-efa3cb1066f5",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13555084-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436556",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "93d785ed",
+      "title": "La fe explicada",
+      "autor": [
+        "Leo J. Trese"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "a216e95c-37c7-4741-8567-f50e0fd5ee8c",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436561",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "7501a370-38da-4208-b2a3-f97ba3c8a85c",
+      "title": "Dei Verbum",
+      "autor": [],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "2023",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [
+        "Daily"
+      ],
+      "multiSelect": [
+        "UESD"
+      ],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "f7b8fbe9-1214-4af0-be31-cd55ebc1f7db",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/5653464-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436573",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "644fa655",
+      "title": "Mere Christianity",
+      "autor": [
+        "C. S. Lewis"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐",
+      "anoLeido": "2020",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "07671205-f02c-456e-a808-ec8198cb57b7",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/6538891-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436602",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "7f2526b4-4abf-4787-a764-4205267ea22e",
+      "title": "Christianity for Modern Pagans",
+      "autor": [
+        "Peter Kreeft"
+      ],
+      "estado": "Por leer",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "1fb8e203-a873-48cf-813c-66445bf481cb",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/698191-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436609",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "bbc9667f-92d4-4531-b6e2-bf58d3799c7c",
+      "title": "FATHERS OF THE CHURCH",
+      "autor": [
+        "Mike Aquilina"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "1eb8edac-9dd3-40fa-925e-097e37b07c28",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/868978-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436634",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "622bffe0-093f-41ab-b560-bd66c59c85fe",
+      "title": "Handbook of Catholic Apologetics",
+      "autor": [
+        "Peter Kreeft"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "39073582-d0a5-4948-a131-cbfe412a28a3",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/14378466-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436640",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "d158fcb4-9e38-4d60-bea4-c764f6896292",
+      "title": "Catholic Apologetics Today",
+      "autor": [
+        "William G. Most"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "6ddb6cc5-8e2a-4510-804d-2ee34b58c6b5",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436647",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "150f2706",
+      "title": "Pío XII y La Segunda Guerra Mundial",
+      "autor": [
+        "Pierre Blet"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Cultura",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "60c1ed4b-81f5-48d6-bdbb-029496e2533c",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13941931-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436653",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "1c9f86ac-884c-40c1-bbc2-18268a6d9469",
+      "title": "Personas altamente sensibles",
+      "autor": [
+        "Rafael Pardo"
+      ],
+      "estado": "Leído",
+      "tipo": "Autoayuda",
+      "calificacion": "⭐⭐⭐⭐",
+      "anoLeido": "2021",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "6bb5b56b-dbe3-48e5-afb4-d25ca13a0656",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/14007486-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436659",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "77342f01",
+      "title": "El secreto mejor guardado de Fátima",
+      "autor": [
+        "José María Zavala"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "2b1d9782-9964-4ecd-9a85-0eefe25478fe",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/14156068-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436666",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "d58e1081",
+      "title": "Confesiones",
+      "autor": [
+        "San Agustín"
+      ],
+      "estado": "Next in line",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [
+        "Físico"
+      ],
+      "trozeable": [],
+      "multiSelect": [
+        "UESD",
+        "Personal"
+      ],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "72fd6dfd-b270-4169-9b94-45bc25d7ce0b",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/3348754-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436671",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "51f4594d-e8c0-4654-aa73-8243162830f6",
+      "title": "La Misa: Antes, después y durante",
+      "autor": [
+        "José Pedro Manglano"
+      ],
+      "estado": "Leyendo",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "25335e9f-bd7a-493a-870a-5802265df1b8",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436677",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "fd1f5e42-0e13-458d-8ed9-02fa9e7b8699",
+      "title": "Treasure and Tradition",
+      "autor": [
+        "Lisa Bergman"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "c6b1a574-b8f5-4104-8999-1a42cbfc2e0c",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/11233244-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436682",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "2c5086ff-dceb-4beb-8a1b-6293819e7f4b",
+      "title": "BEHOLD YOUR MOTHER",
+      "autor": [
+        "Tim Staples"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "f89b8385-1aba-4f76-aeda-08d4d69a07d6",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8874070-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436687",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "6e3b1305-71e3-41f4-9645-2da16bdc7a72",
+      "title": "Consecration to St. Joseph",
+      "autor": [
+        "Donald H. Calloway"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐",
+      "anoLeido": "2023",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "d229340e-e2bf-4ca0-962d-ea5e41117111",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13685641-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436693",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "4319fa53-1e5c-4599-94e8-970af244acdb",
+      "title": "Spiritual Consolation",
+      "autor": [
+        "Timothy M. Gallagher"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "d1fd0fe2-ed23-4e43-9869-1bd01ab41e71",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/1562896-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436698",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "070b0598-ede9-4708-a4ac-6a088141f923",
+      "title": "The Life of St. Catherine of Siena",
+      "autor": [
+        "Raymond Of Capua"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "a008d2eb-615f-47a4-b117-a867713a4cc7",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/694468-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436703",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "2c4c77b0-e7f4-808b-8666-ccf8b6ac598c",
+      "title": "The Creative Act",
+      "autor": [
+        "Rick Rubin"
+      ],
+      "estado": "Leído",
+      "tipo": "Cultura",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2025",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [
+        "Audiolibro"
+      ],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 1,
+      "tags": [],
+      "id": "1fe2564d-47e3-45b9-b861-3b72247caf33",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13316390-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436708",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "2f7bd05f-03e5-4ffc-819d-70d584e88512",
+      "title": "The Everyday Catholic's Guide to the Liturgy of the Hours",
+      "autor": [
+        "Daria Sockey"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2021",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "e6748e7b-7b6d-49c0-8dc9-4e54b5193c97",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/9025107-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436714",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "6a91f6f7-00b6-45b5-a536-882548a3e73a",
+      "title": "The Spirit of the Liturgy",
+      "autor": [
+        "Benedicto XVI"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "15227b64-0aaf-484d-a1c6-afc0ad9cdd3b",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8108314-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436745",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "98d72a17",
+      "title": "El Discernimiento",
+      "autor": [
+        "Marko Rupnik"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "7e3eda73-fe38-457c-a2fd-520025a4cb2d",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13678970-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436751",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "b96fcc5c-3fea-46cb-a6f1-7b11e4647758",
+      "title": "The Fellowship of The Ring",
+      "autor": [
+        "J. R. R. Tolkien"
+      ],
+      "estado": "Interrumpido",
+      "tipo": "Cultura",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "d209bcb3-e0d1-4399-b820-5774840c09dc",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/14627060-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436757",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "2c4c77b0-e7f4-802a-9754-fa4b77cd2876",
+      "title": "Out of the Silent Planet",
+      "autor": [
+        "C. S. Lewis"
+      ],
+      "estado": "Leído",
+      "tipo": "Cultura",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2025",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [
+        "Audiolibro"
+      ],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "90b2b2e2-e8e1-443c-80c8-0b64e11040db",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/9321665-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436763",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "76fc9d70-9ce9-48e0-a04f-1c35a8abcd0b",
+      "title": "Ben-Hur: A Tale of The Christ",
+      "autor": [
+        "Lew Wallace"
+      ],
+      "estado": "Leído",
+      "tipo": "Cultura",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2020",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "36bac6e2-0d35-43b2-aeec-f0800c068082",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/12359569-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436768",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "9aaebcbf",
+      "title": "Quo Vadis",
+      "autor": [
+        "Henryk Sienkiewicz"
+      ],
+      "estado": "Leído",
+      "tipo": "Cultura",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "542180af-6b06-43e8-90ad-54493df1ce0b",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/833096-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436773",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "761ec396-4889-49eb-b442-fc3f76712d8f",
+      "title": "The Return of the Prodigal Son",
+      "autor": [
+        "Henri J.M. Nouwen"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "33fc75cc-7aeb-4929-8e46-49f6ae8a5724",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/240748-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436851",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "a636e22f-1c1d-463a-8ac0-1ea80964fadd",
+      "title": "Theology of the body for beginners",
+      "autor": [
+        "Christopher West"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐",
+      "anoLeido": "2021",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "43a429d7-6537-418e-871a-300ee4e390aa",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/960224-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436859",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "950fa904-b02d-4710-b01e-13dbbb437d55",
+      "title": "Filosofía Mínima",
+      "autor": [
+        "José Ramón Ayllón"
+      ],
+      "estado": "Por leer",
+      "tipo": "Cultura",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "efdeea6f-2233-4e48-bb10-dbecf71523e1",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/11125148-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436864",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "e4bb2914",
+      "title": "Cristoterapia",
+      "autor": [
+        "José María García Castro"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐",
+      "anoLeido": "2023",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "271783e4-88e9-4dd1-a293-7249e371de16",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436869",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "f4c2b3c8",
+      "title": "Make It Stick",
+      "autor": [
+        "Peter C. Brown"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Autoayuda",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "3ce77daf-aea5-46f4-a55b-8af01b4bc2d4",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8188891-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436874",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "b25677a5",
+      "title": "Deep Work",
+      "autor": [
+        "Cal Newport"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Autoayuda",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "a0a8296b-c35c-4c70-9e96-6abc37e01954",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/7988607-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436879",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "2428d104",
+      "title": "The 7 Habits of Highly Effective People",
+      "autor": [
+        "Franklin Covey"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Autoayuda",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "32269975-d365-4ffb-aedd-335825f9db33",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436887",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "d4f0f964-3a68-4b3c-8122-5709d3960597",
+      "title": "La Divina Misericordia en mi alma",
+      "autor": [
+        "Santa Faustina Kowalska"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2022",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "ecc6d9b7-32cd-4e33-afdf-069f0e1d0922",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/1684269-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436892",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "e665651c-cc55-4c13-96de-392bbd7799b1",
+      "title": "El alma de todo apostolado",
+      "autor": [
+        "J. B. Chautard"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2020",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 1,
+      "tags": [],
+      "id": "14c73197-d878-4c4e-aaa6-1bda4019ea6c",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436898",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "fbd7d9aa-2a09-474f-ad47-20eebba76e0d",
+      "title": "Answering Atheism",
+      "autor": [
+        "Trent Horn"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐",
+      "anoLeido": "2021",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "379a9eed-907f-4cb9-bc06-45018e688a2b",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/9033294-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436903",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "de4476c3-ba30-407d-b1a5-d60a51d09402",
+      "title": "Retorno a Brideshead",
+      "autor": [
+        "Evelyn Waugh"
+      ],
+      "estado": "Leído",
+      "tipo": "Cultura",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2021",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "e91950fe-180c-42e8-8835-890349d3b215",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13463382-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436908",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "4a35a757-f7fe-4773-af31-4f0b47047c30",
+      "title": "Santo Rosario",
+      "autor": [
+        "San Josemaría Escrivá"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "4768ab2f-43eb-471f-a744-520ce2aca686",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436913",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "2c4c77b0e7f480e9",
+      "title": "Esperanza",
+      "autor": [
+        "Papa Francisco"
+      ],
+      "estado": "Leído",
+      "tipo": "Cultura",
+      "calificacion": "⭐⭐⭐⭐",
+      "anoLeido": "2025",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "3d5993b2-f5fd-44db-9f87-2a65fc91481b",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436919",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "d813535c-c6f0-422c-985e-fb4908afaacd",
+      "title": "CASE FOR JESUS",
+      "autor": [
+        "Brant Pitre"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "99f702cc-02f0-474f-86be-d992202259c3",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/15144842-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436924",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "9156f9d0-785f-4ebd-8fa6-babd1de65935",
+      "title": "El Evangelio De María",
+      "autor": [
+        "Gabriele Amorth"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "8e0dd3f6-34c1-4e54-a24c-970970d8f20e",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436953",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "db1421ac",
+      "title": "Rome Sweet Home",
+      "autor": [
+        "Scott Hahn"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "b7ac7644-c496-42db-8eaa-7b5927baac80",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/698202-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436985",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "d76fdcfd-8160-4790-b150-4e7c310d57fe",
+      "title": "Rome And The Eastern Churches",
+      "autor": [
+        "Aidan Nichols"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "536231a6-b839-4d9a-baed-a25adebba889",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/12143962-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436992",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "8713fb42-d622-4e99-9d63-2159987fb80f",
+      "title": "Socrates' Children Vol I",
+      "autor": [
+        "Peter Kreeft"
+      ],
+      "estado": "Wishlist Verano 2023",
+      "tipo": "Cultura",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Historia de la filosofía",
+        "Filosofía"
+      ],
+      "id": "a3f22658-60e2-4bfe-a317-90dba84fd892",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.436997",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "e5b3dcb4-881d-40ba-9ad8-acbe7fab8bb2",
+      "title": "Amor y Responsabilidad",
+      "autor": [
+        "San Juan Pablo II"
+      ],
+      "estado": "Por leer",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "2e0f4194-3449-40d8-b38b-dda8500bbdf8",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437003",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "b634ceff-9901-4d8a-8b03-9fe080be3793",
+      "title": "Corazón de Piedra Verde",
+      "autor": [
+        "Salvador de Madariaga"
+      ],
+      "estado": "Por leer",
+      "tipo": "Cultura",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "1c5cc2ae-1362-46bd-be63-27d5a7886ae3",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/5490665-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437008",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "75e67bdc-29ab-4437-80d5-d0b7dec20834",
+      "title": "A Canticle for Leibowitz",
+      "autor": [
+        "Walter M. Miller"
+      ],
+      "estado": "Leído",
+      "tipo": "Cultura",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Ciencia ficción",
+        "Progreso",
+        "Fe y razón"
+      ],
+      "id": "ac42aa7d-dcea-41f7-8771-badfb03a9b80",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/10221348-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437014",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "a7517704-bbed-466e-82ba-1d8d81c02b73",
+      "title": "The Practice of the Presence of God [v1]",
+      "autor": [
+        "Brother Lawrence"
+      ],
+      "estado": "Matar",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Presencia de Dios"
+      ],
+      "id": "a77a8661-032b-423d-96cd-98c3aac1e9e7",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437019",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "67575d3a-10d7-4f78-b7df-475d6259664c",
+      "title": "The Practice of the Presence of God [v2]",
+      "autor": [
+        "Brother Lawrence"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Vida cristiana",
+        "Presencia de Dios"
+      ],
+      "id": "225ff667-52fa-4b2e-b208-02d1d997b1f9",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437024",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "a61e159e-d663-4e87-af19-f3cd83e1ad40",
+      "title": "Walking with God",
+      "autor": [
+        "Jeff Cavins",
+        "Tim Gray"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Biblia"
+      ],
+      "id": "0529145e-db64-4532-bf33-afdfcf20ca0a",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/11980441-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437062",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "fcd4e80b-e739-4e22-a098-60225d97bbbe",
+      "title": "The God Who Loves You",
+      "autor": [
+        "Peter Kreeft"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "efb4fb83-6a3c-476d-846d-bd2ed975228d",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437068",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "7e591a3e-20a9-4120-b62e-5185c00dafd5",
+      "title": "The Fulfillment of All Desire",
+      "autor": [
+        "Ralph Martin"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "b2798c13-c3c4-4f58-8472-3b577fb7f96a",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/2120044-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437074",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "0697b2e1-e849-44a0-912e-a12fd65ed8ae",
+      "title": "Mythology",
+      "autor": [
+        "Edith Hamilton"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Cultura",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Mitología",
+        "Mitología griega"
+      ],
+      "id": "2b8addb1-04ef-4752-a83a-adbfa45e54b0",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8765912-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437079",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "e8cb81e8-05a9-4fd7-8342-2e8252b66c87",
+      "title": "Paul, a New Covenant Jew",
+      "autor": [
+        "Brant Pitre"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "6580e2f3-5788-45be-9544-ea581223150d",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/10456780-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437084",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "a683d5c0-b584-4f2a-875e-4e942118aaad",
+      "title": "Socrates' Children Vol II",
+      "autor": [
+        "Peter Kreeft"
+      ],
+      "estado": "Wishlist Verano 2023",
+      "tipo": "Cultura",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Historia de la filosofía",
+        "Filosofía"
+      ],
+      "id": "6511faa7-be1a-4d64-bea0-15663b946f6c",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437089",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "c0d12945-0e4b-43ea-943e-0c3b28d042af",
+      "title": "La Muerte de Iván Ilich",
+      "autor": [
+        "Leo Tolstoy"
+      ],
+      "estado": "Leído",
+      "tipo": "Cultura",
+      "calificacion": "⭐⭐⭐⭐",
+      "anoLeido": "2021",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Literatura rusa"
+      ],
+      "id": "08577a2f-1f46-4ef4-8e42-60abb72e7e55",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8039591-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437095",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "96e35206-8286-4f93-991c-509015a20735",
+      "title": "Sense and Sensibility",
+      "autor": [
+        "Jane Austen"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Cultura",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Novela Victoriana",
+        "Ficción"
+      ],
+      "id": "05d6a883-a574-4f03-97f9-6a3db2ff741c",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/9278292-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437134",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "344eaf14-d1c0-4747-bf99-bcc82f2b8222",
+      "title": "Socrates' Children Vol IV",
+      "autor": [
+        "Peter Kreeft"
+      ],
+      "estado": "Wishlist Verano 2023",
+      "tipo": "Cultura",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Historia de la filosofía",
+        "Filosofía"
+      ],
+      "id": "18c432c8-845f-4989-90fb-727ed755c1e4",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437140",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "4c6fa00d-3f51-4e98-97b3-3ac361cde2e9",
+      "title": "El Nuevo Testamento Paso a Paso",
+      "autor": [
+        "John Bergsma"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2023",
+      "fechaLeido": {
+        "start": "2023-09-28"
+      },
+      "loTengoEn": [
+        "Físico"
+      ],
+      "trozeable": [],
+      "multiSelect": [
+        "Personal"
+      ],
+      "vecesLeido": 1,
+      "tags": [
+        "Biblia",
+        "Nuevo Testamento"
+      ],
+      "id": "321c5421-d0fb-41a6-b5e7-3c9af1541d2f",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13704116-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437146",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "13964f8d-5288-44a1-8908-ea116e7c8d46",
+      "title": "Heretics",
+      "autor": [
+        "G. K. Chesterton"
+      ],
+      "estado": "Por leer",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "5c977e6d-47d0-4cf6-a841-90d0a3ace02f",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/1754959-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437151",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "7254f483-6f26-4801-9240-c1e21a3c26ad",
+      "title": "Credo",
+      "autor": [
+        "Hans Urs Von Balthasar"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Credo",
+        "Teología"
+      ],
+      "id": "d4882d7f-d5bf-4305-b091-b50cf4ef6e68",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/5069480-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437156",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "83265d88-8e0d-404d-a872-4a480ccc3819",
+      "title": "In the Beginning",
+      "autor": [
+        "Benedicto XVI"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Creación",
+        "Teología"
+      ],
+      "id": "e11214f3-1175-46f1-84d4-94ecd7fc52e9",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/572591-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437186",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "837e51cd-21c6-4737-a781-ec52bbb768f1",
+      "title": "Eusebius: The Church History",
+      "autor": [
+        "Eusebius"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Historia de la Iglesia",
+        "Primeros cristianos"
+      ],
+      "id": "96540f26-ff99-449e-bf0d-e6e0b3d129fe",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/627992-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437213",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "d0537b23-2879-4a08-88c8-52994ca6d541",
+      "title": "Leaving Boyhood Behind",
+      "autor": [
+        "Jason M. Craig"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "796f588c-7740-4161-b625-427cd704a108",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8800882-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437220",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "1271837e-836f-449a-a1fe-3cd4704187f4",
+      "title": "A Catholic Introduction to the Bible: The Old Testament",
+      "autor": [
+        "Brant Pitre",
+        "John Bergsma"
+      ],
+      "estado": "Leyendo",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Biblia"
+      ],
+      "id": "6fd961b0-0b6e-4a08-86c1-796605feb74c",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437245",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "c4679d04-ef8f-4354-b505-49c2b223ab5f",
+      "title": "Madre Teresa. Ven, sé mi luz",
+      "autor": [
+        "Brian Kolodiejchuk",
+        "Santa Teresa de Calcuta"
+      ],
+      "estado": "Leyendo",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Santo",
+        "Santa Teresa de Calcuta",
+        "Biografía"
+      ],
+      "id": "e5f7da11-02e3-4950-a7a8-f45da6d4da4f",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437251",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "9e44f8e0-0114-4e36-9174-5ba51bb09a9f",
+      "title": "Meditation and Contemplation",
+      "autor": [
+        "Timothy M. Gallagher"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "1215bb68-b9a9-4841-b5d7-453585f85b75",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/12180385-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437271",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "c2f432f9-cdda-46fa-8e85-d575d7cbed1d",
+      "title": "Jesus and the Jewish Roots of the Eucharist",
+      "autor": [
+        "Brant Pitre"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Eucaristía",
+        "Sacramentos"
+      ],
+      "id": "c299e3a9-de85-424b-a2f3-2d9f50120e65",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/7105685-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437277",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "b81ee294-c269-4d32-9f37-cf9a7c59d573",
+      "title": "Jesus and the Jewish Roots of Mary",
+      "autor": [
+        "Brant Pitre"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "9047cc56-7631-47a3-a1d2-507f2455a18c",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/14626521-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437282",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "36d1084b-c15d-4656-81f4-54afc8fa2488",
+      "title": "Pride and Prejudice",
+      "autor": [
+        "Jane Austen"
+      ],
+      "estado": "Interrumpido",
+      "tipo": "Cultura",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Novela Victoriana",
+        "Ficción"
+      ],
+      "id": "5e227c01-6652-4e07-8917-315eec616560",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/14348537-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437288",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "63e12808-1437-42fa-8d94-c619911430ad",
+      "title": "Jesús de Nazaret: Los Relatos de la Infancia",
+      "autor": [
+        "Benedicto XVI"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2023",
+      "fechaLeido": {
+        "start": "2023-09-26"
+      },
+      "loTengoEn": [
+        "Físico"
+      ],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 1,
+      "tags": [
+        "Jesús",
+        "Exégesis",
+        "Evangelios"
+      ],
+      "id": "4482666e-9793-4b7d-b5b8-4c66a0971294",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437293",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "2c4c77b0-e7f4-8025-b01e-cef29ca75978",
+      "title": "Dios llora en la tierra",
+      "autor": [
+        "Werenfried Van Straaten"
+      ],
+      "estado": "Leído",
+      "tipo": "Cultura",
+      "calificacion": "⭐⭐⭐⭐",
+      "anoLeido": "2025",
+      "fechaLeido": {
+        "start": "2025-09-01"
+      },
+      "loTengoEn": [
+        "Físico"
+      ],
+      "trozeable": [],
+      "multiSelect": [
+        "Personal"
+      ],
+      "vecesLeido": 1,
+      "tags": [
+        "Misionero",
+        "Iglesia perseguida"
+      ],
+      "id": "3b9e68c6-457b-4053-8c4f-da780684008e",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437298",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "5a7f351f-8625-424f-970d-fcd5cdf6743c",
+      "title": "Models Of The Church",
+      "autor": [
+        "Avery Dules"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "167d830e-8c25-4021-9e1b-6df497d0e4ce",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437303",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "8c2be6b6-bbb6-43c1-b35f-93506b1e1038",
+      "title": "Introduction to the Devout Life",
+      "autor": [
+        "St. Frances de Sales"
+      ],
+      "estado": "Por leer",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Vida cristiana"
+      ],
+      "id": "53e56923-706c-4f92-bf8e-07b8652433a1",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437309",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "0d1466b2-233b-4867-983a-c4f000392835",
+      "title": "Divina Comedia",
+      "autor": [
+        "Dante"
+      ],
+      "estado": "Por leer",
+      "tipo": "Cultura",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "7afc4220-d516-40b8-841d-55a4a428ed87",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/15090450-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437314",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "3b6c3fed-9b17-45dd-b663-4891d39002fd",
+      "title": "El Camino",
+      "autor": [
+        "Miguel Delibes"
+      ],
+      "estado": "Leído",
+      "tipo": "Cultura",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2022",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Novela"
+      ],
+      "id": "8a2c127c-077e-42aa-aeca-74b956227891",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/4903613-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437319",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "4af6fb64-1f11-4540-ba6f-d128938f4cac",
+      "title": "El Santo Abandono",
+      "autor": [
+        "Dom Vital Lehodey"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "89a2b356-ce93-487a-b259-e3f5c2b8e3a5",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437324",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "11f1cf16-0ded-4870-9df8-867782a75429",
+      "title": "Decenario al Espíritu Santo",
+      "autor": [
+        "Francisca Javiera del Valle"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Espíritu Santo"
+      ],
+      "id": "386a8803-1dea-434a-8414-572a754bbe34",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13816088-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437329",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "a6773e86-7834-4312-869b-eb2c14602c43",
+      "title": "Reparte tus Siete Dones",
+      "autor": [
+        "José Ignacio Munilla"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Espíritu Santo"
+      ],
+      "id": "de2b5028-c742-4fa5-9553-37f71085253b",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13571166-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437335",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "a36538e7-1584-42e3-86f8-3a45f62601eb",
+      "title": "Suma Teológica Mínima",
+      "autor": [
+        "Peter Kreeft"
+      ],
+      "estado": "Next in line",
+      "tipo": "Cultura",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Santo Tomás de Aquino",
+        "Tomismo"
+      ],
+      "id": "7eb93e8b-23b1-4622-81d3-afd7c1f4660d",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437340",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "040890b1-d76e-4c2f-a878-1e199f8b60b2",
+      "title": "Santo Tomás de Aquino",
+      "autor": [
+        "G. K. Chesterton"
+      ],
+      "estado": "Por leer",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "455a244d-f2bb-4404-bd3d-3ed032659491",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437345",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "bca383f4-7666-4a3d-99e7-ceda1b1eb051",
+      "title": "El Principito",
+      "autor": [
+        "Antoine de Saint-Exupéry"
+      ],
+      "estado": "Leído",
+      "tipo": "Cultura",
+      "calificacion": "⭐⭐⭐⭐",
+      "anoLeido": "2021",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Ficción"
+      ],
+      "id": "8587e74d-d735-4039-b038-3e1773c7e39b",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/4978949-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437350",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "2d7c3890-8a9f-4f81-9e56-11d857b2a564",
+      "title": "El Despertar de la Señorita Prim",
+      "autor": [
+        "Natalia Sanmartín Fenollera"
+      ],
+      "estado": "Leído",
+      "tipo": "Cultura",
+      "calificacion": "⭐⭐⭐⭐",
+      "anoLeido": "2021",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "4346bcaf-e9f5-495a-9463-3aac2b898452",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/7334488-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437357",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "66b4cd51-7367-41ea-ab86-e50abb3270b7",
+      "title": "El Sacerdote y su Ministerio",
+      "autor": [
+        "Federico Suárez"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Sacerdocio"
+      ],
+      "id": "0c1a602e-d940-4e94-9c9e-89bd8b058384",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13733539-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437374",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "f0bf96ed-7a92-4ee2-b056-11277f2a05fd",
+      "title": "Secretos de la Biblia",
+      "autor": [
+        "Ana Catalina Emmerick"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "cb650484-4b12-4dad-b34a-6d2b2fb4d2a8",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/14187705-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437503",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "8e361c1a-30aa-43fb-aec2-3cc7cffcb33b",
+      "title": "La Inspiración y la Verdad en la Sagrada Escritura",
+      "autor": [
+        "Pontificia Comisión Bíblica"
+      ],
+      "estado": "Next in line",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [
+        "Goodnotes"
+      ],
+      "trozeable": [
+        "Daily"
+      ],
+      "multiSelect": [
+        "UESD"
+      ],
+      "vecesLeido": 0,
+      "tags": [
+        "Biblia",
+        "Documento vaticano",
+        "Primero UESD"
+      ],
+      "id": "bf08e8ca-7495-4629-a251-e1934ee4708f",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437532",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "48a50c8a-cfe5-4e80-a56f-0978bf8cb356",
+      "title": "Comprender las Escrituras",
+      "autor": [
+        "Scott Hahn"
+      ],
+      "estado": "Por leer",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "49f358f8-f341-418f-8144-44c07d037c15",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/14050904-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437537",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "b2f043f5-8461-4bfa-ae05-05297da61314",
+      "title": "Nuevos Mediterráneos",
+      "autor": [
+        "Lucas Buch"
+      ],
+      "estado": "Por leer",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "a8a1ac46-115a-45ca-8c20-0b13ace42c14",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437593",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "b751b25d-9d15-41db-b83d-0aed299f02de",
+      "title": "Amigos de Dios",
+      "autor": [
+        "San Josemaría Escrivá"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Meditación"
+      ],
+      "id": "6bd308ab-a838-4373-88ae-8cf7edd26605",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437608",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "2e0239d7-71bf-48db-a928-8b835b7dd438",
+      "title": "La Ciudad de Dios",
+      "autor": [
+        "San Agustín"
+      ],
+      "estado": "Leyendo",
+      "tipo": "Cultura",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [
+        "Físico"
+      ],
+      "trozeable": [
+        "Daily"
+      ],
+      "multiSelect": [
+        "Personal"
+      ],
+      "vecesLeido": 0,
+      "tags": [
+        "Historia de la Iglesia",
+        "Apologética"
+      ],
+      "id": "f6447299-c8a4-48b7-a690-8fa063596e9c",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/12339061-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437614",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "caf7135a-9bd1-425c-8e89-8314d4b068d2",
+      "title": "Dios o Nada",
+      "autor": [
+        "Cardenal Robert Sarah",
+        "Nicolas Diat"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2021",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 1,
+      "tags": [
+        "Biografía",
+        "Sacerdocio",
+        "Iglesia"
+      ],
+      "id": "f32c8f1f-024d-4def-b79e-394403a08072",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13509069-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437652",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "809833a0-0409-4087-b6a9-f3421191b8b0",
+      "title": "Dios necesita de tí",
+      "autor": [
+        "Leo J. Trese"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "3372b9a9-ea7f-4e3e-ac63-1666d8982a23",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437659",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "03a0f796-fc97-4586-8fd7-6d586a6b1c62",
+      "title": "El Olvido de Sí",
+      "autor": [
+        "Pablo d'Ors"
+      ],
+      "estado": "Leído",
+      "tipo": "Cultura",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2020",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Biografía",
+        "Contemplación",
+        "Santo"
+      ],
+      "id": "122063cd-5095-4743-9db1-5f6660e9a013",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/7904621-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437664",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "ae11b75e-273e-4a3d-97ed-39e6d5fb65cc",
+      "title": "Los Renglones Torcidos de Dios",
+      "autor": [
+        "Torcuato Luca de Tena"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Cultura",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "45a4a7c3-8f6c-4532-9959-de5fdd8e8058",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/5299758-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437671",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "5057398f-9890-4c22-a6af-e55cfdef1b2c",
+      "title": "Tiempo para Dios",
+      "autor": [
+        "Jacques Philippe"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Oración",
+        "Vida cristiana"
+      ],
+      "id": "aa102dca-98cc-4c37-b60f-4835768da7e3",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/3326547-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437738",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "762dcb48-4550-4242-a60a-2a23ca2719a0",
+      "title": "Jesus the bridegroom",
+      "autor": [
+        "Brant Pitre"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "f0baf831-949c-43e7-9d95-27a4c67f78d9",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/7739061-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437746",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "5cdcec0a-b786-43e7-ad31-df7ebeadb9bd",
+      "title": "Jesus-Shock",
+      "autor": [
+        "Peter Kreeft"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2021",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Jesús"
+      ],
+      "id": "1c37b969-2bf2-4247-a510-78d8f3ca9c35",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8109929-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437751",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "e37c4dc6-fd0c-48b9-8933-eb86837ba600",
+      "title": "Caminando con Jesús",
+      "autor": [
+        "J. A. González Lobato"
+      ],
+      "estado": "Por leer",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Meditación"
+      ],
+      "id": "eadacb9a-c669-4f1e-9c08-f595b52d413b",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437757",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "136969c0-4d79-42e5-89df-be0ddfd2739c",
+      "title": "Miracles",
+      "autor": [
+        "C. S. Lewis"
+      ],
+      "estado": "Por leer",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "14b8fa59-4de6-44e0-a2a4-18dec5c5f18b",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/9184514-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437762",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "f399e9c6-cf44-4d12-a6d8-a829949bf7d1",
+      "title": "Teología y Sensatez",
+      "autor": [
+        "Frank Sheed"
+      ],
+      "estado": "Matar",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Teología"
+      ],
+      "id": "651bdbcb-9a0f-40e9-a1b3-ed8eeb20ca82",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13755435-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437767",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "0adf6cda-b622-4a6e-86fb-9e5e6957fa07",
+      "title": "Verbum Domini",
+      "autor": [
+        "Benedicto XVI"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "2023",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [
+        "Goodnotes"
+      ],
+      "trozeable": [],
+      "multiSelect": [
+        "UESD",
+        "Personal"
+      ],
+      "vecesLeido": 0,
+      "tags": [
+        "Exhortación apostólica",
+        "Documento papal"
+      ],
+      "id": "698d50e8-83b3-4511-9ed0-35384046c771",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13291972-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437773",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "1e7c77b0-e7f4-80f0-b110-f1490d620074",
+      "title": "Amoris laetitia",
+      "autor": [
+        "Papa Francisco"
+      ],
+      "estado": "Por leer",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": "2025-05-02"
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [
+        "Personal"
+      ],
+      "vecesLeido": 1,
+      "tags": [
+        "Exhortación apostólica",
+        "Documento vaticano"
+      ],
+      "id": "fdd921d6-b37d-4593-85df-ae1ca0d102a5",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/8906420-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437778",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "66160e98-f459-42d1-98c0-ba5e6525b367",
+      "title": "Jesus and the Last Supper",
+      "autor": [
+        "Brant Pitre"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "7235e1d4-b54b-4eba-afff-5a17522d46fe",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13133367-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437783",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "52bb1c0d-4ba0-47a0-b013-39b098efd428",
+      "title": "Jesús de Nazaret Vol II (Entrada-Resurrección)",
+      "autor": [
+        "Benedicto XVI"
+      ],
+      "estado": "Next in line",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Jesús",
+        "Exégesis",
+        "Evangelios"
+      ],
+      "id": "96c8f285-1599-4feb-b049-d067d8c0ecb9",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437788",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "e96c9a7b-c3fd-4345-a8fc-3af9869b5762",
+      "title": "In Sinu Jesu",
+      "autor": [
+        "Un Monje Benedictino"
+      ],
+      "estado": "Leyendo",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Meditación",
+        "Diario"
+      ],
+      "id": "69743935-5e66-43ad-b9b5-7084e2b2e3a2",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437793",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "3e5e1fe1-e14a-40dd-908a-10270a18e2ca",
+      "title": "Jesús está vivo",
+      "autor": [
+        "José Prado Flores"
+      ],
+      "estado": "Wishlist",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Renovación carismática"
+      ],
+      "id": "8f414966-3c04-489a-a33f-87c77c6fa074",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13610880-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437798",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "eea3ae5a-5534-438a-a8cd-49d86a627167",
+      "title": "Erótica y Materna",
+      "autor": [
+        "Mariolina Ceriotti Migliarese"
+      ],
+      "estado": "Leído",
+      "tipo": "Cultura",
+      "calificacion": "⭐⭐⭐⭐⭐",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [],
+      "id": "ad8eb0d0-cdd0-4232-81c8-1aec5efca610",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437803",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "a4319ca4-7eca-4aed-9768-e149e682966e",
+      "title": "Jesús de Nazaret Vol I (Bautismo-Transfiguración)",
+      "autor": [
+        "Benedicto XVI"
+      ],
+      "estado": "Next in line",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": null
+      },
+      "loTengoEn": [],
+      "trozeable": [],
+      "multiSelect": [],
+      "vecesLeido": 0,
+      "tags": [
+        "Jesús",
+        "Exégesis",
+        "Evangelios"
+      ],
+      "id": "0f3e1974-945e-4f5b-b6e3-f65ec4c35c1e",
+      "source": "notion",
+      "coverUrl": "",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437809",
+      "updatedAt": null
+    },
+    {
+      "notionUrl": "1e7c77b0-e7f4-8072-a257-e634eb945579",
+      "title": "Evangelii gaudium",
+      "autor": [
+        "Papa Francisco"
+      ],
+      "estado": "Leído",
+      "tipo": "Espiritual",
+      "calificacion": "",
+      "anoLeido": "",
+      "fechaLeido": {
+        "start": "2025-05-02"
+      },
+      "loTengoEn": [
+        "Físico"
+      ],
+      "trozeable": [],
+      "multiSelect": [
+        "Personal"
+      ],
+      "vecesLeido": 1,
+      "tags": [
+        "Evangelio",
+        "Exhortación apostólica",
+        "Fe"
+      ],
+      "id": "2e439a12-909b-48ee-afb7-5abf15436d53",
+      "source": "notion",
+      "coverUrl": "https://covers.openlibrary.org/b/id/13745993-M.jpg",
+      "enlace": "",
+      "recomendado": "",
+      "createdAt": "2026-02-25T11:34:11.437814",
+      "updatedAt": null
+    }
+  ]
+}

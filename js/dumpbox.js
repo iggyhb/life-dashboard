@@ -89,9 +89,13 @@ function extractFields(text, category) {
   if (category === 'books') {
     fields.estado = 'Wishlist';
     fields.tipo = 'Otro';
-    if (/(?:reading|leyendo)/i.test(lower)) fields.estado = 'Leyendo';
-    else if (/(?:finished|terminé|leí|read\b)/i.test(lower)) fields.estado = 'Leído';
-    else if (/(?:want to read|por leer|to read)/i.test(lower)) fields.estado = 'Por leer';
+    if (/(?:re-reading|re-leyendo|releyendo)/i.test(lower))      fields.estado = 'Re-leyendo';
+    else if (/(?:re-read|re-leer|releer)/i.test(lower))          fields.estado = 'Re-leer';
+    else if (/(?:reading|leyendo)/i.test(lower))                  fields.estado = 'Leyendo';
+    else if (/(?:finished|terminé|leí|read\b|leído)/i.test(lower)) fields.estado = 'Leído';
+    else if (/(?:want to read|por leer|to read)/i.test(lower))   fields.estado = 'Por leer';
+    else if (/(?:interrupted|abandoné|interrumpido|dropped)/i.test(lower)) fields.estado = 'Interrumpido';
+    else if (/(?:next in line|next up)/i.test(lower))            fields.estado = 'Next in line';
   }
 
   return fields;

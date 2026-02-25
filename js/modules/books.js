@@ -1,23 +1,54 @@
 import { Store } from '../store.js';
 import { el, icon, clear } from '../utils/dom.js';
-import { formatDate } from '../utils/date.js';
 
-const ESTADOS = ['Leyendo', 'Por leer', 'Leído', 'Wishlist'];
+const ESTADOS = [
+  'Leyendo', 'Por leer', 'Leído', 'Re-leer', 'Re-leyendo',
+  'Wishlist', 'Next in line', 'Matar', 'Interrumpido', 'Wishlist Verano 2023'
+];
+
 const TIPOS = ['Espiritual', 'Cultura', 'Autoayuda', 'Otro'];
+
 const ESTADO_COLORS = {
-  'Leyendo': 'badge-blue',
-  'Por leer': 'badge-orange',
-  'Leído': 'badge-green',
-  'Wishlist': 'badge-purple'
+  'Leyendo':              'badge-blue',
+  'Por leer':             'badge-orange',
+  'Leído':                'badge-green',
+  'Re-leer':              'badge-yellow',
+  'Re-leyendo':           'badge-blue',
+  'Wishlist':             'badge-purple',
+  'Next in line':         'badge-orange',
+  'Matar':                'badge-red',
+  'Interrumpido':         'badge-red',
+  'Wishlist Verano 2023': 'badge-purple'
 };
-const TIPO_COLORS = {
-  'Espiritual': 'badge-purple',
-  'Cultura': 'badge-yellow',
-  'Autoayuda': 'badge-orange',
-  'Otro': 'badge-blue'
+
+const ESTADO_ORDER = {
+  'Leyendo': 0, 'Re-leyendo': 0,
+  'Por leer': 1, 'Next in line': 1,
+  'Leído': 2, 'Re-leer': 2,
+  'Wishlist': 3, 'Wishlist Verano 2023': 3,
+  'Interrumpido': 4, 'Matar': 5
 };
 
 const RATING_OPTIONS = ['', '⭐', '⭐⭐', '⭐⭐⭐', '⭐⭐⭐⭐', '⭐⭐⭐⭐⭐'];
+
+// Filter tab groups
+const FILTER_TABS = [
+  { key: 'all',         label: 'All' },
+  { key: 'Leyendo',     label: 'Leyendo' },
+  { key: 'Por leer',    label: 'Por leer' },
+  { key: 'Leído',       label: 'Leído' },
+  { key: 'Wishlist',    label: 'Wishlist' },
+  { key: 'Re-leer',     label: 'Re-leer' },
+  { key: 'other',       label: 'Otros' }
+];
+
+const OTHER_ESTADOS = new Set(['Next in line', 'Matar', 'Interrumpido', 'Wishlist Verano 2023', 'Re-leyendo']);
+
+function matchesFilter(book, key) {
+  if (key === 'all') return true;
+  if (key === 'other') return OTHER_ESTADOS.has(book.estado);
+  return book.estado === key;
+}
 
 export default {
   id: 'books',
@@ -30,9 +61,15 @@ export default {
 
     const header = el('div', { className: 'section-header' }, [
       el('h2', { className: 'section-title' }, 'Libros'),
-      el('button', { className: 'btn btn-primary', onClick: () => this.showForm() }, [
-        icon('plus'),
-        'Add Book'
+      el('div', { style: { display: 'flex', gap: '8px' } }, [
+        el('button', {
+          className: 'btn btn-secondary',
+          onClick: () => this.importNotionBooks()
+        }, 'Import Notion'),
+        el('button', {
+          className: 'btn btn-primary',
+          onClick: () => this.showForm()
+        }, [icon('plus'), 'Add'])
       ])
     ]);
     container.appendChild(header);
@@ -58,8 +95,8 @@ export default {
     searchWrap.appendChild(searchInput);
     container.appendChild(searchWrap);
 
-    const list = el('div');
-    container.appendChild(list);
+    const grid = el('div', { className: 'book-grid' });
+    container.appendChild(grid);
 
     let activeFilter = 'all';
     let searchTerm = '';
@@ -67,215 +104,200 @@ export default {
     const buildFilters = () => {
       clear(filterRow);
       const books = Store.getCategory('books');
-      const counts = { all: books.length };
-      for (const e of ESTADOS) {
-        counts[e] = books.filter(b => b.estado === e).length;
-      }
 
-      const makeTab = (key, label) => {
-        const count = counts[key] || 0;
-        const tab = el('button', {
-          className: `tab ${activeFilter === key ? 'active' : ''}`,
-          dataset: { tab: key },
-          onClick: () => {
-            activeFilter = key;
-            buildFilters();
-            renderList();
-          }
-        }, `${label} (${count})`);
-        return tab;
-      };
-
-      filterRow.appendChild(makeTab('all', 'All'));
-      for (const e of ESTADOS) {
-        filterRow.appendChild(makeTab(e, e));
+      for (const tab of FILTER_TABS) {
+        const count = tab.key === 'all'
+          ? books.length
+          : books.filter(b => matchesFilter(b, tab.key)).length;
+        const btn = el('button', {
+          className: `tab ${activeFilter === tab.key ? 'active' : ''}`,
+          onClick: () => { activeFilter = tab.key; buildFilters(); renderGrid(); }
+        }, `${tab.label} (${count})`);
+        filterRow.appendChild(btn);
       }
     };
 
     const renderStats = () => {
       clear(stats);
       const books = Store.getCategory('books');
-      const read = books.filter(b => b.estado === 'Leído').length;
-      const reading = books.filter(b => b.estado === 'Leyendo').length;
-      const toRead = books.filter(b => b.estado === 'Por leer').length;
-      const wishlist = books.filter(b => b.estado === 'Wishlist').length;
+      const read    = books.filter(b => b.estado === 'Leído').length;
+      const reading = books.filter(b => b.estado === 'Leyendo' || b.estado === 'Re-leyendo').length;
+      const toRead  = books.filter(b => b.estado === 'Por leer' || b.estado === 'Next in line').length;
+      const wish    = books.filter(b => b.estado === 'Wishlist' || b.estado === 'Wishlist Verano 2023').length;
 
-      const grid = el('div', {
+      const statGrid = el('div', {
         style: {
           display: 'grid',
-          gridTemplateColumns: 'repeat(auto-fit, minmax(100px, 1fr))',
+          gridTemplateColumns: 'repeat(auto-fit, minmax(90px, 1fr))',
           gap: '8px',
           marginBottom: '16px'
         }
       });
 
       const makeStat = (label, value, color) => {
-        const card = el('div', {
-          className: 'card',
-          style: { textAlign: 'center', padding: '12px 8px' }
-        });
-        card.appendChild(el('div', {
-          style: { fontSize: '1.3rem', fontWeight: '700', color }
-        }, String(value)));
-        card.appendChild(el('div', {
-          style: { fontSize: '0.7rem', color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.5px' }
-        }, label));
+        const card = el('div', { className: 'card', style: { textAlign: 'center', padding: '10px 8px' } });
+        card.appendChild(el('div', { style: { fontSize: '1.3rem', fontWeight: '700', color } }, String(value)));
+        card.appendChild(el('div', { style: { fontSize: '0.68rem', color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.5px' } }, label));
         return card;
       };
 
-      grid.appendChild(makeStat('Total', books.length, 'var(--text-primary)'));
-      grid.appendChild(makeStat('Leído', read, 'var(--accent-green)'));
-      grid.appendChild(makeStat('Leyendo', reading, 'var(--accent-blue)'));
-      grid.appendChild(makeStat('Por leer', toRead, 'var(--accent-orange)'));
-      grid.appendChild(makeStat('Wishlist', wishlist, 'var(--accent-purple)'));
-
-      stats.appendChild(grid);
+      statGrid.appendChild(makeStat('Total',   books.length, 'var(--text-primary)'));
+      statGrid.appendChild(makeStat('Leído',   read,         'var(--accent-green)'));
+      statGrid.appendChild(makeStat('Leyendo', reading,      'var(--accent-blue)'));
+      statGrid.appendChild(makeStat('Por leer',toRead,       'var(--accent-orange)'));
+      statGrid.appendChild(makeStat('Wishlist',wish,         'var(--accent-purple)'));
+      stats.appendChild(statGrid);
     };
 
-    const renderList = () => {
-      clear(list);
+    const renderGrid = () => {
+      clear(grid);
       let books = Store.getCategory('books');
 
-      // Filter by estado
       if (activeFilter !== 'all') {
-        books = books.filter(b => b.estado === activeFilter);
+        books = books.filter(b => matchesFilter(b, activeFilter));
       }
-
-      // Filter by search
       if (searchTerm) {
         const s = searchTerm.toLowerCase();
         books = books.filter(b =>
           (b.title || '').toLowerCase().includes(s) ||
           (b.autor || []).some(a => a.toLowerCase().includes(s)) ||
           (b.tags || []).some(t => t.toLowerCase().includes(s)) ||
-          (b.tipo || '').toLowerCase().includes(s) ||
-          (b.recomendado || '').toLowerCase().includes(s)
+          (b.tipo || '').toLowerCase().includes(s)
         );
       }
 
-      // Sort: Leyendo first, then Por leer, then Leído by date desc, then Wishlist
-      const estadoOrder = { 'Leyendo': 0, 'Por leer': 1, 'Leído': 2, 'Wishlist': 3 };
       books.sort((a, b) => {
-        const oa = estadoOrder[a.estado] ?? 9;
-        const ob = estadoOrder[b.estado] ?? 9;
+        const oa = ESTADO_ORDER[a.estado] ?? 9;
+        const ob = ESTADO_ORDER[b.estado] ?? 9;
         if (oa !== ob) return oa - ob;
-        // Within same estado, sort by date desc
-        return (b.fechaLeido || b.createdAt || '').localeCompare(a.fechaLeido || a.createdAt || '');
+        const da = (a.fechaLeido?.start || a.anoLeido || a.createdAt || '');
+        const db = (b.fechaLeido?.start || b.anoLeido || b.createdAt || '');
+        return db.localeCompare(da);
       });
 
       if (books.length === 0) {
-        list.appendChild(el('div', { className: 'empty-state' }, [
+        grid.appendChild(el('div', { className: 'empty-state' }, [
           icon('notes'),
           el('h3', {}, searchTerm ? 'No matching books' : 'No books yet'),
-          el('p', {}, searchTerm ? 'Try a different search' : 'Add books or use the dump box')
+          el('p', {}, searchTerm ? 'Try a different search' : 'Add books or use Import Notion')
         ]));
         return;
       }
 
       for (const book of books) {
-        list.appendChild(this.renderBookCard(book));
+        grid.appendChild(this.renderBookCard(book));
       }
     };
 
-    searchInput.addEventListener('input', (e) => {
-      searchTerm = e.target.value;
-      renderList();
-    });
+    searchInput.addEventListener('input', e => { searchTerm = e.target.value; renderGrid(); });
 
     buildFilters();
     renderStats();
-    renderList();
+    renderGrid();
 
-    const unsub = Store.on('books', () => {
-      buildFilters();
-      renderStats();
-      renderList();
-    });
+    const unsub = Store.on('books', () => { buildFilters(); renderStats(); renderGrid(); });
     if (window.__dashUnsubscribers) window.__dashUnsubscribers.push(unsub);
   },
 
   renderBookCard(book) {
-    const card = el('div', { className: 'list-item', style: { alignItems: 'flex-start', gap: '14px' } });
+    const card = el('div', { className: 'book-card' });
+    card.addEventListener('click', () => this.showDetail(book));
 
-    // Book icon/cover placeholder
-    const bookIcon = el('div', {
-      style: {
-        width: '40px', height: '52px', borderRadius: '4px',
-        background: 'linear-gradient(135deg, var(--bg-card-hover), var(--border))',
-        display: 'flex', alignItems: 'center', justifyContent: 'center',
-        flexShrink: 0, fontSize: '1.2rem'
-      }
-    }, '📖');
-
-    const content = el('div', { className: 'list-item-content', style: { minWidth: 0 } });
-
-    // Title
-    const titleRow = el('div', { style: { display: 'flex', alignItems: 'center', gap: '8px', flexWrap: 'wrap' } });
-    titleRow.appendChild(el('span', { className: 'list-item-title', style: { fontWeight: '600' } }, book.title || 'Untitled'));
-    if (book.estado) {
-      titleRow.appendChild(el('span', { className: `badge ${ESTADO_COLORS[book.estado] || 'badge-blue'}` }, book.estado));
+    // Cover image area
+    const coverDiv = el('div', { className: 'book-cover' });
+    if (book.coverUrl) {
+      const img = el('img', { src: book.coverUrl, alt: '' });
+      img.addEventListener('error', () => {
+        img.style.display = 'none';
+        placeholder.style.display = 'flex';
+      });
+      coverDiv.appendChild(img);
     }
-    content.appendChild(titleRow);
+    const placeholder = el('div', { className: 'book-cover-placeholder' }, '📖');
+    if (book.coverUrl) placeholder.style.display = 'none';
+    coverDiv.appendChild(placeholder);
+    card.appendChild(coverDiv);
 
-    // Author + Type
-    const meta = el('div', { className: 'list-item-meta', style: { marginTop: '4px' } });
-    const parts = [];
-    if (book.autor && book.autor.length) parts.push(book.autor.join(', '));
-    if (book.tipo) parts.push(book.tipo);
-    meta.textContent = parts.join(' · ');
-    content.appendChild(meta);
+    // Info area
+    const info = el('div', { className: 'book-info' });
 
-    // Tags + Rating
-    const tagsRow = el('div', { style: { display: 'flex', gap: '4px', flexWrap: 'wrap', marginTop: '6px', alignItems: 'center' } });
+    const titleEl = el('span', { className: 'book-title' }, book.title || 'Untitled');
+    info.appendChild(titleEl);
+
+    const badgeColor = ESTADO_COLORS[book.estado] || 'badge-blue';
+    info.appendChild(el('span', { className: `badge ${badgeColor}`, style: { marginTop: '4px', display: 'inline-block' } }, book.estado || ''));
+
+    const meta = el('div', { className: 'book-meta' });
+    const metaParts = [];
+    if (book.autor && book.autor.length) metaParts.push(book.autor.join(', '));
+    if (book.tipo && book.tipo !== 'Otro') metaParts.push(book.tipo);
+    meta.textContent = metaParts.join(' · ');
+    info.appendChild(meta);
+
     if (book.calificacion) {
-      tagsRow.appendChild(el('span', { style: { fontSize: '0.75rem' } }, book.calificacion));
-    }
-    for (const t of (book.tags || [])) {
-      tagsRow.appendChild(el('span', { className: 'tag' }, t));
-    }
-    if (book.anoLeido) {
-      tagsRow.appendChild(el('span', { className: 'tag' }, book.anoLeido));
-    }
-    if (book.loTengoEn && book.loTengoEn.length) {
-      for (const l of book.loTengoEn) {
-        tagsRow.appendChild(el('span', { className: 'tag', style: { background: 'rgba(74, 158, 255, 0.1)' } }, l));
-      }
-    }
-    content.appendChild(tagsRow);
-
-    // Actions
-    const actions = el('div', { className: 'list-item-actions', style: { alignSelf: 'flex-start' } });
-    if (book.enlace) {
-      const linkBtn = el('button', { className: 'btn-icon', title: 'Open link', onClick: (e) => {
-        e.stopPropagation();
-        window.open(book.enlace, '_blank');
-      }});
-      const linkSvg = icon('zap');
-      linkSvg.style.width = '14px';
-      linkSvg.style.height = '14px';
-      linkBtn.appendChild(linkSvg);
-      actions.appendChild(linkBtn);
+      info.appendChild(el('div', { style: { fontSize: '0.7rem', marginTop: '2px' } }, book.calificacion));
     }
 
-    const editBtn = el('button', { className: 'btn-icon', onClick: (e) => {
-      e.stopPropagation();
-      this.showForm(book);
-    }});
-    editBtn.appendChild(icon('edit'));
-    actions.appendChild(editBtn);
-
-    const delBtn = el('button', { className: 'btn-icon', onClick: (e) => {
-      e.stopPropagation();
-      if (confirm(`Delete "${book.title}"?`)) Store.deleteItem('books', book.id);
-    }});
-    delBtn.appendChild(icon('trash'));
-    actions.appendChild(delBtn);
-
-    card.appendChild(bookIcon);
-    card.appendChild(content);
-    card.appendChild(actions);
-
+    card.appendChild(info);
     return card;
+  },
+
+  showDetail(book) {
+    const old = document.getElementById('book-detail-modal');
+    if (old) old.remove();
+
+    const overlay = el('div', { className: 'modal-overlay open', id: 'book-detail-modal' });
+    const modal = el('div', { className: 'modal', style: { maxWidth: '480px' } });
+
+    const header = el('div', { className: 'modal-header' }, [
+      el('h2', {}, book.title || 'Untitled'),
+      el('button', { className: 'btn-icon', onClick: () => overlay.remove() }, [icon('close')])
+    ]);
+
+    const body = el('div', { className: 'modal-body' });
+
+    const addRow = (label, value) => {
+      if (!value || (Array.isArray(value) && value.length === 0)) return;
+      const row = el('div', { style: { marginBottom: '8px' } });
+      row.appendChild(el('span', { style: { color: 'var(--text-muted)', fontSize: '0.75rem', marginRight: '8px' } }, label + ':'));
+      row.appendChild(el('span', { style: { fontSize: '0.85rem' } }, Array.isArray(value) ? value.join(', ') : String(value)));
+      body.appendChild(row);
+    };
+
+    const badgeColor = ESTADO_COLORS[book.estado] || 'badge-blue';
+    body.appendChild(el('span', { className: `badge ${badgeColor}`, style: { marginBottom: '12px', display: 'inline-block' } }, book.estado || ''));
+
+    addRow('Autor',       book.autor);
+    addRow('Tipo',        book.tipo);
+    addRow('Calificación', book.calificacion);
+    addRow('Año leído',   book.anoLeido);
+    addRow('Fecha leído', book.fechaLeido?.start);
+    addRow('Veces leído', book.vecesLeido > 0 ? book.vecesLeido : null);
+    addRow('Lo tengo en', book.loTengoEn);
+    addRow('Tags',        book.tags);
+    addRow('Trozeable',   book.trozeable);
+    addRow('Contexto',    book.multiSelect);
+    addRow('Recomendado', book.recomendado);
+    if (book.enlace) {
+      const linkDiv = el('div', { style: { marginTop: '8px' } });
+      linkDiv.appendChild(el('a', { href: book.enlace, target: '_blank', style: { color: 'var(--accent-blue)', fontSize: '0.85rem' } }, 'Open link'));
+      body.appendChild(linkDiv);
+    }
+
+    const footer = el('div', { className: 'modal-footer' }, [
+      el('button', { className: 'btn btn-secondary', onClick: () => overlay.remove() }, 'Close'),
+      el('button', { className: 'btn btn-ghost', onClick: () => { overlay.remove(); this.showForm(book); } }, 'Edit'),
+      el('button', { className: 'btn btn-danger', onClick: () => {
+        if (confirm(`Delete "${book.title}"?`)) { Store.deleteItem('books', book.id); overlay.remove(); }
+      }}, 'Delete')
+    ]);
+
+    modal.appendChild(header);
+    modal.appendChild(body);
+    modal.appendChild(footer);
+    overlay.appendChild(modal);
+    overlay.addEventListener('click', e => { if (e.target === overlay) overlay.remove(); });
+    document.body.appendChild(overlay);
   },
 
   showForm(existing = null) {
@@ -292,80 +314,61 @@ export default {
 
     const body = el('div', { className: 'modal-body' });
 
-    const titleGroup = el('div', { className: 'form-group' }, [
-      el('label', { className: 'form-label' }, 'Title'),
-      el('input', { className: 'form-input', id: 'book-title', type: 'text', value: existing?.title || '', placeholder: 'Book title...' })
-    ]);
+    const addGroup = (label, id, type = 'text', value = '', placeholder = '') => {
+      const g = el('div', { className: 'form-group' }, [
+        el('label', { className: 'form-label' }, label),
+        el('input', { className: 'form-input', id, type, value, placeholder })
+      ]);
+      body.appendChild(g);
+    };
 
-    const autorGroup = el('div', { className: 'form-group' }, [
-      el('label', { className: 'form-label' }, 'Author(s) — comma separated'),
-      el('input', { className: 'form-input', id: 'book-autor', type: 'text', value: (existing?.autor || []).join(', '), placeholder: 'Author name...' })
-    ]);
+    addGroup('Title', 'book-title', 'text', existing?.title || '', 'Book title...');
+    addGroup('Author(s) — comma separated', 'book-autor', 'text', (existing?.autor || []).join(', '), 'Author name...');
 
     const row1 = el('div', { className: 'form-row' });
-    const estadoGroup = el('div', { className: 'form-group' }, [
+    row1.appendChild(el('div', { className: 'form-group' }, [
       el('label', { className: 'form-label' }, 'Status'),
       el('select', { className: 'form-select', id: 'book-estado' },
         ESTADOS.map(e => el('option', { value: e }, e))
       )
-    ]);
-    const tipoGroup = el('div', { className: 'form-group' }, [
+    ]));
+    row1.appendChild(el('div', { className: 'form-group' }, [
       el('label', { className: 'form-label' }, 'Type'),
       el('select', { className: 'form-select', id: 'book-tipo' },
         TIPOS.map(t => el('option', { value: t }, t))
       )
-    ]);
-    row1.appendChild(estadoGroup);
-    row1.appendChild(tipoGroup);
+    ]));
+    body.appendChild(row1);
 
     const row2 = el('div', { className: 'form-row' });
-    const ratingGroup = el('div', { className: 'form-group' }, [
+    row2.appendChild(el('div', { className: 'form-group' }, [
       el('label', { className: 'form-label' }, 'Rating'),
       el('select', { className: 'form-select', id: 'book-rating' },
-        RATING_OPTIONS.map((r, i) => el('option', { value: r }, r || '— None —'))
+        RATING_OPTIONS.map(r => el('option', { value: r }, r || '— None —'))
       )
-    ]);
-    const yearGroup = el('div', { className: 'form-group' }, [
+    ]));
+    row2.appendChild(el('div', { className: 'form-group' }, [
       el('label', { className: 'form-label' }, 'Year read'),
       el('input', { className: 'form-input', id: 'book-year', type: 'text', value: existing?.anoLeido || '', placeholder: '2025' })
-    ]);
-    row2.appendChild(ratingGroup);
-    row2.appendChild(yearGroup);
+    ]));
+    body.appendChild(row2);
 
-    const tagsGroup = el('div', { className: 'form-group' }, [
-      el('label', { className: 'form-label' }, 'Tags — comma separated'),
-      el('input', { className: 'form-input', id: 'book-tags', type: 'text', value: (existing?.tags || []).join(', '), placeholder: 'Fiction, Philosophy...' })
-    ]);
-
-    const enlaceGroup = el('div', { className: 'form-group' }, [
-      el('label', { className: 'form-label' }, 'Link'),
-      el('input', { className: 'form-input', id: 'book-enlace', type: 'url', value: existing?.enlace || '', placeholder: 'https://...' })
-    ]);
-
-    const tengoGroup = el('div', { className: 'form-group' }, [
-      el('label', { className: 'form-label' }, 'I have it on — comma separated'),
-      el('input', { className: 'form-input', id: 'book-tengo', type: 'text', value: (existing?.loTengoEn || []).join(', '), placeholder: 'Kindle, Physical, Audible...' })
-    ]);
+    addGroup('Tags — comma separated', 'book-tags', 'text', (existing?.tags || []).join(', '), 'Fiction, Philosophy...');
+    addGroup('Link', 'book-enlace', 'url', existing?.enlace || '', 'https://...');
+    addGroup('I have it on — comma separated', 'book-tengo', 'text', (existing?.loTengoEn || []).join(', '), 'Kindle, Físico...');
+    addGroup('Cover image URL', 'book-cover', 'url', existing?.coverUrl || '', 'https://covers.openlibrary.org/b/id/...');
 
     const recoGroup = el('div', { className: 'form-group' }, [
       el('label', { className: 'form-label' }, 'Recommended / Found in...'),
       el('textarea', { className: 'form-textarea', id: 'book-reco', placeholder: 'Where did you find this book?' })
     ]);
-
-    body.appendChild(titleGroup);
-    body.appendChild(autorGroup);
-    body.appendChild(row1);
-    body.appendChild(row2);
-    body.appendChild(tagsGroup);
-    body.appendChild(enlaceGroup);
-    body.appendChild(tengoGroup);
     body.appendChild(recoGroup);
 
-    // Set values after mount
+    // Set select values after mount
     setTimeout(() => {
       if (existing) {
         document.getElementById('book-estado').value = existing.estado || 'Wishlist';
-        document.getElementById('book-tipo').value = existing.tipo || 'Otro';
+        document.getElementById('book-tipo').value   = existing.tipo   || 'Otro';
         document.getElementById('book-rating').value = existing.calificacion || '';
       }
       const recoTA = document.getElementById('book-reco');
@@ -377,21 +380,20 @@ export default {
       el('button', { className: 'btn btn-primary', onClick: () => {
         const title = document.getElementById('book-title').value.trim();
         if (!title) return;
-
         const data = {
           title,
-          autor: document.getElementById('book-autor').value.split(',').map(s => s.trim()).filter(Boolean),
-          estado: document.getElementById('book-estado').value,
-          tipo: document.getElementById('book-tipo').value,
-          calificacion: document.getElementById('book-rating').value,
-          anoLeido: document.getElementById('book-year').value.trim(),
-          tags: document.getElementById('book-tags').value.split(',').map(s => s.trim()).filter(Boolean),
-          enlace: document.getElementById('book-enlace').value.trim(),
-          loTengoEn: document.getElementById('book-tengo').value.split(',').map(s => s.trim()).filter(Boolean),
+          autor:       document.getElementById('book-autor').value.split(',').map(s => s.trim()).filter(Boolean),
+          estado:      document.getElementById('book-estado').value,
+          tipo:        document.getElementById('book-tipo').value,
+          calificacion:document.getElementById('book-rating').value,
+          anoLeido:    document.getElementById('book-year').value.trim(),
+          tags:        document.getElementById('book-tags').value.split(',').map(s => s.trim()).filter(Boolean),
+          enlace:      document.getElementById('book-enlace').value.trim(),
+          loTengoEn:   document.getElementById('book-tengo').value.split(',').map(s => s.trim()).filter(Boolean),
+          coverUrl:    document.getElementById('book-cover').value.trim(),
           recomendado: document.getElementById('book-reco').value.trim(),
-          source: 'manual'
+          source:      'manual'
         };
-
         if (existing) {
           Store.updateItem('books', existing.id, data);
         } else {
@@ -405,19 +407,49 @@ export default {
     modal.appendChild(body);
     modal.appendChild(footer);
     overlay.appendChild(modal);
-
-    overlay.addEventListener('click', (e) => {
-      if (e.target === overlay) overlay.remove();
-    });
-
+    overlay.addEventListener('click', e => { if (e.target === overlay) overlay.remove(); });
     document.body.appendChild(overlay);
     setTimeout(() => document.getElementById('book-title')?.focus(), 100);
   },
 
+  async importNotionBooks() {
+    const btn = document.activeElement;
+    if (btn) btn.disabled = true;
+
+    try {
+      const resp = await fetch('./data/notion-books.json');
+      if (!resp.ok) throw new Error('Could not load notion-books.json');
+      const data = await resp.json();
+      const books = data.books || [];
+
+      const existing = Store.getCategory('books');
+      const existingTitles = new Set(existing.map(b => b.title?.toLowerCase().trim()));
+
+      let added = 0;
+      for (const book of books) {
+        const key = (book.title || '').toLowerCase().trim();
+        if (!existingTitles.has(key)) {
+          Store.addItem('books', {
+            ...book,
+            id: undefined  // let Store generate a new id
+          });
+          existingTitles.add(key);
+          added++;
+        }
+      }
+
+      alert(`Imported ${added} books from Notion (${books.length - added} already existed).`);
+    } catch (e) {
+      alert('Import failed: ' + e.message);
+    } finally {
+      if (btn) btn.disabled = false;
+    }
+  },
+
   renderSummary(container) {
-    const books = Store.getCategory('books');
-    const reading = books.filter(b => b.estado === 'Leyendo');
-    const read = books.filter(b => b.estado === 'Leído');
+    const books   = Store.getCategory('books');
+    const reading = books.filter(b => b.estado === 'Leyendo' || b.estado === 'Re-leyendo');
+    const read    = books.filter(b => b.estado === 'Leído');
 
     const card = el('div', { className: 'summary-card', style: { '--card-accent': 'var(--accent-yellow)' } });
     card.dataset.section = 'books';
@@ -430,11 +462,12 @@ export default {
     card.appendChild(headerEl);
 
     card.appendChild(el('div', { className: 'summary-card-value' },
-      reading.length ? `Reading ${reading.length}` : `${read.length} read`
+      reading.length ? `Leyendo ${reading.length}` : `${read.length} leídos`
     ));
     card.appendChild(el('div', { className: 'summary-card-detail' },
-      reading.length ? reading.map(b => b.title).join(', ').substring(0, 50) :
-      `${books.length} total in library`
+      reading.length
+        ? reading.map(b => b.title).join(', ').substring(0, 60)
+        : `${books.length} libros en total`
     ));
 
     container.appendChild(card);

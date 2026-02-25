@@ -10,6 +10,7 @@ const DEFAULT_DATA = {
   finances: [],
   health: [],
   notes: [],
+  books: [],
   dumpbox_history: []
 };
 
