@@ -1,57 +1,64 @@
 {
-  "generated_at": "2026-03-03T06:54:14.285948Z",
+  "generated_at": "2026-03-04T06:50:58.236830Z",
   "week": "2026-W09",
   "liturgy": {
-    "date": "2026-03-03",
+    "date": "2026-03-04",
     "season": "Lent",
     "readings": [
       {
         "type": "first_reading",
-        "reference": "Isaiah 1:10, 16-20",
+        "reference": "Jeremiah 18:18-20",
         "summary": "",
-        "text": "Oíd la palabra del Señor, príncipes de Sodoma, escucha la enseñanza de nuestro Dios, pueblo de Gomorra:\n«Lavaos, purificaos, apartad de mi vista vuestras malas acciones. Dejad de hacer el mal, aprended a hacer el bien. Buscadla justicia, socorred al oprimid, proteged el derecho del huérfano, defended a la viuda. Venid entonces, y discutiremos - dice el Señor -.\nAunque vuestros pecados sean como escarlata, quedarán blancos como nieve; aunque sean rojos como la púrpura, quedarán como lana.\nSi sabéis obedecer, comeréis de los frutos de la tierra; si rehusáis y os rebeláis, os devorará la espada - ha hablado la boca del Señor -»."
+        "text": "Ellos dijeron:\n«Venga, tramemos un plan contra Jeremías porque no faltará la ley del sacerdote, ni el consejo del sabio, ni el oráculo del profeta. Venga, vamos a hablar mal de él y no hagamos caso de sus oráculos».\nHazme caso, Señor, escucha lo que dicen mis oponentes. ¿Se paga el bien con el mal?, ¡pues me han cavado una fosa!\nRecuerda que estuve ante ti, pidiendo clemencia por ellos, para apartar tu cólera."
       },
       {
         "type": "psalm",
-        "reference": "Psalm 50:8-9, 16bc-17, 21 and 23",
+        "reference": "Psalm 31:5-6, 14, 15-16",
         "summary": "",
-        "text": "No te reprocho tus sacrificios,\n pues siempre están tus holocaustos ante mí.\n Pero no aceptaré un becerro de tu casa,\n ni un cabrito de tus rebaños. R/.\n¿Por qué recitas mis preceptos\n y tienes siempre en la boca mi alianza,\n tú que detestas mi enseñanza\n y te echas a la espalda mis mandatos? R/.\nEsto haces, ¿y me voy a callar?\n ¿Crees que soy como tú?\n Te acusaré, te lo echaré en cara.\n El que me ofrece acción de gracias,\n ése me honra;\n al que sigue buen camino\n le haré ver la salvación de Dios». R/."
+        "text": "Sácame de la red que me han tendido,\n porque tú eres mi amparo.\n A tus manos encomiendo mi espíritu:\n tú, el Dios leal, me librarás. R/.\nOigo el cuchicheo de la gente,\n y todo me da miedo;\n se conjuran contra mí\n y traman quitarme la vida. R/.\nPero yo confío en ti, Señor;\n te digo: «Tú eres mi Dios».\n En tu mano están mis azares:\n líbrame de los enemigos que me persiguen. R/."
       },
       {
         "type": "gospel",
-        "reference": "Matthew 23:1-12",
+        "reference": "Matthew 20:17-28",
         "summary": "",
-        "text": "En aquel tiempo, Jesús habló a la gente y a los discípulos, diciendo:\n«En la cátedra de Moisés se han sentado los escribas y los fariseos: haced y cumplid todo lo que os digan; pero no hagáis lo que ellos hacen, porque ellos dicen, pero no hacen.\nLían fardos pesados y se los cargan a la gente en los hombros, pero ellos no están dispuestos a mover un dedo para empujar.\nTodo lo que hacen es para que los vea la gente: alargan las filacterias y agrandan las orlas del manto; les gustan los primeros puestos en los banquetes y los asientos de honor en las sinagogas; que les hagan reverencias en las plazas y que la gente los llame “rabbí”.\nVosotros, en cambio, no os dejéis llamar “rabbí”, porque uno solo es vuestro maestro y todos vosotros sois hermanos.\nY no llaméis padre vuestro a nadie en la tierra, porque uno solo es vuestro Padre, el del cielo.\nNo os dejéis llamar maestros, porque uno solo es vuestro maestro, el Mesías.\nEl primero entre vosotros será vuestro servidor.\nEl que se enaltece será humillado, y el que se humilla será enaltecido»."
+        "text": "En aquel tiempo, subiendo Jesús a Jerusalén, tomando aparte a los Doce, les dijo por el camino:\n«Mirad, estamos subiendo a Jerusalén, y el Hijo del hombre va a ser entregado a los sumos sacerdotes y a los escribas, y lo condenarán a muerte y lo entregarán a los gentiles, para que se burlen de él, lo azoten y lo crucifiquen; y al tercer día resucitará».\nEntonces se le acercó la madre de los hijos de Zebedeo con sus hijos y se postró para hacerle una petición.\nÉl le preguntó:\n «¿Qué deseas?».\nElla contestó:\n «Ordena que estos dos hijos míos se sienten en tu reino, uno a tu derecha y el otro a tu izquierda».\nPero Jesús replicó:\n «No sabéis lo que pedís. ¿Podéis beber el cáliz que yo he de beber?».\nContestaron:\n «Podemos».\nÉl les dijo:\n «Mi cáliz lo beberéis; pero sentarse a mi derecha o a mi izquierda no me toca a mí concederlo, es para aquellos para quienes lo tiene reservado mi Padre».\nLos otros diez, al oír aquello, se indignaron contra los dos hermanos. Y llamándolos, Jesús les dijo:\n \n «Sabéis que los jefes de los pueblos los tiranizan y que los grandes los oprimen. No será así entre vosotros: el que quiera ser grande entre vosotros, que sea vuestro servidor, y el que quiera ser primero entre vosotros, que sea vuestro esclavo.\nIgual que el Hijo del hombre no ha venido a ser servido sino a servir y a dar su vida en rescate por muchos»."
       }
     ],
     "patristic_comments": [
       {
-        "reading_ref": "Isaiah 1:10, 16-20",
-        "title": "Rechazo de la religión FALSO Descripción general: el placer de Dios está en su propio sacrificio, no",
-        "father": "San Juan Crisóstomo",
-        "text": "la de los seres humanos (Ambrose). Dios honra el arrepentimiento y un\ncorazón contrito. Los antiguos sacrificios fueron reemplazados por el\nsacrificio de Cristo (albahaca). Dios rechazó el sacrificio de la gente\ndebido a la pereza de la gente (Crisóstomo). El sistema de sacrificios de\nlos Judios fue instituido por Dios para evitar su pueblo de sucumbir a la\namenaza constante de ofrecer sacrificios a los ídolos. La oración es el\nsacrificio espiritual que Dios desea (Tertuliano). El sacrificio de los\ncristianos es la bondad a los pobres (Agustín). El día de reposo que es\naceptable para Dios es el octavo día, el día en que Jesús se levantó de\nentre los muertos (Epístola de Bernabé). Cada día de la semana es el\ndía del Señor y por lo tanto es un día festivo (Orígenes). Sacrificios y\notros rituales religiosos hecho hipócritamente no tienen ningún valor\nespiritual (Atanasio). La prueba del valor de una oferta es la intención\nde quien hace la ofrenda (Crisóstomo, Cirilo de Alejandría, León Magno).\nEl sistema de sacrificios de edad ha sido anulada por Cristo y\nreemplazado por las ofertas espirituales (Carta de Bernabé). El día de\nreposo temporal es profanado, pero el reposo eterno es divina\n(Tertuliano).\nDios no escucha las oraciones de los arrogantes (albahaca). La lengua\nes la mano del que ora y por lo tanto debe mantenerse limpio\n(Crisóstomo). Cristianos multiplicar sus pecados cuando levantan a Dios\nlas manos manchadas de pecado (Agustín). Dios no responde a las\noraciones de la persona perezosa hasta que esa persona se entera de\nque la negligencia fue la causa de su desmayo (Isaac de Nínive). El\nbautismo lava el cristiano limpia (Hipólito). El lavado no es la\npurificación por el agua, pero es arrepentimiento (Crisóstomo). Cuando\nlos cristianos rápido, deben lavarse las caras (Agustín). Como la novia\nde Cristo el cristiano debe estar limpio y puro. Ser limpiados del peca",
-        "verse_ref": "Isaiah 1:10-20"
+        "reading_ref": "Jeremiah 18:18-20",
+        "title": "LA POTTER y la arcilla",
+        "father": "San Efrén",
+        "text": "Descripción general: Tenemos una parábola aquí acerca de un\nalfarero que está destinado a llamar a Israel al arrepentimiento y\nmantener la esperanza para la restauración (Efrén). Si un alfarero tiene\npoder para rehacer algo fuera de la arcilla se destruye, Dios no puede\nhacerlo con seres humanos (Jerome)? Por lo tanto Dios no dejó a su\ncreación roto por el pecado, sino que rehace (Metodio). Cristo es el\nalfarero que rehacer carne humana por el poder de su encarnación y\nresurrección (Rufino). Por lo tanto, cuando hemos pecado, no debemos\ndesesperar de la salvación (Teodoreto) pero tome en serio la\nrestauración de Dios a través de las aguas del bautismo como moldea\nnuestra arcilla húmeda en la forma que él quiere que tomemos\n(Crisóstomo).\nDios está listo para cambiar su sentencia de condena si el pecador se\narrepiente (Cesáreo, Jerome, Tertuliano). Dios no se arrepiente, sin\nembargo, se le describe como listo para arrepentirse. Del mismo modo\nque usamos el lenguaje simple cuando hablamos a los niños, Dios nos\nhabla como si fuera uno de nosotros (Orígenes). Sin embargo, a pesar\nde que Dios amó a Israel, su esposa, le gustaba otros (albahaca). Ella siguió a los falsos maestros que difaman pueblo santo, incluidos los\nprofetas e incluso nuestro Señor (Jerome).",
+        "verse_ref": "Jeremiah 18:1-23"
       },
       {
-        "reading_ref": "Matthew 23:1-12",
-        "title": "Jesús advierte contra los maestros de la ley y los fariseos",
-        "father": "Jesús advierte contra los maestros de la ley y los fariseos",
-        "text": "Descripción general : Hay que reconocer que el deseo de tener el\nprimer lugar se encuentra no sólo entre los escribas y fariseos, sino también en la iglesia. Se encuentra no sólo en la cena, sino también en\nlos asientos delanteros de la iglesia. Algunos mano con razón en la ley,\npero ellos mismos no lo hacen. Algunos yacían cargas pesadas sobre los\nhombros de los hombres, pero no desean levantar estas cargas a sí\nmismos (Orígenes). Sin embargo, debemos respetar tanto los buenos\ncomo los malos sacerdotes, para que no se condenan el bien a causa de\nla mala. Porque es mejor para preservar el justo con el mal de subvertir\nel justo por los buenos. Tierra desgraciada puede producir oro precioso.\nEl oro no es despreciado por causa de los condenados de la tierra\n(trabajo incompleto en Mateo). El buen pastor debe ser un juez riguroso\ny severo en lo que es de sí mismo. Sin embargo, en los asuntos de los\nque él ofrece servicio pastoral, que debe ser suave y listo para hacer\nconcesiones (Crisóstomo). Laicos equivocada puede ajustarse más\nfácilmente recta, pero los clérigos, si el mal, son casi imposibles de\nenderezar su rumbo. El asiento de Moisés no tiene cura, pero el cura\nhace que el asiento. El lugar no santifica la persona, pero la persona que\nsantifica el lugar. No todo sacerdote es santo, pero todo el santo\npertenece al sacerdocio espiritual (trabajo incompleto en Mateo). El cura\nestá ansioso por complacer a la audiencia. Lo que quieran, expone. Si el\npúblico carece de entusiasmo y perezoso, que también se vuelve más\ndespreocupado. Si el público se deleita en la burla, se convierte en uno\nque se mueve a otros a burla. Él es predecible. Sin excepción, siempre\nlo hace todo con sólo su audiencia en mente (Crisóstomo).\nNadie debe ser llamado maestro o padre no está Dios el Padre y el\nSeñor Jesucristo. Sólo Él es el Padre, porque todas las cosas son de él.\nSólo él es el maestro, porque a través de él se hacen todas",
-        "verse_ref": "Matthew 23:1-12"
+        "reading_ref": "Jeremiah 18:18-20",
+        "title": "La elaboración de planes contra Jeremías",
+        "father": "San Jerónimo",
+        "text": "Los maestros falsos tenga ningún Verdad. Jerome: Esto expresa el\npensamiento tanto de los Judios en ese momento contra Jeremías, o el\nSeñor nuestro Salvador, y de los herejes hoy en contra de los siervos\ndel Señor. Buscan a difundir calumnias y para preceder pueblo santo\ncon una acusación, ni piensan acerca de la veracidad de lo que dicen,\npero sólo de las mentiras que difunden. Para presumen que la ley y el\nconsejo y el discurso de Dios permanecen en sus sacerdotes y sabios, y\nfalsos profetas, a pesar de que la Escritura dice: “La sabiduría no entrar\nen un alma engañosa.” Seis libros sobre Jeremías\n4.8.2.",
+        "verse_ref": "Jeremiah 18:18"
       },
       {
-        "reading_ref": "Matthew 23:1-12",
-        "title": "Jesús se dirige a la gente ya sus discípulos",
-        "father": "Jesús se dirige a la gente ya sus discípulos",
-        "text": "El público y los fariseos. El trabajo incompleto en Mateo: El Señor\nhabía humillado solo los sacerdotes incrédulos que eran agitando contra\nél como bestias salvajes. Con la precisión de un punto de lanza que les\nda una respuesta muy fuerte, mostrándoles su propia condición\nincorregible. Laicos equivocada puede ajustarse más fácilmente recta, pero los clérigos, si están mal, son casi imposibles de enderezar su\nrumbo. Después de esto, él se volvió su conversación con los apóstoles\ny al pueblo, diciendo: “Los fariseos y los escribas se sientan en el trono\nde Moisés.” Su confusión no se convierte en lo que terminan la\nenseñanza. Homilía 43.",
-        "verse_ref": "Matthew 23:1"
+        "reading_ref": "Matthew 20:17-28",
+        "title": "Jesús habla por tercera vez sobre su muerte",
+        "father": "Jesús habla por tercera vez sobre su muerte",
+        "text": "Descripción general : A pesar de una gran multitud lo siguió en el\ncamino, tomó sólo los doce discípulos aparte en privado y solo a ellos\nanunciaron el misterio de su muerte. Su motivo para contar acerca de\nsu muerte futuro es que cuando habrá llegado ese día del sufrimiento,\npodría molestarles menos, después de haber sido advertidos de que\nestas cosas estaban a punto de suceder (trabajo incompleto en Mateo).",
+        "verse_ref": "Matthew 20:17-19"
       },
       {
-        "reading_ref": "Matthew 23:1-12",
-        "title": "Sentado en la silla de Moisés",
-        "father": "Orígenes",
-        "text": "Distinguir sacerdotes y escribas. Orígenes: “los escribas y fariseos\nque se sientan en el trono de Moisés” Por lo tanto, cuando habla “a la\nmultitud ya sus discípulos” habla de juzgo estas declaraciones que se\nrefieren a los siguientes grupos. Los que profesan que interpretan la ley\nde Moisés y gloria en esto, o que conocen bien la ley y tratan de sacar\nprovecho de este conocimiento, éstos se sientan sobre el trono de\nMoisés. Los que no se apartan de la letra de la ley son llamados\nescribas. Luego están los que profesan conocer aún más, el\nestablecimiento de diferenciarse porque piensan que son mejores que\nlas masas. Es por eso que se llaman fariseos, que interpreta medios\n“para dividir o separar” (por Phares traducido significa “división”). [Para\nuna explicación más detallada del término fariseo , véase Bauer, Arndt y Gingrich, Un Léxico\nGriego-Inglés del Nuevo Testamento , 2ª ed. (Chicago: University of Chicago Press, 1958), p.\n853.] Comentario sobre Mateo 9. Sacerdotes por su nombre. El trabajo incompleto en Mateo: ¿Qué\ndice acerca de estos sacerdotes? “Los escribas y fariseos se sientan en\nel asiento de Moisés.” ... Hay muchos sacerdotes por nombrar sólo unos\npocos por las obras. Ve, pues, cómo puede sentarse sobre ella. La silla\nno tiene cura, pero el cura, la silla. El lugar no santifica al hombre, pero\nel hombre, el lugar. No todo sacerdote es santo, pero todos los santos\nson sacerdotes. El que se sienta bien en ese trono recibirá el honor en\nsu cuenta. El que se sienta en él mal causa daño al trono. Y por esta\nrazón, el cura el mal está condenado por su sacerdocio y no satisfechas\npor ella. Homilía 43.",
-        "verse_ref": "Matthew 23:2"
+        "reading_ref": "Matthew 20:17-28",
+        "title": "Tomando los discípulos aparte",
+        "father": "Tomando los discípulos aparte",
+        "text": "En declaraciones a sólo los pocos . El trabajo incompleto en\nMatthewTherefore, aunque una gran multitud de los fieles le siguió en el\ncamino, tomó sólo los doce discípulos aparte en privado y sólo a ellos\nanunció el misterio de su muerte, porque el tesoro más precioso se\nalmacena siempre en las mejores floreros . Había muchos hombres con\nél, pero eran débiles a causa de la pequeñez de su fe. Había muchas\nmujeres, que, aunque fuertes en su fe, sin embargo, eran menos fuertes\nfísicamente de acuerdo con su naturaleza femenina. Si hubieran oído\nque Cristo iba a Jerusalén con el fin de ser condenado a muerte, los\nhombres quizá serían en dificultades a causa de la debilidad de su fe y\nlas mujeres debido a la predilección de su naturaleza. Por la naturaleza\nde la mente de la mujer es suave y en un negocio tal se reduce\nrápidamente hasta las lágrimas. Recordemos que cuando el mismo\nPedro se enteró de la muerte de Cristo fue movido por el dolor y no\ntemía a reprender al mismo Señor, diciendo: “Dios no lo permita, Señor,\nesto nunca debe suceder a usted!” Si, pues, Pedro se sintió\ntan conmovido por la muerte de Cristo, ¿quién más tenía fe en que\npodía sostener el dolor de un mal ejemplo? Si la roca inamovible casi fue\nmovido, ¿cómo podría la tierra soportar el embate de la tormenta?\nHomilía 35.",
+        "verse_ref": "Matthew 20:17"
+      },
+      {
+        "reading_ref": "Matthew 20:17-28",
+        "title": "El Hijo del hombre será condenado a muerte",
+        "father": "El Hijo del hombre será condenado a muerte",
+        "text": "Subiendo a Jerusalén. El trabajo incompleto en Mateo: “He aquí,\nsubimos a Jerusalén.” “Behold- es el lenguaje del que clama ser testigo\npara que puedan ocultar la memoria de este conocimiento previo en sus\ncorazones. Es aún más dramática que si debería decir: “He aquí, ahora\nde hecho una tercera vez Mi predicción es que el misterio de mi futuro sufrimiento.” Después de haber sido repetido con más frecuencia, se\npretendía occupytheir pensamientos más deeply.Homily 35. [ PG 56: 823].\nCondenado a muerte. El trabajo incompleto en Mateo: Toda la gloria\nde Dios y de toda la salvación de la humanidad han sido colocados en la\nmuerte de Cristo. Porque no hay cosa que pertenece más a la salvación\nde la humanidad que la muerte de Cristo. Tampoco hay ninguna otra\ncosa para la que debemos dar gracias a Dios más que por su muerte.\nHomilía 35.",
+        "verse_ref": "Matthew 20:18"
       }
     ],
     "meditation": "",
