@@ -1,71 +1,64 @@
 {
-  "generated_at": "2026-04-20T08:09:40.178262Z",
+  "generated_at": "2026-04-21T07:52:33.263133Z",
   "week": "2026-W16",
   "liturgy": {
-    "date": "2026-04-20",
+    "date": "2026-04-21",
     "season": "Eastertide",
     "readings": [
       {
         "type": "first_reading",
-        "reference": "Acts 6:8-15",
+        "reference": "Acts 7:51—8:1a",
         "summary": "",
-        "text": "En aquellos días, Esteban, lleno de gracia y poder, realizaba grandes prodigios y signos en medio del pueblo. Unos cuantos de la sinagoga llamada de los libertos, oriundos de Cirene, Alejandría, Cilicia y Asia, se pusieron a discutir con Esteban; pero no lograban hacer frente a la sabiduría y al espíritu con que hablaba.\nEntonces indujeron a unos que asegurasen:\n «Le hemos oído palabras blasfemas contra Moisés y contra Dios».\nAlborotaron al pueblo, a los ancianos y a los escribas, y, viniendo de improviso, lo agarraron y lo condujeron al Sanedrín, presentando testigos falsos que decían:\n «Este individuo no para de hablar contra el Lugar Santo y la Ley, pues le hemos oído decir que ese Jesús el Nazareno destruirá este lugar y cambiará las tradiciones que nos dio Moisés».\nTodos los que estaban sentados en el Sanedrín fijaron su mirada en él y su rostro les pareció el de un ángel."
+        "text": "En aquellos días, dijo Esteban al pueblo y a los ancianos y escribas:\n «¡Duros de cerviz, incircuncisos de corazón y de oídos! Vosotros siempre resistís al Espíritu Santo, lo mismo que vuestros padres. ¿Hubo un profeta que vuestros padres no persiguieran? Ellos mataron a los que anunciaban la venida del Justo, y ahora vosotros lo habéis traicionado y asesinado; recibisteis la ley por mediación de ángeles y no la habéis observado».\nOyendo sus palabras se recomían en sus corazones y rechinaban los dientes de rabia. Esteban, lleno de Espíritu Santo, fijando la mirada en el cielo, vio la gloria de Dios, y a Jesús de pie a la derecha de Dios, y dijo:\n «Veo los cielos abiertos y al Hijo del hombre de pie a la derecha de Dios».\nDando un grito estentóreo, se taparon los oídos; y, como un solo hombre, se abalanzaron sobre él, lo empujaron fuera de la ciudad y se pusieron a apedrearlo. Los testigos dejaron sus capas a los pies de un joven llamado Saulo y se pusieron a apedrear a Esteban, que repetía esta invocación:\n «Señor Jesús, recibe mi espíritu».\nLuego, cayendo de rodillas y clamando con voz potente, dijo:\n «Señor, no les tengas en cuenta este pecado».\nY, con estas palabras, murió.\nSaulo aprobaba su ejecución."
       },
       {
         "type": "psalm",
-        "reference": "Psalm 119:23-24, 26-27, 29-30",
+        "reference": "Psalm 31:3cd-4, 6 and 7b and 8a, 17 and 21ab",
         "summary": "",
-        "text": "Aunque los nobles se sienten a murmurar de mí,\n tu siervo medita tus decretos;\n tus preceptos son mi delicia,\n tus enseñanzas son mis consejeros. R/.\nTe expliqué mi camino, y me escuchaste:\n enséñame tus mandamientos;\n instrúyeme en el camino de tus mandatos,\n y meditaré tus maravillas. R/.\nApártame del camino falso,\n y dame la gracia de tu ley;\n escogí el camino verdadero,\n deseé tus mandamientos. R/."
+        "text": "Sé la roca de mi refugio,\n un baluarte donde me salve,\n tú que eres mi roca y mi baluarte;\n por tu nombre dirígeme y guíame. R/.\nA tus manos encomiendo mi espíritu:\n tú, el Dios leal, me librarás.\n Yo confío en el Señor.\n Tu misericordia sea mi gozo y mi alegría. R/.\nHaz brillar tu rostro sobre tu siervo,\n sálvame por tu misericordia.\n En el asilo de tu presencia los escondes\n de las conjuras humanas. R/."
       },
       {
         "type": "gospel",
-        "reference": "John 6:22-29",
+        "reference": "John 6:30-35",
         "summary": "",
-        "text": "Después de que Jesús hubo saciado a cinco mil hombres, sus discípulos lo vieron caminando sobre el mar.\nAl día siguiente, la gente que se había quedado al otro lado del mar notó que allí no había habido más que una barca y que Jesús no había embarcado con sus discípulos, sino que sus discípulos se habían marchado solos.\nEntretanto, unas barcas de Tiberíades llegaron cerca del sitio donde habían comido el pan después que el Señor había dado gracias. Cuando la gente vio que ni Jesús ni sus discípulos estaban allí, se embarcaron y fueron a Cafarnaún en busca de Jesús.\nAl encontrarlo en la otra orilla del lago, le preguntaron:\n «Maestro, ¿cuándo has venido aquí?».\nJesús les contestó:\n «En verdad, en verdad os digo: me buscáis no porque habéis visto signos, sino porque comisteis pan hasta saciaros. Trabajad no por el alimento que perece, sino por el alimento que perdura para la vida eterna, el que os dará el Hijo del hombre; pues a este lo ha sellado el Padre, Dios».\nEllos le preguntaron:\n «Y, ¿qué tenemos que hacer para realizar las obras de Dios?».\nRespondió Jesús:\n «La obra de Dios es esta: que creáis en el que Él ha enviado»."
+        "text": "En aquel tiempo, el gentío dijo a Jesús:\n «¿Y qué signo haces tú, para que veamos y creamos en ti? ¿Cuál es tu obra? Nuestros padres comieron el maná en el desierto, como está escrito: “Pan del cielo les dio a comer”».\nJesús les replicó:\n «En verdad, en verdad os digo: no fue Moisés quien os dio pan del cielo, sino que es mi Padre el que os da el verdadero pan del cielo. Porque el pan de Dios es el que baja del cielo y da vida al mundo».\nEntonces le dijeron:\n «Señor, danos siempre de este pan».\nJesús les contestó:\n «Yo soy el pan de vida. El que viene a mí no tendrá hambre, y el que cree en mí no tendrá sed jamás»."
       }
     ],
     "patristic_comments": [
       {
-        "reading_ref": "Acts 6:8-15",
-        "title": "Stephen Incautados y llevada ante el Consejo",
+        "reading_ref": "Acts 7:51—8:1a",
+        "title": "Stephen excoriates Popular",
         "father": "San Juan Crisóstomo",
-        "text": "Descripción general : Stephen es el primer testigo importante\nnonapostolic en el libro de los Hechos, y su testimonio ( martyria )\nalcanza su objetivo final. Crisóstomo puntos al aumento del poder que\nacompaña a la imposición de las manos y de la gloria que Dios otorgó a\nStephen. El uso de Beda de la filología es característico de su tiempo,\npero es sensible al hecho de que Lucas es la imagen de Stephen como\nun ejemplo de cumplimiento de la profecía de Jesús que iba a ayudar a\nlos menores de ensayo ( Luk_21: 15 ).",
-        "verse_ref": "Acts 6:8-15"
+        "text": "Descripción general : El destino de Stephen es clara como parte de la\nrevelación continua y la oferta de la gracia de Dios a través de las\nacciones caprichosos de personas en contra de sus elegidos\n(Crisóstomo). Como le sucedió a los profetas, y Cristo, y como sucedió a\nCristo, por lo que aquellos que predican a Cristo. Y los que predican a\nCristo debe llegar a ser tanto el fuego como la paloma discreta del\nEspíritu Santo (San Agustín).",
+        "verse_ref": "Acts 7:51-53"
       },
       {
-        "reading_ref": "Acts 6:8-15",
-        "title": "Esteban, lleno de gracia y el poder",
+        "reading_ref": "Acts 7:51—8:1a",
+        "title": "Resistir al Espíritu Santo",
         "father": "San Juan Crisóstomo",
-        "text": "El don de la predicación sí sola no es suficiente. Crisóstomo: Vea\ncómo incluso entre los siete había uno que era preeminente y que ganó\nel primer premio. Pues aunque la ordenación era común a todos los\nsiete, dibujó a sí mismo mayor gracia. Y observe cómo trabajó no hay\nseñales y maravillas [] antes de esto, pero sólo cuando se dio a conocer\npúblicamente. Esto fue para mostrar que el don de la predicación por sí\nsola no es suficiente y que hay también necesidad de la ordenación. Así\nfue la asistencia del Espíritu adquirida. Por si estuvieran llenos del\nEspíritu, es evidente que venía del baño del bautismo. Homilías sobre\nlos Hechos de los Apóstoles 15. Lleno de gracia y coraje. Beda: La palabra griega Stephen significa\n“coronado” en latín. [Isidoro de Sevilla Etimologías 7.11.3.] En una manera muy\nbonita anticipó por el augurio en su nombre lo que estaba a punto de\nexperimentar en la realidad- “abyectamente lapidado, pero coronado en\nlo alto.” [Agustín Explicaciones de los Salmos 58.1.5 (CCL 39: 732).] En hebreo, sin\nembargo, su nombre significa “su norma” [Jerome sobre los nombres hebreos\n(CCL. 72: 148 MS H).] cuya norma, si no la de los mártires posteriores, para\nlos cuales , por ser los primeros en sufrir, se convirtió en el modelo de\nmorir por Cristo? Comentario de los Hechos de los Apóstoles 6,8.",
-        "verse_ref": "Acts 6:8"
+        "text": "Una historia de la resistencia. Crisóstomo: “¡Siempre resisten al\nEspíritu Santo. Como vuestros padres, así también vosotros “Cuando no\nera su voluntad que no debe haber sacrificios, sacrificaste.; y cuando es\nsu voluntad, no sacrificio. Cuando no le daría los mandamientos, que los\narrastró hacia usted; cuando los recibió, les descuidado. Una vez más,\ncuando el templo se levantó, que adoraban ídolos; y cuando es su\nvoluntad de ser adorado sin templo, debe hacer lo contrario. Homilías\nsobre los Hechos de los Apóstoles 17. Palabras quema, sino como una paloma. Agustín: Por lo tanto,\ncuando envió el Espíritu Santo, le manifiesta visiblemente en dos\nformas, como paloma, y como el fuego; . como una paloma sobre el\nSeñor bautizado, como el fuego sobre los discípulos reunidos ... Aquí\nvimos una paloma en el Señor; allí se separaron lengüetas sobre los\ndiscípulos ensamblados; en el que, se muestra la simplicidad, en la otra,\nfervor. Porque no son los que se dice que son simples, y son indolentes;\nse les llama simple, pero son perezosos. No es un uno de esos era\nEsteban, lleno del Espíritu Santo. Era sencillo, porque él daño a nadie; él\nera ferviente, porque reprochó a los impíos. Para no guardó silencio\nantes de los Judios; suyos son esas palabras de fuego, “duros de cerviz,\ne incircuncisos de corazón y de oídos, siempre que haya resistido al\nEspíritu Santo.” Un gran vehemencia! Se hace estragos, sino como una\npaloma sin bilis. Porque, a fin de que sepas que duró sin bilis, los que\nestaban cuervos, oyendo estas palabras, de inmediato corrió para\npiedras [utilicen] en contra de la paloma. Stephen comenzó a ser\nlapidada; y él, que aunque un poco antes estaba en su apogeo y el\nespíritu de ebullición, como si hubiera atacado a sus enemigos, y como\nsi los había atacado con violencia por parte de aquellas palabras de\nfuego y ardientes como han oído, “duros de cerviz e incircuncisos de\ncorazón y oídos “, para que el que oye estas pal",
+        "verse_ref": "Acts 7:51"
       },
       {
-        "reading_ref": "Acts 6:8-15",
-        "title": "La sabiduría y el Espíritu",
-        "father": "San Beda",
-        "text": "Para Mártires Elocuencia se administra. Beda: Esto es lo que el\nSeñor mismo dice a sus mártires: “Porque yo os haré elocuencia y\nsabiduría que todos sus adversarios no podrá resistir ni contradecir.” Era lógico que en el primer mártir él debe confirmar lo que se\ndignó a prometer a todos aquellos entregado [martirio] por el bien de su\nnombre. Comentario de los Hechos de los Apóstoles 6,10.",
-        "verse_ref": "Acts 6:10"
-      },
-      {
-        "reading_ref": "John 6:22-29",
-        "title": "Caminando sobre el agua: Una quinta señal a los discípulos",
-        "father": "San Juan Crisóstomo",
-        "text": "Descripción general: En la cuenta del pie en el agua que sigue, una\nvez más notamos algunas ligeras discrepancias entre el relato de Juan y\nde otras cuentas (Agustín, Crisóstomo). En el relato de Juan Jesús está\ntratando de difundir la anticipación que lo rodea debido a su milagro\nmediante el envío de los discípulos en adelante en el barco como\nseñuelos. Se encuentran con la oscuridad y una tormenta que le quita\ncualquier capacidad de navegación. Pero a pesar de la oscuridad y las\nolas ondulantes, el verdadero peligro es que Jesús no está con ellos, un\npeligro para cualquier persona atrapada en las tormentas de la vida\n(Cirilo de Alejandría).\nEsta tormenta, en muchos sentidos, tipifica el peligro de la iglesia y sus\nmiembros se encuentran en (Agustín), pero siempre es mejor para\nsatisfacer esas tormentas con la oración (Isaías). Cristo no viene de\ninmediato a la ayuda de sus discípulos, sino que espera hasta que están muy lejos de la costa y en medio de las olas de la aflicción que les\naquejan (Cirilo de Alejandría). El que es “YO SOY”, entonces viene a\nellos y se identifica con ellos (Bede). Él trae la calma inmediata sin ni\nsiquiera entrar en el barco y lleva a cabo un milagro aún más para llevar\nel barco a la costa en un instante en que lo había sido en el medio del\nlago (Theodore). Su dominio sobre el agua era incluso mayor que la de\nMoisés, pero la gente todavía no lo creería, a pesar de la evidencia\nsuficiente para inferir el milagro había tenido lugar (Crisóstomo).",
-        "verse_ref": "John 6:16-24"
-      },
-      {
-        "reading_ref": "John 6:22-29",
-        "title": "Las personas estaban buscando a Jesús",
-        "father": "San Juan Crisóstomo",
-        "text": "Oportunidad para el público para inferir un milagro. Crisóstomo:\n¿Por qué no entrar en el barco? Debido a que su intención era hacer el\nmilagro mayor y revelar más abiertamente a ellos su Dios. ... Al día\nsiguiente, las personas que habían estado en el otro lado del mar vio\nque no había ningún otro barco allí excepto el que sus discípulos\nentraron . También vieron que Jesús no había entrado con sus discípulos\nen la barca sino que sus discípulos estaban solos cuando se fueron. Y\npor qué es tan exacto John sobre esto? ¿Por qué no decir simplemente\nque la multitud había cruzado al día siguiente? Él nos quiere enseñar\nque Jesús permitió a las multitudes, si no abiertamente, al menos\nindirectamente, para inferir lo que había ocurrido. ... ¿Qué otra cosa\npodían hacer sospechar que había cruzado el mar a pie? Para él no\npodría haber ido en un barco ya que no había una sola nave no-aquel en el que habían entrado en sus discípulos. Homilías sobre el Evangelio de\nSan Juan 43,1. Un milagro mayor que el de Moisés. Crisóstomo: Los Judios, guiados\npor Moisés, pasaron el Mar Rojo, pero ese caso es muy diferente. Moisés\nlo hizo todo con la oración y como servidor. Cristo hace con el poder\nabsoluto. No cuando el viento soplaba del sur, el agua produjo el fin de\npermitir que pasen por tierra seca, Pero aquí el milagro es\nmayor. Por el mar retuvo su propia naturaleza y de esta manera lleva a\nsu Señor sobre su superficie, lo que atestigua la Escritura que dice:\n“¿Quién anda sobre el mar como en el pavimento.” Homilías\nsobre el Evangelio de San Juan 43,2 .",
-        "verse_ref": "John 6:22-24"
-      },
-      {
-        "reading_ref": "John 6:22-29",
+        "reading_ref": "John 6:30-35",
         "title": "Las multitudes y el PAN",
         "father": "San Juan Crisóstomo",
         "text": "Descripción general: Cuando la multitud se encuentra a Jesús, que no\nsólo se sorprenderá de cómo llegó hasta allí, sino también,\naparentemente, han olvidado de hacerle rey (Crisóstomo). El que había\nhuido al monte de soledad ahora se mezcla con la multitud para llenar\nsus almas con otro tipo de pan (Agustín). Pero sus mentes aún están\nfijos en el pan para el cuerpo (Crisóstomo), al igual que la gente todavía\nson cuando buscan a Jesús por lo que ellos más que para dar puede\nquién es (Agustín). El trabajo no puede garantizar la seguridad, ni es\nque su propósito. Jesús quiere que la gente sepa que alimenta sus\ncuerpos sólo para que no buscarían la comida que era temporal, sino\neterna (Crisóstomo). Jesús puede proporcionar este alimento espiritual\nporque ha recibido el sello de aprobación del Padre. Como el Hijo, que\nes el sello, o pie de imprenta, de la divina para que podamos ver al\nPadre (Hilary). Es a través de Cristo que nosotros también recibimos el\nsello de Dios (Cirilo de Alejandría), que es la marca de la perfección y el\namor en nosotros (Ambrose). Para hacer el trabajo de Dios es creer en\nel Hijo que el Padre ha sellado (Hilary). Pero incluso esa misma fe sigue\nsiendo la obra de Dios en nosotros (Agustín).\nDespués de todo lo que Jesús ha dicho, la gente todavía carece de fe, ya\nque piden otro milagro. Pero Jesús tiene más que enseñarles. Se\nidentifica el Padre como el dador del pan sobre el que acababa de hablar\n(Crisóstomo), la búsqueda de una abertura para conducir gradualmente\na la multitud desde el pan y el vino transitoria a su verdadero cuerpo y\nsangre (Efrén). A medida que nuestro pan de cada día, que es la única\nnecesidad de la vida (Tertuliano). Él es el único verdadero pan del cielo\nque da vida; el maná era sólo un plano sombreado (Cyril de Alejandría).\nIncluso su lugar de nacimiento en Belén señaló hacia el que iba a ser el pan del cielo (Eusebio), que refresca y sostiene, al igual que el agua que\nprometió a la samaritana qu",
         "verse_ref": "John 6:25-34"
+      },
+      {
+        "reading_ref": "John 6:30-35",
+        "title": "En busca de una sesión",
+        "father": "San Juan Crisóstomo",
+        "text": "Piden otro milagro. Crisóstomo: No hay nada peor, nada más\nvergonzoso, que la gula, que nubla el juicio y reduce el alma a los\napetitos satisfactorio ... Por ejemplo, nada puede ser más razonable que\nsu pidiendo otro milagro, como si ninguno había sido dado ya.. Y ni\nsiquiera se dejan a la discreción del milagro de nuestro Señor sino que\nle obligan a darles precisamente eso señal de que se le dio a sus\nantepasados: “Nuestros padres comieron el maná en el desierto.” ...\nHubo muchos milagros realizados en Egipto, en el Mar rojo y en el\ndesierto, y sin embargo se acordaron de éste el mejor de cualquier. Tal\nes la fuerza del apetito. ... No mencionan este milagro como el trabajo,\nya sea de Dios o de Moisés, con el fin de evitar la formación de Jesús\npor un lado, a una igualdad con Dios o bajándolo por el otro por una\ncomparación con Moisés . Más bien, se llevan el término medio, se limitó\na decir: “Nuestros padres comieron el maná en el desierto.” Homilías\nsobre el Evangelio de San Juan 45,1.",
+        "verse_ref": "John 6:30"
+      },
+      {
+        "reading_ref": "John 6:30-35",
+        "title": "El verdadero pan del cielo",
+        "father": "San Juan Crisóstomo",
+        "text": "Poco a poco, Jesús se revela como el pan de vida. Crisóstomo: Se\nllama a esto el “verdadero pan”, no porque el milagro del maná era\nfalsa, sino porque era un tipo y no el propio muy verdad. Pero al\nmencionar Moisés, Jesús no se compara a sí mismo con él, para los\nJudios no aún lo prefieren a Moisés, de los cuales todavía tenían una\nmejor opinión. Así que después de decir: “Moisés no dieron,” no dice “Doy”, pero dice que el Padre, y no Moisés, da. Al oír esto, el pueblo\nrespondió, “Danos pan para comer.” Ellos todavía pensaban que era\nalgo de material, y aún espera para satisfacer su apetito, por lo que\ncorrieron rápidamente a él. ¿Y qué hace Cristo? Guiándolos poco a poco,\nse dice: “El pan de Dios es el que baja del cielo y da vida al mundo.”\nHomilías sobre el Evangelio de San Juan 45,1. Lograr que Acostumbrados a su pan y del vino. Efrén el Sirio: A\npartir de un poco de pan, nuestro Señor hizo una abundancia de pan en\nel medio del desierto, y en Caná convirtió el agua en vino. En un primer\nmomento se dispuso a dar instrucciones a sus bocas sobre el pan y el\nvino, hasta que llegó la hora de que se les dan su sangre y su cuerpo\ntambién. Él les dio el gusto de una sobreabundancia de pan y vino\ntransitoria con el fin de darles una preocupación y el interés por la\nsuperabundancia de su cuerpo vivo y la sangre. Él les dio estas cosas\nmenores sin precio, para que supiesen que este regalo de su, de alto\nvalor, era libre. Él les dio libremente aquellas cosas que eran capaces de\ncomprar de él a un precio. Por lo tanto, no se vendió nada a ellos que\neran capaces de comprar, para que supiesen que no había ningún cargo\nque requiere de ellos por lo que no tenían; porque eran capaces de\npagar el precio de su pan y el vino, pero no podían pagar el precio de su\ncuerpo y sangre. Fue de esta manera que no sólo nos dio libremente,\nsino que incluso nos tentador así; porque él dio estas cosas menores\nlibremente a cautivarnos a venir y rec",
+        "verse_ref": "John 6:31-32"
       }
     ],
     "meditation": "",
