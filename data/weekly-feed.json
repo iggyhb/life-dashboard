@@ -1,97 +1,71 @@
 {
-  "generated_at": "2026-05-14T08:38:29.052621Z",
+  "generated_at": "2026-05-15T08:50:02.972559Z",
   "week": "2026-W19",
   "liturgy": {
-    "date": "2026-05-14",
+    "date": "2026-05-15",
     "season": "Eastertide",
     "readings": [
       {
         "type": "first_reading",
-        "reference": "Acts 1:1-11",
+        "reference": "Acts 18:9-18",
         "summary": "",
-        "text": "En aquellos días, Pedro se puso en pie en medio de los hermanos (había reunidas unas ciento veinte personas) y dijo:\n«Hermanos, tenía que cumplirse lo que el Espíritu Santo, por boca de David, había predicho, en la Escritura, acerca de Judas, el que hizo de guía de los que arrestaron a Jesús, pues era de nuestro grupo y le cupo en suerte compartir este ministerio.\nY es que en el libro de los Salmos está escrito: «Que su morada quede desierta, y que nadie habite en ella», y también: «Que su cargo lo ocupe otro».\nEs necesario, por tanto, que uno de los que nos acompañaron todo el tiempo en que convivió con nosotros el Señor Jesús, comenzando en el bautismo de Juan hasta el día en que nos fue quitado y llevado al cielo, se asocie a nosotros como testigo de su resurrección».\nPropusieron dos: José, llamado Barsabá, de sobrenombre Justo, y Matías. Y rezando, dijeron:\n«Señor, tú que penetras el corazón de todos, muéstranos a cuál de los dos has elegido para que ocupe el puesto de este ministerio y apostolado, del que ha prevaricado Judas para marcharse a su propio puesto».\nLes repartieron suertes, le tocó a Matías, y lo asociaron a los once apóstoles."
+        "text": "Cuando estaba Pablo en Corinto, una noche le dijo el Señor en una visión:\n«No temas, sigue hablando y no te calles, pues yo estoy contigo, y nadie te pondrá la mano encima para hacerte daño, porque tengo un pueblo numeroso en esta ciudad».\nSe quedó, pues, allí un año y medio, enseñando entre ellos la palabra de Dios.\nPero, siendo Gallón procónsul de Acaya, los judíos se abalanzaron de común acuerdo contra Pablo y lo condujeron al tribunal diciendo:\n«Este induce a la gente a dar a Dios un culto contrario a la ley».\nIba Pablo a tomar la palabra, cuando Gallón dijo a los judíos:\n«Judíos, si se tratara de un crimen o de un delito grave, sería razón escucharos con paciencia; pero, si discutís de palabras, de nombres y de vuestra ley, vedlo vosotros. Yo no quiero ser juez de esos asuntos».\nY les ordenó despejar el tribunal.\nEntonces agarraron a Sóstenes, jefe de la sinagoga, y le dieron una paliza delante del tribunal, sin que Galión se preocupara de ello.\nPablo se quedó allí todavía bastantes días; luego se despidió de los hermanos y se embarco para Siria con Priscila y Aquila. En Cencreas se había hecho rapar la cabeza, porque había hecho un voto."
       },
       {
         "type": "psalm",
-        "reference": "Psalm 47:2-3, 6-7, 8-9",
+        "reference": "Psalm 47:2-3, 4-5, 6-7",
         "summary": "",
-        "text": "Alabad, siervos del Señor,\n alabad el nombre del Señor.\n Bendito sea el nombre del Señor,\n ahora y por siempre. R/.\n \nDe la salida del sol hasta su ocaso,\n alabado sea el nombre del Señor.\n El Señor se eleva sobre todos los pueblos,\n su gloria sobre los cielos. R/.\n \n¿Quién como el Señor, Dios nuestro,\n que se eleva en su trono\n y se abaja para mirar\n al cielo y a la tierra?. R/.\nLevanta del polvo al desvalido,\n alza de la basura al pobre,\n para sentarlo con los príncipes,\n los príncipes de su pueblo. R/."
-      },
-      {
-        "type": "second_reading",
-        "reference": "Ephesians 1:17-23",
-        "summary": ""
+        "text": "Pueblos todos, batid palmas,\n aclamad a Dios con gritos de júbilo;\n porque el Señor altísimo es terrible,\n emperador de toda la tierra. R/.\nÉl nos somete los pueblos\n y nos sojuzga las naciones;\n él nos escogió por heredad suya:\n gloria de Jacob, su amado. R/.\nDios asciende entre aclamaciones;\n el Señor, al son de trompetas:\n tocad para Dios, tocad;\n tocad para nuestro Rey, tocad. R/."
       },
       {
         "type": "gospel",
-        "reference": "Matthew 28:16-20",
+        "reference": "John 16:20-23",
         "summary": "",
-        "text": "En aquel tiempo, dijo Jesús a sus discípulos:\n«Como el Padre me ha amado, así os he amado yo; permaneced en mi amor.\nSi guardáis mis mandamientos, permaneceréis en mi amor; lo mismo que yo he guardado los mandamientos de mi Padre y permanezco en su amor.\nOs he hablado de esto para que mi alegría esté en vosotros, y vuestra alegría llegue a plenitud. Este es mi mandamiento:\nque os améis unos a otros como yo os he amado.\nNadie tiene amor más grande que el que da la vida por sus amigos. Vosotros sois mis amigos si hacéis lo que yo os mando.\nYa no os llamo siervos, porque el siervo no sabe lo que hace su señor: a vosotros os llamo amigos, porque todo lo que he oído a mi Padre os lo he dado a conocer.\nNo sois vosotros los que me habéis elegido, soy yo quien os he elegido y os he destinado para que vayáis y deis fruto, y vuestro fruto permanezca.\nDe modo que lo que pidáis al Padre en mi nombre os lo dé.\nEsto os mando: que os améis unos a otros»."
+        "text": "En aquel tiempo, dijo Jesús a sus discípulos:\n«En verdad, en verdad os digo: vosotros lloraréis y os lamentaréis, mientras el mundo estará alegre; vosotros estaréis tristes, pero vuestra tristeza se convertirá en alegría.\nLa mujer, cuando va a dar a luz, siente tristeza, porque ha llegado su hora; pero, en cuanto da a luz al niño, ni se acuerda del apuro, por la alegría de que al mundo le ha nacido un hombre.\nTambién vosotros ahora sentís tristeza; pero volveré a veros, y se alegrará vuestro corazón, y nadie os quitará vuestra alegría. Ese día no me preguntaréis nada»."
       }
     ],
     "patristic_comments": [
       {
-        "reading_ref": "Acts 1:1-11",
-        "title": "La promesa del Espíritu Santo",
-        "father": "La promesa del Espíritu Santo",
-        "text": "Descripción general : En los primeros capítulos del libro de los\nHechos, Lucas tiene la intención de demostrar cómo los que creen en\nJesús formar el nuevo pueblo de Dios. Este primer capítulo está\ndestinado a ser una preparación para Pentecostés, la nueva experiencia\nformativa que inaugura la iglesia. Lucas primera vincula la narrativa\nactual a su volumen anterior ( ACT_1: 1-2 ) y luego, en cinco pasos,\nregistra la promesa de Jesús del Espíritu Santo ( ACT_1: 3-5 ), la\ndiscusión sobre el reino y la misión de la apóstoles ( 6-8 ACT_1 salida, y\nJesús y entronización () ACT_1: 9-11 ). Sigue a esto con una\ndescripción de los discípulos que obedecen a Jesús y esperando en la\noración ( ACT_1: 12-14 ) y la reconstitución de los Doce con la elección\nde Matías ( ACT_1: 15-26 ). Mientras que los padres no comentan en\ndetalle en el enfoque literario de Lucas, que son sensibles a algunas de las funciones especiales de este segundo tratado; por ejemplo, que\nnarra el cumplimiento de lo que Cristo hizo y tanto predijo. También\nllaman la atención al ritmo de “hacer y decir,” mencionado por Lucas.\nEllos están atentos a la importancia de la observación de Lucas que\nJesús les dio pruebas ( tekmērioi ) de su realidad resucitado y son\nconscientes de que esta cuenta de Lucas menciona un período de\ncuarenta días entre la resurrección y la ascensión no se habla de otra\nparte de los Evangelios. Por último, aprecian el hecho de que Lucas\nmenciona el Espíritu Santo al comienzo de su segundo libro, lo que nos\nprepara para ver a su teología de la iglesia. Como se observa\nCrisóstomo, Hechos nos dicen lo que el “otro Paráclito”, dijo e hizo.",
-        "verse_ref": "Acts 1:1-5"
+        "reading_ref": "Acts 18:9-18",
+        "title": "Los Judios de Corinto se oponen Paul",
+        "father": "Los Judios de Corinto se oponen Paul",
+        "text": "Descripción general : Pablo continúa tratando de difundir el Evangelio\nentre sus compañeros de Judios, y que por lo tanto da un ejemplo de\nque, aun cuando el Evangelio no es bienvenido, no podemos dejar de\ntransmitirla a aquellos por los que tienen la responsabilidad. Declarando\nsu inocencia, que trata de llevar a casa con ellos la naturaleza\naterradora de su elección (Crisóstomo), algo semejante a tomar sus\npropias vidas (Amonio). Didymus encuentra en las acciones posteriores\nde Pablo alguna evidencia de su miedo a la ciudad pagana, un miedo tal\nvez de sufrimiento o de una audiencia incrédula. Dios le reprocha a este\nmiedo (Crisóstomo) y le anima, ya que Dios sabía de los muchos que\nhay que creerían (Dídimo, Crisóstomo).",
+        "verse_ref": "Acts 18:5-11"
       },
       {
-        "reading_ref": "Acts 1:1-11",
-        "title": "Todo lo que Jesús comenzó a hacer ya enseñar",
+        "reading_ref": "Acts 18:9-18",
+        "title": "No tengas miedo",
+        "father": "No tengas miedo",
+        "text": "El fortalecimiento de testigo. Dídimo el Ciego: En Corinto, Dios se le\napareció en una visión al apóstol y le instó a no tener miedo de enseñar,\ny se hizo claro para él la razón por la que debe hablar y no callar, a\nsaber, que, en esa ciudad, hay había muchos que Dios sabía que iba a\nrecibir el anuncio del evangelio. Pues ya que era natural que Pablo, al ser humano, tenía miedo de algún ataque contra sí mismo, al ver que a\ncontinuación, casi todo el mundo que todavía era pagano, Dios estimula\ny despierta al maestro que sea valiente al decir: “Estoy contigo para\nimpedir que terceras personas . de tratar de hacer daño, por lo que\nnadie pone la mano encima” [la presencia especial de Dios a sus escogidos es a\nmenudo la fuente de su fortaleza: ver Deu_31: 6 ; Jos_1: 6-7 ; El martirio de Policarpo 9; La tercera vida de Daniel el Estilita 13.] Catena en los Hechos de los Apóstoles 18,9- 11. [CGPNT 3: 304.]",
+        "verse_ref": "Acts 18:9"
+      },
+      {
+        "reading_ref": "Acts 18:9-18",
+        "title": "Estoy con usted",
         "father": "San Juan Crisóstomo",
-        "text": "La ventaja de leer el segundo libro. Crisóstomo: Para muchas\npersonas este libro, tanto en su contenido y de su autor, se sabe tan\npoco que ni siquiera son conscientes de que existe. Por lo tanto, he\ntomado esta narrativa de mi tema, tanto para iniciar los ignorantes y\npara que tal tesoro no deberá permanecer oculto a la vista. Pues de\nhecho nos va a sacar provecho no menos que los mismos Evangelios,\npor lo que es repleta con sabiduría y doctrina cristiana sonido,\nespecialmente en lo que se dice acerca del Espíritu Santo. Veamos a\ncontinuación, no pases por ella a toda prisa, pero la examinamos de\ncerca. Ya que aquí podemos ver las predicciones de Cristo en los\nEvangelios profiere en realidad vienen a pasar. La verdad brilla a través\nde los hechos mismos, y un gran cambio para mejor se lleva a cabo en\nlos discípulos ahora que el Espíritu ha venido sobre ellos. Porque las\npalabras que oyeron a Cristo decir: “El que cree en mí hará lo que he\nestado haciendo. Él hará aun mayores que éstas” -y los\nacontecimientos que él predijo, que serán llevados ante gobernantes y\nreyes y ser azotados en las sinagogas de ellos, que han de sufrir cosas\nduras, y superar todo, . que el evangelio será predicado en\ntodo el mundo, todo esto aconteció en este libro\nexactamente como se predijo, y muchas otras cosas que les dijo cuando\nestaba con ellos. Homilías sobre los Hechos de los Apóstoles 1. Amante de Dios. Beda: Teófilo significa amante de Dios o amado de\nDios. Por lo tanto, cualquier persona que es un amante de Dios puede\ncreer que esta obra fue escrita por él, debido a que el médico Lucas\nescribió con el fin de que el lector puede encontrar la salud de su alma.\nTenga en cuenta también que, según él, “todo lo que Jesús comenzó a hacer ya enseñar,” primero “no” y luego “enseñar”, porque Jesús,\nestableciendo el patrón de un buen maestro, enseña nada, excepto\naquellas cosas que",
-        "verse_ref": "Acts 1:1"
+        "text": "Disipar la aprensión. Crisóstomo: “No tengan miedo”, dice. Esto fue\nsuficiente para despertarle, ya sea porque se le reprochó que tener\nmiedo o porque no se censuró, pero animó a que no iba a sufrir esto.\n(Para que no siempre les permite sufren terriblemente, por lo que no\npodría llegar a ser demasiado débil.) Para nada dolido Paul tanto como\nlos que no creyeron y se entregó a la oposición. Esto era más difícil de\nsoportar para él de peligros. “Y no calles”, dice, “porque yo tengo mucho\npueblo en esta ciudad.” Fue probablemente por esta razón por la que se\nle apareció Cristo. Homilías sobre los Hechos de los Apóstoles 39.",
+        "verse_ref": "Acts 18:10"
       },
       {
-        "reading_ref": "Acts 1:1-11",
-        "title": "El Cristo del día ha sido tomado",
+        "reading_ref": "John 16:20-23",
+        "title": "El dolor de LOS DISCÍPULOS",
         "father": "San Juan Crisóstomo",
-        "text": "Su mandamiento. Crisóstomo: ¿Qué le manda? “Por tanto, id y haced\ndiscípulos a todas las naciones, bautizándolos en el nombre del Padre y\ndel Hijo y del Espíritu Santo, y enseñándoles a guardar todo lo que os he\nmandado.” Grande es el elogio de los apóstoles, cuando se\nles ha confiado este mandato, es decir, la salvación del mundo. Palabras\nllenas del Espíritu! Esto se insinúa en la expresión “Las palabras que les\nhe hablado son espíritu”, “a través del Espíritu Santo.” , Dijo,\nlo que induce en el oyente el deseo de aprender los mandamientos y el\nestablecimiento de la autoridad de los apóstoles, ya que son las palabras\ndel Espíritu son para hablar, y los mandamientos de Cristo. Homilías\nsobre los Hechos de los Apóstoles 1.",
-        "verse_ref": "Acts 1:2"
+        "text": "Descripción general: Jesús habla de lo que sucederá “en poco\ntiempo”, en alusión a su traición, crucifixión y sepultura (Bede), sino\ntambién de su resurrección (Agustín) .Estos son palabras de consuelo\npara los discípulos, ya que indican la muerte de Jesús es sólo una\ntraducción a su futuro estado resucitado (Crisóstomo), aunque también\nes vago en muchos detalles con el fin, por el momento, de sobra los\ndiscípulos el temor a que muy pronto sufrir (Cyril). El dolor y alegría la\nexperiencia posterior a los discípulos refleja la de los de la iglesia de hoy\nque con razón se lamentan y lloran sobre el momento actual, siendo aún\nincapaz de ver a su Señor cara a cara (Bede). Pero al igual que el\nsufrimiento es un tiempo de llorar, la resurrección será un tiempo para\nla risa (Dionisio). Los que son del mundo puede reírse ahora (Cyril),\npero es cristianos que más tarde se alegrarán como el mundo llora\n(Tertuliano). Jesús compara estos sufrimientos temporales para los\ndolores de parto (Crisóstomo), mirando hacia los fieles que se dio a luz\nen el cielo a su muerte (Bede). La alegría que Cristo ofrece es mucho\nmás duradera que la del mundo (Cipriano). Es una alegría que se\nencuentra su plena realización en la vida que está por venir (Agustín).",
+        "verse_ref": "John 16:16-22"
       },
       {
-        "reading_ref": "Ephesians 1:17-23",
-        "title": "Acción de Gracias de Pablo",
+        "reading_ref": "John 16:20-23",
+        "title": "La tristeza y la alegría para los creyentes",
+        "father": "San Beda",
+        "text": "La tristeza y la alegría, entonces y ahora. Beda: ¿Qué añadió a\nmodo de explicación a los que preguntar a él: “En verdad, en verdad os\ndigo que va a lamentar y llorar, pero el mundo se alegrará. Va a ser\ntristes, pero vuestra tristeza se cambió a la alegría”es apropiado para su\ncondición y la de toda la iglesia. Los que amaban a Cristo lamentó y\nlloró cuando lo vieron aprehendido por sus enemigos, atado, llevado\nante el Sanedrín, condenado [a la muerte], azotado, se expone como un\nobjeto de burla y finalmente crucificado, su costado traspasado con una\nlanza y enterrado. Los que amó al mundo ... se regocijaron cuando\ncondenados a una muerte vergonzosa que se preocupaba por ellos,\nincluso a la vista. Los discípulos estaban tristes cuando su Señor fue\ncondenado a muerte, pero cuando ellos reconocieron su resurrección, su\ntristeza se cambió a la alegría. Y cuando vieron la grandeza de su\nascensión, que fueron criados hasta un nivel aún mayor de la alegría,\nalabando y bendiciendo a Dios. ...\nPero este discurso del Señor también es apropiado para todos los\ncreyentes que se esfuerzan por llegar a las alegrías eternas a través de las lágrimas y la angustia de la presente [la vida]. Con razón se\nlamentan y lloran y están tristes durante el presente [tiempo], ya que\ntodavía no son capaces de verlo a quienes aman. Mientras están en su\ncuerpo, ellos reconocen que están en un viaje y [ausente] de su patria y\nreino. No tienen ninguna duda de que deben llegar a su corona por\ntrabajos y concursos. Su tristeza se cambiará en alegría cuando,\ndespués de la lucha de la vida presente es más, reciben el premio de la\nvida eterna, de la que se dice en el salmo: “Los que siembran con\nlágrimas cosecharán con alegría.” [ Psa_126 : 5 (125: 5 LXX, Vg)]. Homilías\nsobre los Evangelios 2.13. Reír en el momento de la resurrección. Dionisio de Alejandría:\n“tiempo de llorar y tiempo de reír.” Tiempo de llorar,",
+        "verse_ref": "John 16:17-20"
+      },
+      {
+        "reading_ref": "John 16:20-23",
+        "title": "Dolores de parto traer la alegría",
         "father": "San Juan Crisóstomo",
-        "text": "Descripción general : elogio de Pablo se convierte en el preludio de su\nconsejo. Sus oraciones por los efesios son a la vez un patrón para\nnosotros (Marius Victorinus) y una expresión de su piedad (Crisóstomo).\nEl Padre es Padre de Cristo como Dios y el Dios de Jesús como hombre\n(Jerome). La gloria de Dios se manifiesta en sus efectos (Crisóstomo,\nHilario de Poitiers). Su revelación ya ha dado a conocer a los Efesios\n(Jerome), que ahora se inspiró aún más con el celo por la oración de\nPablo por ellos (Ambrosiaster). Los ojos del corazón, abiertas por la fe\n(Jerome, Efrén el Sirio), se suman a la revelación visión (Marius\nVictorinus) pero no sin la responsabilidad moral (Jerome).",
-        "verse_ref": "Ephesians 1:15-18"
-      },
-      {
-        "reading_ref": "Ephesians 1:17-23",
-        "title": "Un espíritu de sabiduría y revelación",
-        "father": "Un espíritu de sabiduría y revelación",
-        "text": "Porque ¿qué Paul Pray? Ambrosiaster: La esperanza de su fe se\nencuentra en una recompensa celestial. Cuando realmente saben lo que\nel fruto de la creencia es, van a ser más ansiosos en los actos de culto.\nEpístola a los Efesios 1.18.1.",
-        "verse_ref": "Ephesians 1:17"
-      },
-      {
-        "reading_ref": "Ephesians 1:17-23",
-        "title": "La esperanza a la que estamos llamados",
-        "father": "La esperanza a la que estamos llamados",
-        "text": "Para que sepáis por Insight y Revelación. Marius Victorinus: Vamos\na entender que se llega a todo el misterio de Dios por dos vías: Nosotros\nmismos por comprensión racional puede llegar a entender y discernir\nalgo del conocimiento de las cosas divinas. Pero cuando hay una cierta\nauto-revelación divina Dios mismo revela su divinidad a nosotros. Algunos pueden percibir directamente por esta revelación algo\nextraordinario, majestuoso y cerca de la verdad. ... Pero cuando\nrecibimos sabiduría que aprehender lo que es divina, tanto a través de\nnuestra propia visión racional y a través del propio Espíritu de Dios.\nCuando llegamos a saber lo que es cierto en la forma en que este texto\npretende, estos dos modos de conocer responden. Epístola a los Efesios\n1.1.17-18. [BT 1972: 141 [1248A-B].]\nEl conocimiento de la esperanza de la resurrección. Jerome: No sin\nesfuerzo que venimos a este esfuerzo, de hecho, es una respuesta a ese\ndon renovando la que Dios mismo da en la resurrección gloriosa de su\n“cuál es la esperanza de nuestro llamado y la riqueza de la herencia de\nDios en los santos.” propio hijo. Este regalo no da una, sino\ncontinuamente. ... Todos los días se levanta a Cristo de entre los\nmuertos. Todos los días se levanta en el penitente. Epístola a los Efesios\nsiguientes 1.1.18. [PL 26: 460A [564].]",
-        "verse_ref": "Ephesians 1:18"
-      },
-      {
-        "reading_ref": "Matthew 28:16-20",
-        "title": "El Señor resucitado se aparece a sus discípulos",
-        "father": "El Señor resucitado se aparece a sus discípulos",
-        "text": "Descripción general : Después de haber puesto en sus manos un\nresumen de la doctrina cristiana, que se expresa en la forma del\nbautismo, el Señor resucitado mandó a los discípulos de salir a todo el\nmundo. Con la resurrección de Jesús se restablece de nuevo su propia\ngloria correcta, siguiendo su humillación. Jesús recordó a sus discípulos\nde la consumación de todas las cosas, para que no mirarían a los\npeligros actuales solamente, sino también en los bienes futuros que\nduran para siempre. Se comprometió a ser no sólo con estos discípulos,\nsino también con todos los que creen posteriormente después de ellos\n(Crisóstomo).",
-        "verse_ref": "Matthew 28:16-20"
-      },
-      {
-        "reading_ref": "Matthew 28:16-20",
-        "title": "Los discípulos ven a Jesús en Galilea Pero algunos dudaban. Crisóstomo: Esto me parece ser la última",
-        "father": "San Juan Crisóstomo",
-        "text": "aparición en Galilea, cuando los envió a bautizar. Y si “algunos\ndudaron,” en este documento admirar de nuevo la veracidad de los\nEvangelistas. Incluso hasta el último día, que estaban decididos a no\nocultar, incluso sus propios defectos. Sin embargo, incluso estos se\naseguraron por lo que ven. El Evangelio de Mateo, Homilía 90,2. [PG 58:\n789; NPNF 1 10: 531].",
-        "verse_ref": "Matthew 28:16-17"
-      },
-      {
-        "reading_ref": "Matthew 28:16-20",
-        "title": "Estoy contigo siempre",
-        "father": "San Jerónimo",
-        "text": "La Gran Comisión. Jerome: “Jesús se acercó a ellos y dijo: 'Toda\nautoridad en el cielo y la tierra se ha dado a mí.' ”Esta autoridad fue\ndada a uno que acababa de ser crucificado, sepultado en una tumba,\npuso muertos y después había surgido. Autoridad le fue dada en el cielo\ny la tierra para que el que antes reinaba en el cielo también puede\nreinar en la tierra a través de la fe de sus creyentes.\n“ 'Id, pues, y enseñad a todas las naciones, bautizándolos en el nombre\ndel Padre y del Hijo y del Espíritu Santo.' ”Primero se enseñan todas las\nnaciones; entonces bautizar a los que han enseñado con agua, para que\nel cuerpo no es capaz de recibir el sacramento del bautismo antes de\nque el alma ha recibido la verdad de la fe. Ellos fueron bautizados en el\nnombre del Padre y del Hijo y del Espíritu Santo, para que los tres que\nson uno en la divinidad también podría ser uno en darse a sí mismos. El\nnombre de la Trinidad es el nombre del único Dios.\n“ 'Enseñándoles a guardar todo lo que os he mandado.' ”Lo que una\nsecuencia maravillosa que es esto. Mandó a los apóstoles primero en\nenseñar a todas las naciones y bautizarlos en el sacramento de la fe y\nluego, después de la fe y el bautismo, para enseñar a guardar todo lo\nque él había ordenado. Para que no pensemos estos mandamientos de\npoca importancia o pocos en número, agregó “todo lo que os he\nmandado”, de manera que los que habían de creer y ser bautizados en\nla Trinidad sería observar todo lo que les habían enseñado. Comentario\nsobre Mateo 4.28.18-20. Vaya, y haced discípulos a todas las naciones. Crisóstomo: ¿Qué\nquiere decir finalmente a ellos cuando los ve? “Toda autoridad en el cielo\ny en la tierra se ha dado a mí.” Él todavía está hablando con ellos\nconforme a su humanidad, para el que aún no habían recibido el Espíritu\nque era capaz de elevarlos a cosas más elevadas. “Por tanto, id y haced\ndiscípulos a todas las naciones, bautizándolos en el nombre del Padre y\ndel Hijo y del Es",
-        "verse_ref": "Matthew 28:18-20"
+        "text": "Dolores de parto de la Muerte desatado. Crisóstomo: Y se ha\nutilizado una comparación que los profetas emplean con frecuencia,\ncomparando con los sufrimientos excesivos dolores de parto. Lo que\nquería decir es algo como esto: “Los sufrimientos como dolores de parto\nse echa mano de ustedes, pero el dolor del parto es un motivo de\nalegría” Esto confirma sus palabras sobre la resurrección y muestra que\nsu salida de ellos era como pasar de la en el vientre de la luz del día. Es\ncomo si hubiera dicho: “No sorprenderá que le llevará a lo que es rentable para usted por medio de tanto dolor, ya que incluso una madre,\npara convertirse en una madre, pasa de una manera similar a través del\ndolor.” Aquí también da a entender algo místico, que ha eliminado los\ndolores de parto de la muerte y ha causado una nueva persona para\nnacer de ellos. Además, no sólo se dice que el dolor pasará, sino\ntambién que “ella ni siquiera recuerda que,” tan grande es la alegría que\nle sigue; por lo que también se hará con los santos. Y sin embargo, la\nmujer no se goza porque “un ser humano ha venido al mundo”, pero\ndebido a que un niño ha nacido con ella. En efecto, si el primero había\nsido el caso, nada hubiera impedido la estéril del que disfruta sobre otra\nque da a luz a un niño. Homilías sobre el Evangelio de San Juan 79,1. Cumpleaños Mártires. Beda: Del mismo modo que una mujer se\nalegra cuando un ser humano se ha nacido en el mundo, por lo que la\niglesia está llena de júbilo apropiado cuando una multitud de fieles\nnacen en la vida futura. [Las labores de la iglesia] y gemidos en gran\nmedida en el presente [hora] más de su nacimiento, y tristezas como\n[una mujer] que está de parto. No debe parecer extraño a cualquier\npersona que la salida de una persona de esta vida se dice que es su\nnacimiento. Así como se acostumbra a decir que una persona “nace”\ncuando sale del vientre de su madre y sale a la luz aquí [en la tierra],\npor lo que tambié",
+        "verse_ref": "John 16:21"
       }
     ],
     "meditation": "",
