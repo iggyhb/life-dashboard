@@ -1,95 +1,71 @@
 {
-  "generated_at": "2026-05-31T08:46:23.456856Z",
-  "week": "2026-W21",
+  "generated_at": "2026-06-01T11:35:39.321698Z",
+  "week": "2026-W22",
   "liturgy": {
-    "date": "2026-05-31",
+    "date": "2026-06-01",
     "season": "Ordinary Time",
     "readings": [
       {
         "type": "first_reading",
-        "reference": "Exodus 34:4b-6, 8-9",
-        "summary": ""
+        "reference": "2 Peter 1:2-7",
+        "summary": "",
+        "text": "Simón Pedro, siervo y apóstol de Jesucristo, a los que por la justicia de nuestro Dios y Salvador Jesucristo les ha cabido en suerte una fe tan preciosa como a nosotros.\nA vosotros gracia y paz abundantes por el conocimiento de Dios y de Jesús nuestro Señor.\nPues su poder divino nos ha concedido todo lo que conduce a la vida y a la piedad, mediante el conocimiento del que nos ha llamado con su propia gloria y potencia, con las cuales se nos han concedido las preciosas y sublimes promesas, para que, por medio de ellas, seáis partícipes de la naturaleza divina, escapando de la corrupción que reina en el mundo por la ambición; en vista de ello, poned todo empeño en añadir a vuestra fe la virtud, a la virtud el conocimiento, al conocimiento la templanza, a la templanza la paciencia, a la paciencia la piedad, a la piedad el cariño fraterno, y al cariño fraterno el amor."
       },
       {
         "type": "psalm",
-        "reference": "Daniel 3:52, 53, 54, 55, 56",
-        "summary": ""
-      },
-      {
-        "type": "second_reading",
-        "reference": "2 Corinthians 13:11-13",
-        "summary": ""
+        "reference": "Psalm 91:1-2, 14-15b, 15c-16",
+        "summary": "",
+        "text": "Tú que habitas al amparo del Altísimo,\nque vives a la sombra del Omnipotente,\ndi al Señor: «Refugio mío, alcázar mío,\nDios mío, confío en ti». R/.\n \n«Se puso junto a mí: lo libraré;\nlo protegeré porque conoce mi nombre;\nme invocará y lo escucharé.\nCon él estaré en la tribulación». R/.\n«Lo defenderé, lo glorificaré\nlo saciaré de largos días\ny le haré ver mi salvación». R/."
       },
       {
         "type": "gospel",
-        "reference": "John 3:16-18",
+        "reference": "Mark 12:1-12",
         "summary": "",
-        "text": "Terminada la celebración del tiempo pascual con la Solemnidad de Pentecostés, la Iglesia nos invita a celebrar en este domingo, ya de nuevo dentro del tiempo ordinario, la Solemnidad de la Santísima Trinidad.\nEl misterio pascual de Cristo, a la luz de Pentecostés, nos ha permitido “conocer” la entraña del Dios en quien creemos, en quien “vivimos, nos movemos y existimos”. En este acontecimiento de salvación hemos conocido cómo es el único Dios verdadero lleno de misericordia y bondad entrañables. Nos ha sido revelado, dentro de lo que nosotros podemos comprender, el misterio de su unidad sustancial y de su trinidad admirable. Dios es un ser único en tres personas distintas: el Padre, el Hijo y el Espíritu Santo. Esta realidad de Dios, ya pergeñada en el Antiguo Testamento, nos ha sido plenamente revelada en el Nuevo con la gracia del misterio pascual. Cristo, el Verbo divino hecho carne, nos ha revelado al Padre y nos ha hablado del Espíritu Santo que a su vez nos ha prometido, el Espíritu de la verdad y de la santificación.  Este es el Dios de Jesucristo: el Dios uno y trino, lleno de amor, que “tanto nos amó” y que ha hecho por nosotros “obras grandes”.\nA este Dios alabamos y glorificamos con toda la fuerza de nuestra vida. La Trinidad Santa no es una simple fórmula es el misterio insondable del Dios vivo que quiere asentarse en nuestra vida para llenarla y transformarla.\nFray Juan Carlos González del Cerro O.P.\n Casa de Santo Domingo (Jerez de la Frontera, Cádiz) Enviar comentario al autor/a"
+        "text": "En aquel tiempo, Jesús se puso a hablar en parábolas a los sumos sacerdotes, a los escribas y a los ancianos:\n «Un hombre plantó una viña, la rodeó con una cerca, cayó un lagar, construyó una torre, la arrendó a unos labradores y se marchó lejos. A su tiempo, envió un criado a los labradores, para percibir su tanto del fruto de la viña. Ellos lo agarraron, lo azotaron y lo despidieron con las manos vacías. Les envió de nuevo otro criado; a este lo descalabraron e insultaron. Envió a otro y lo mataron; y a otros muchos, a los que azotaron o los mataron.\nLe quedaba uno, su hijo amado. Y lo envió el último, pensando:\n“Respetarán a mi hijo”.\nPero los labradores se dijeron:\n“Este es el heredero. Venga, lo matamos y será nuestra la herencia”.\nY, agarrándolo, lo mataron y lo arrojaron fuera de la viña. ¿Qué hará el dueño de la viña? Vendrá, hará perecer a los labradores y arrendará la viña a otros.\n¿No habéis leído aquel texto de la Escritura: “La piedra que desecharon los arquitectos es ahora la piedra angular. Es el Señor quien lo ha hecho, ha sido un milagro patente”?».\nIntentaron echarle mano, porque comprendieron que había dicho la parábola por ellos; pero temieron a la gente y, dejándolo allí, se marcharon."
       }
     ],
     "patristic_comments": [
       {
-        "reading_ref": "Exodus 34:4b-6, 8-9",
-        "title": "Renovación de las tabletas Descripción general : El pecado puede ser visitado a los niños a",
-        "father": "Renovación de las tabletas Descripción general : El pecado puede ser visitado a los niños a",
-        "text": "través mal ejemplo de sus padres; pero la culpa del pecado original se\nremitió en el bautismo (Paterius).",
-        "verse_ref": "Exodus 34:1-9"
+        "reading_ref": "2 Peter 1:2-7",
+        "title": "PETER se presenta",
+        "father": "PETER se presenta",
+        "text": "Descripción general : Los Padres todos reconocen que hay grandes\ndiferencias entre la primera y segunda cartas atribuidas a Pedro, sino\nque explican estas variaciones de diferentes maneras. Algunos de ellos\nrechazaron la autenticidad de la segunda carta y se negó a aceptarlo\ncomo parte del canon, pero la mayoría no estaban dispuestos a ir tan\nlejos. Reconocieron que aunque hubo diferencias entre las dos letras,\nque no eran tan grandes como las diferencias entre las letras, por un\nlado, y otros escritos atribuidos a Pedro que se sabe que es falsa, por el\notro. Tal vez el argumento más fuerte a favor de la autenticidad de esta\ncarta era su estilo muy personal. En su saludo de apertura Peter vuelve\na su nombre original, Simon, con el fin de mostrar los que prefiere\nolvidar su origen judío que no les había rechazado (Hilario de Arles). Si\nlos gentiles o Judios, todos los que son bautizados comparten una fe\nigualmente (Andreas, Ecumenio). Pedro ora por la paz de la iglesia, que\nviene de Dios sabiendo (Ecumenio). La paz es la madre de todas las\ncosas buenas y las bases de nuestra alegría (Crisóstomo).",
+        "verse_ref": "2 Peter 1:1-2"
       },
       {
-        "reading_ref": "Daniel 3:52, 53, 54, 55, 56",
-        "title": "El canto de los tres jóvenes",
+        "reading_ref": "2 Peter 1:2-7",
+        "title": "Gracia y Paz en el conocimiento de Dios",
         "father": "San Juan Crisóstomo",
-        "text": "Descripción general: El canto de alabanza que los tres jóvenes\nofrecen deriva de su amor a Dios (Teodoreto). Se trata de una\ncontemplación de la naturaleza divina, que es superior a nuestra\ncomprensión podría esperar lograr (Cirilo de Jerusalén). Estos hombres,\ny los que los imitan, son como los mártires, que están cerca de los\nángeles (Crisóstomo) en el cielo (Ambrose). En su canción, los tres\njóvenes lista de todo lo que ha sido creado, incluyendo los ángeles,\nofreciendo esta canción como alabanza al Dios del cielo y contra la\nidolatría (Severian, Teodoreto, Juan de Damasco).\nEscritura aquí distingue entre el alma y el espíritu, y usa el plural en vez\ndel singular y viceversa (Orígenes, Fulgencio). Ya sea hablando de alma\no espíritu, cuando el solo están muertos, alaban al Señor (Casiano) en\nacción de gracias por la humildad de espíritu que el Señor nos ofrece un\nejemplo (Agustín), un ejemplo imitado por estos tres jóvenes, que se\nponen en el último lugar debido a su humildad (Teodoreto).",
-        "verse_ref": "Daniel 3:51-90"
+        "text": "Oren por la Paz de la Iglesia. Crisóstomo: No hay nada igual a esto,\npor lo que oramos y buscamos después de que el ángel de la paz. En\ntodas partes oramos por la paz en las iglesias-en las oraciones, en las\nsúplicas y en los sermones. Y el Guardián de la iglesia nos lo da no una\no dos veces, pero muchas veces: “Paz a vosotros” ¿Por qué?\nPorque la paz es la madre de todas las cosas buenas y las bases de\nnuestra alegría. Por esta razón Cristo enseñó a sus discípulos que\ncuando entraron en las casas de las personas que iban a decir: “Paz a\nvosotros” Sin paz todo lo demás es inútil. Cadena. [ CEC 85.]\nEn el conocimiento de Dios. Ecumenio: Esta no es la paz del mundo,\npero la paz que proviene de conocer a Dios. Para la única paz verdadera\nes la que nos libera de nuestra transgresión y la enemistad contra Dios.\nEs la misma paz que Cristo dio a sus discípulos cuando estaba a punto\nde ir al Padre, y cuando resucitó de entre los muertos. . Comentario sobre 2 Peter.",
+        "verse_ref": "2 Peter 1:2"
       },
       {
-        "reading_ref": "Daniel 3:52, 53, 54, 55, 56",
-        "title": "(03:52 LXX) bendito el Dios de nuestros padres",
-        "father": "(03:52 LXX) bendito el Dios de nuestros padres",
-        "text": "Un himno de alabanza. Teodoreto de Ciro: Estas palabras indican un\nferviente e interminable amor: aunque aquejado de ella, que la\nbúsqueda de las definiciones capaces de celebrar la dignidad de la\npersona que debe ser alabado, y, puesto que no pueden encontrar\nninguna, que marcan sus frases con superlativos , hablando de Dios en\ntérminos de él que es “altamente valoradas y elogiados más que\ncualquier otro.” y no sólo decir esto, pero también añaden que su\nnombre es digna de elogio. Y lo hacen así para afirmar constantemente\nque él es “Señor y Dios de nuestros antepasados,” acordando de esta\nmanera que no son dignos de ser llamados por este nombre.\nComentario sobre Daniel 3.53.",
-        "verse_ref": "Daniel 3:52"
-      },
-      {
-        "reading_ref": "2 Corinthians 13:11-13",
-        "title": "Examen de conciencia",
-        "father": "San Ambrosio",
-        "text": "Descripción general : Si no sabemos cómo poner uno al otro a la\nprueba, que no sabemos si Cristo está en nosotros o no (Ambrosiaster).\nHay una gracia, un amor y una beca por parte del Padre y del Hijo y del Espíritu Santo en el funcionamiento de un Dios cuyo poder no puede ser\ndividido (Ambrose). El castigo es una forma de edificación para toda la\niglesia (Teodoreto de Ciro). El Hijo no es menor que el Padre (Pelagio).\nLa gracia salva aparte de las obras (Dídimo el Ciego). El beso santo se\nda con el fin de estimular el amor e inculcar la actitud correcta en\nnosotros hacia los demás. Cuando regresamos después de una ausencia\nnos besamos unos a otros, para nuestras almas se apresuran a unir\nentre sí (Crisóstomo).",
-        "verse_ref": "2 Corinthians 13:5-14"
-      },
-      {
-        "reading_ref": "2 Corinthians 13:11-13",
-        "title": "Vive en paz",
-        "father": "Vive en paz",
-        "text": "La reparación de sus caminos. Ambrosiaster: La alegría se hace\nreferencia aquí vendrá cuando los Corintios cambiar de conducta,\ndespués de lo cual será posible para que maduren en la fe. Pero antes\nde eso habrá consuelo, lo que les permite abandonar el placer del\npresente en favor de esperanza para lo que vendrá. La paz de Dios es\nuna cosa, pero la paz del mundo es otro. Las personas en el mundo\ntienen la paz, pero funciona a su condenación. La paz de Cristo esté\nlibre de pecados, por lo que es agradable a Dios. Una persona que tiene\nla paz también tendrá el amor, y el Dios de tanto lo protegerá para\nsiempre. Comentario sobre las Epístolas de Pablo. Después de Comandos de Pablo. Crisóstomo: ¿Cómo se puede\nesperar que Pablo se regocijan después de que él ha dicho que este tipo\nde cosas con ellos? Es por esta misma razón que lo dice. Por si siguen lo\nque él manda, no habrá nada para evitar que se regocijo. No hay nada\nmás reconfortante que una conciencia pura. Homilías sobre las Epístolas\nde Pablo a los Corintios 30,1.",
-        "verse_ref": "2 Corinthians 13:11"
-      },
-      {
-        "reading_ref": "2 Corinthians 13:11-13",
-        "title": "Saludan",
-        "father": "San Juan Crisóstomo",
-        "text": "Un beso santo. Crisóstomo: ¿Qué es un beso santo? Es uno que no es\nhipócrita, como el beso de Judas. El beso se da con el fin de estimular el\namor e inculcar la actitud correcta en nosotros hacia los demás. Cuando\nregresamos después de una ausencia, nos besamos unos a otros, para\nnuestras almas se apresuran a unir entre sí. Pero hay algo más que\npodría decir sobre esto. Somos el templo de Cristo, y cuando nos\nbesamos nos estamos besando el porche y la entrada del templo.\nHomilías sobre las Epístolas de Pablo a los Corintios 30,2.",
-        "verse_ref": "2 Corinthians 13:12"
-      },
-      {
-        "reading_ref": "John 3:16-18",
-        "title": "REGALO DE DIOS REVELADO",
+        "reading_ref": "2 Peter 1:2-7",
+        "title": "REGALOS DE DIOS",
         "father": "Orígenes",
-        "text": "Descripción general: El Señor de la gloria, descendiendo del cielo\ncomo el Hijo del hombre (Ambrose). ¿Cómo es posible, entonces, que el\nHijo del hombre a la “bajado” del cielo, cuando salió del vientre de la\nVirgen aquí en la tierra (Agustín)? O tal vez su descenso indica su\nconcepción por el Espíritu Santo, de quien su cuerpo debe su origen\n(Hilary); o que está utilizando el término “Hijo del hombre” para\nreferirse a la persona entera (Crisóstomo). Como Hijo de Dios ascendido\nél es el Señor de la gloria; como el Hijo del hombre descendió es\ncrucificado. Ascendemos al cielo como miembros de la que descendió\ntomando la forma de siervo (Agustín). En última instancia, sin embargo,\nascenso y descenso de Cristo es un misterio y una paradoja que no hay\nque tratar de resolver (Hilary). Esto demuestra la unión de lo humano y\nlo divino en la única persona que desciende y asciende sin dejar de ser\nen todas partes (Crisóstomo).\nComo Jesús había mencionado previamente bautismo, que procede\nahora a la fuente del bautismo, es decir, la cruz (Crisóstomo). La\nserpiente de bronce es clase de la cruz (Ambrose), que fue levantado\npara todo el mundo para ver (Andrew), y en ella vemos todo el misterio\nde la encarnación (Cirilo de Alejandría). Moisés no nos enseñó a creer en\nla serpiente, que a su vez estaba maldita, sino creer en el que se\nconvirtió en una maldición para nosotros con el fin de romper el poder\nde la serpiente (Justin). Porque la muerte era de una serpiente, que fue representado por la imagen de bronce de una serpiente en el relato de\nNúmeros (Bede); en su misma desfachatez, no podía morir (Efrén). El\nque ha sido mordido por las serpientes del pecado sólo tiene que mirar\nen Cristo y no será medicina para el perdón de los pecados (Agustín) y\nla vida eterna porque él es el autor y la causa de la vida (Crisóstomo).\nEste texto muestra la intensidad del amor de Dios (Crisóstomo) que,\ncomo el gran Médico, se inclina para curar nuestras heridas purulent",
-        "verse_ref": "John 3:13-21"
+        "text": "Descripción general : Es por el conocimiento del Señor y Salvador por\nla fe que hemos llegado a comprender los misterios de su divinidad\n(Hilario de Arles, Beda). Dios nos da todo lo que necesitamos para vivir\nuna vida santa (Teofilacto). Para tener comunión con el Espíritu Santo\nes participar de la naturaleza divina (Orígenes). Al convertirse en\nportadores de Cristo (Cirilo de Jerusalén) y en el intercambio por la fe\nen la naturaleza de Dios, medimos las verdades divinas, de acuerdo con\nla magnificencia del propio testimonio de Dios de sí mismo (Hilario de\nPoitiers). Él nos concedió una relación consigo mismo, y tenemos una\nnaturaleza racional que nos hace capaces de buscar lo que es divina,\nque no está lejos de cada uno de nosotros, en quien vivimos, nos\nmovemos (Ambrose). Así cuenta su dignidad (Leo). Al salir de la vieja\nnaturaleza (Hilario de Arles). Cuando Dios nos bendice, cambia nuestro\npropio ser, de modo que todo lo que éramos por naturaleza es\ntransformada por el don de su Espíritu Santo (Bede, Andreas). El poder\nde Dios nos ha librado de una vida de pecado y la autodestrucción y ha\nhecho posible para nosotros para compartir en su naturaleza divina.\nEsto significa que hay que ir desde nuestra profesión inicial de fe y por\ngracia ascender la escalera de la perfección espiritual, que nos llevará a\nuna experiencia profunda y personal del amor de Dios en acción en\nnuestras vidas.\nEn la medida en que tenemos los dones espirituales, seremos los\ntrabajadores eficaces para Cristo, pero si carecemos de ellas estamos en\ngran parte el mismo estado impotente como estábamos antes de\nnuestra conversión. El propósito de la vida cristiana es para confirmar la\nvocación que hemos recibido de Dios y para preparar nuestra entrada en\nel reino eterno. Los que traen la fe en cumplimiento con la virtud (Bede)\nhay que asegurarse de que en huir de los deseos apetitivo que no dan a\nluz a los vicios que son mucho peores (Gregorio Magno, Beda,\nTeofilacto). Piedad adqu",
+        "verse_ref": "2 Peter 1:3-11"
       },
       {
-        "reading_ref": "John 3:16-18",
-        "title": "Regalo de su Hijo por la Vida de Dios",
-        "father": "San Juan Crisóstomo",
-        "text": "La pasión que da vida. Crisóstomo: Dice que el que se le dio fue “el\nHijo de Dios”, y que es la causa de la vida, de la vida eterna. El que\nadquirió vida por los demás por la muerte no estar continuamente a sí\nmismo en la muerte. Porque si los que cree en el crucificado no pierda,\nno se pierden mucho menos el que está crucificado. El que quita la\ndestitución de los demás es mucho más libre de ella. El que da vida a\nlos demás trae aún más la vida a sí mismo. Homilías sobre el Evangelio\nde San Juan 27,2. La intensidad del amor de Dios y nuestra respuesta. Crisóstomo:\nEl texto, “tanto amó Dios al mundo”, muestra una intensidad de ese\namor. Porque grande e infinito de hecho es la distancia entre los dos. El,\nla majestad infinita inmortal sin principio ni fin amado a los que polvo y\ncenizas, que fueron cargados con diez mil pecados, pero se mantuvo\nincluso ingrata, ya que constantemente le ofendieron. Este es quien\n“amó.” Para Dios no le dio un sirviente, o un ángel o incluso un arcángel\n“pero su único Hijo.” Y sin embargo, nadie se mostraría como la\nansiedad, incluso por su propio hijo como Dios hizo por su ingrata\nservicio.…\nÉl puso su vida por nosotros y derramó su preciosa sangre por nosotros,\na pesar de que no hay nada bueno en nosotros, mientras que ni siquiera abrirle nuestro dinero para nuestro propio bien y lo que murió por\nnosotros descuidamos cuando está desnudo . y un extraño ... ponemos\ncollares de oro en nosotros mismos e incluso en nuestras mascotas,\npero el descuido nuestro Señor que anda desnudo y pasa de casa en\ncasa ... de buena gana se queda con hambre para que pueda ser\nalimentado.; desnuda para que le puede proporcionar los materiales\npara un vestido de incorrupción, sin embargo, que ni siquiera va a\nrenunciar a cualquiera de nuestros propios alimentos o ropa para él. ...\nEstas cosas que digo continuamente, y no voy a dejar de decir que ellos,\nno tanto porque me importa para los pobres sino porq",
-        "verse_ref": "John 3:15-16"
+        "reading_ref": "Mark 12:1-12",
+        "title": "La parábola de los labradores malvados",
+        "father": "San Ambrosio",
+        "text": "Descripción general: La parábola reivindica el Señor de la viña, que a\ntravés de los derechos de resurrección las faltas cometidas por los\ninquilinos. Su malicia será compartida en la resurrección. Padre e hijo\naparecen en la parábola no saber bajo determinadas contingencias\nhistóricas lo que saben como Dios (Ambrose). El resultado de la\nresurrección se desplaza toda la premisa de la parábola, por medio de la\nfuria de los opresores, Jesús los ojos puestos en la resurrección\n(Agustín).",
+        "verse_ref": "Mark 12:1-12"
       },
       {
-        "reading_ref": "John 3:16-18",
-        "title": "Dios envió a su Hijo para condenar sino para salvar",
-        "father": "San Juan Crisóstomo",
-        "text": "Resistiendo ayuda del médico. Agustín: En lo que se encuentra en el\npoder del médico, que ha venido a sanar a los enfermos. El que no\nobserve sus órdenes destruye a sí mismo. ... Por qué iba a ser llamado\nel Salvador del mundo, a menos que salva al mundo? Tractates en el\nEvangelio de Juan 12.12. Dos venidas: El perdón y el juicio. Crisóstomo: Muchos de la clase\nmás descuidados, utilizando la bondad de Dios para aumentar la\nmagnitud de sus pecados y el exceso de su indiferencia, hablan de esta\nmanera, diciendo: No hay infierno, no hay castigo futuro. Dios perdona\ntodos nuestros pecados. ...\nPero recordemos que hay dos venidas de Cristo, una pasada, y el otro\npor venir. La primera fue que no juzga sino que nos perdona. El\nsegundo será no perdona, sino que nos juzgue. Es de los primeros que\ndice: “No he venido a juzgar al mundo, sino para salvar al mundo.” Pero\nde la segunda dice: “Cuando el Hijo venga en la gloria de su Padre, él\npondrá las ovejas en su mano derecha y las cabras a su izquierda “. y las ovejas voy a entrar en la vida y las cabras al\ncastigo eterno ... Pero debido a que es misericordioso, para una vez que\nperdona en lugar de. juzgar. Porque si había juzgado inmediatamente,\ntodo el mundo habría sido llevado a la perdición, porque “todos pecaron,\ny están destituidos de la gloria de Dios.” ¿No ves que el\nsuperávit indecible de su bondad? Homilías sobre el Evangelio de Juan\n28.1.",
-        "verse_ref": "John 3:17"
+        "reading_ref": "Mark 12:1-12",
+        "title": "Respetarán a mi hijo",
+        "father": "San Ambrosio",
+        "text": "Señor de la viña. Ambrose: Mateo y Marcos dicen: “Él envió a su único\nhijo, diciendo: Tendrán respeto a mi hijo. ' ” Lucas\nsuena como si el resultado está en duda, como si él no lo sabía, sin\nduda. Pero en Mateo y Marcos dice: “Tendrán respeto a mi hijo”, es decir, se declara que se mostrará respeto. Dios no puede estar\nen duda, ni puede ser engañado. Por un lado sólo puede estar en duda\nque ignora el futuro. Uno se engaña quien ha predicho una cosa y otra\nocurrió. Sin embargo, lo que es más claro que el hecho de que la\nEscritura afirma que el Padre ha dicho una cosa del Hijo, y la misma\nEscritura prueba otra cosa que haber tenido lugar? El hijo fue golpeado,\nburlado, crucificado, y murió. Sufrió cosas mucho peores en la carne de\nlos inquilinos que habían sido enviados para ayudar. Era el padre\nengañado, o era ignorante? O era incapaz de dar ayuda? ... Ninguno de\nlos dos es el padre engañado ni engañar al Hijo. Es la costumbre de\nsantas Escrituras para hablar en estas muchas voces, como he\ndemostrado en muchos ejemplos. En tales casos, Dios finge no saber lo\nque sabe. En esta continuación, se muestra la unidad de Dios. Una\nunidad del personaje se muestra a existir en el Padre y el Hijo. Porque\nasí como Dios Padre parece ocultar lo que se conoce de él, así también\nel Hijo, que es la imagen de Dios, Parece ocultar lo\nque se conoce a él. Sobre la fe cristiana 5.17.214-18. [CETEDOC 0150,\n5/17/55; NPNF 210: 311-12 *].",
+        "verse_ref": "Mark 12:6"
+      },
+      {
+        "reading_ref": "Mark 12:1-12",
+        "title": "Vamos, matémosle, y la heredad será nuestra",
+        "father": "San Agustín",
+        "text": "El engaño de los asesinos. Agustín: Pero ¿cómo va a asegurar que la\nherencia será el suyo? El mero hecho de que lo mataste? ¡Espere!\nUsted, de hecho, lo mató, sin embargo, la herencia todavía no es el\nsuyo. ¿No recuerda el Salmo que dice: “Me acuesto y sueño”, y luego\nañade: “Me despierto de nuevo”? Faltó ese punto? Mientras\nestabas regodeo que lo había matado, que estaba durmiendo. El Salmo\ndice: “He dormido.” Justo cuando estaban en su apogeo y me matarían,\n¿qué estaba haciendo? “He dormido.” Y si no lo hubiera querido, yo ni\nsiquiera he dormido, para “Tengo poder para dar mi vida, y tengo poder\npara tomarla de nuevo.” . Así que la rabia opresores. Que la\ntierra incluso ser “entregado en manos de los malvados,” Dejar que la carne se deja en manos de los perseguidores, dejar que\nellos le suspenden en la madera con clavos paralizados, perforado con\nuna lanza. El que se acuesta y duerme simplemente añade: “Me levanto\nde nuevo.” . En Salmo 41: En\nla fiesta de los mártires 9. [CETEDOC 0283, 38.40.10.3; NPNF 18: 130 **].",
+        "verse_ref": "Mark 12:7"
       }
     ],
     "meditation": "",
