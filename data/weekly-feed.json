@@ -1,57 +1,81 @@
 {
-  "generated_at": "2026-07-18T07:50:18.437079Z",
+  "generated_at": "2026-07-19T08:19:25.910191Z",
   "week": "2026-W28",
   "liturgy": {
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "season": "Ordinary Time",
     "readings": [
       {
         "type": "first_reading",
-        "reference": "Micah 2:1-5",
-        "summary": "",
-        "text": "¡Ay de los que traman el crimen y planean pérfidas acciones en sus camas.\nEn cuento apunta el día las ejecutan, porque tienen el poder!\nDesean campos y los roban, las casas, y se apoderan de ellas; oprimen al cabeza de familia y a los suyos, explotan al ciudadano y sus bienes.\nPor tanto. esto dice el Señor:\n«Yo también tramo contra estas gentes un mal del que no podréis apartar el cuello y no andaréis con la cabeza alta, pues serán malos tiempos aquellos.\nAquel día os dedicarán una sátira, se cantará una elegía que diga:\n\"Estamos totalmente perdidos, pues se reparte el lote de mi pueblo; ¿cómo se volverá hacia mí para restituir nuestros campos que ahora está repartiendo?”.\nPor ellos, no tendrás quien te eche a suertes un lote en la asamblea del Señor»."
+        "reference": "Wisdom 12:13, 16-19",
+        "summary": ""
       },
       {
         "type": "psalm",
-        "reference": "Psalm 10:1-2, 3-4, 7-8, 14",
-        "summary": "",
-        "text": "¿Por qué te quedas lejos, Señor,\n y te escondes en el momento del aprieto?\n En su soberbia el impío oprime al infeliz\n y lo enreda en las intrigas que ha tramado. R/.\nEl malvado se gloría de su ambición,\n el codicioso blasfema y desprecia al Señor.\n El malvado dice con insolencia:\n «No hay Dios que me pida cuentas». R/.\nSu boca está llena de maldiciones,\n de engaños y de fraudes;\n su lengua encubre maldad y opresión;\n en el zaguán se sienta al acecho\n para matar a escondidas al inocente. R/.\nPero tú ves las penas y los trabajos,\n tú miras y los tomas en tus manos.\n A ti se encomienda el pobre,\n tú socorres al huérfano. R/."
+        "reference": "Psalm 86:5-6, 9-10, 15-16",
+        "summary": ""
+      },
+      {
+        "type": "second_reading",
+        "reference": "Romans 8:26-27",
+        "summary": ""
       },
       {
         "type": "gospel",
-        "reference": "Matthew 12:14-21",
+        "reference": "Matthew 13:24-43",
         "summary": "",
-        "text": "En aquel tiempo, al salir de la sinagoga, los fariseos planearon el modo de acabar con Jesús.\nPero Jesús se enteró, se marchó de allí, y muchos le siguieron.\nÉl los curó a todos, mandándoles que no lo descubrieran.\nAsí se cumplió lo dicho por medio del profeta Isaías:\n«Mirad a mi siervo, mi elegido, mi amado, en quien me complazco. Sobre él pondré mi espíritu para que anuncie el derecho a las naciones. No porfiará, no gritará, nadie escuchará su voz por las calles.\nLa caña cascada no la quebrará, la mecha vacilante no lo apagará, hasta llevar el derecho a la victoria; en su nombre esperarán las naciones»."
+        "text": "Las lecturas de este Domingo XVI del Tiempo Ordinario nos ofrecen una enseñanza sobre la forma de actuar de Dios. En un mundo donde a menudo predominan la prisa, el juicio rápido y la intolerancia, la Palabra de Dios nos presenta a un Dios paciente y misericordioso que ofrece esperanza. A través de las tres lecturas se revela el verdadero rostro de Dios: un Dios que no busca la condena del pecador, sino su conversión y salvación.\nFr. Jesús Nguema Ndong Bindang O.P.\n Real Convento de Predicadores (Valencia)\nSoy un fraile dominico originario de Guinea Ecuatorial. Tras obtener mi bachillerato y estudiar en la Universidad Nacional de Guinea, en 2014 ingresé en el prenoviciado del convento de San Pablo y San Gregorio, en Valladolid, y realicé mi noviciado en Sevilla. Tras completar mi formación en filosofía y teología y pronunciar mis votos perpetuos en la Orden de Predicadores en 2020, obtuve un máster en Historia de la Iglesia en Lyon (Francia). En 2021 fui ordenado sacerdote y actualmente estoy destinado en Valencia, donde estudio el doctorado. Enviar comentario al autor/a"
       }
     ],
     "patristic_comments": [
       {
-        "reading_ref": "Micah 2:1-5",
-        "title": "Refugio y liberación",
-        "father": "Refugio y liberación",
-        "text": "Descripción general : La casa de Jacob provocó la ira de Dios y se une\nal sufrimiento de Cristo en la carne (Hipólito). Huyendo del mundo a las\nmontañas, un símbolo de donde habita Dios, se ve en la historia de\nAbraham y Lot. Miqueas también implora a los fieles a acercarse a las\nmontañas en busca de refugio. La iglesia es ahora el nuevo monte de\nSion, la nueva Jerusalén, a la que deben huir de los creyentes\n(Ambrose). Es en esa montaña que los cristianos deben encontrar\nrefugio en tiempos de tribulaciones (Jerome). Miqueas es como Pablo y\nMoisés, todos habrían dado su vida a cambio de la salvación de los\nJudios (John Cassian). Cristo es el pastor en la puerta (Jerome).",
-        "verse_ref": "Micah 2:1-13"
+        "reading_ref": "Wisdom 12:13, 16-19",
+        "title": "POTENCIA Y MODERACIÓN DE DIOS",
+        "father": "San Agustín",
+        "text": "Descripción general: Todo es posible por la misericordia de Dios\n(Epifanio, Agustín), pero la ira de Dios juzgará a los impenitentes. Dios\ncrea en el tiempo pero existe eternamente fuera del tiempo (Agustín).\nLa Trinidad gobierna omnipotentemente todas las cosas. Las promesas\nde Dios siempre se cumplen, porque en Dios la voluntad y el poder son\nuno (Fulgencio).",
+        "verse_ref": "Wisdom 12:12-18"
       },
       {
-        "reading_ref": "Matthew 12:14-21",
-        "title": "El hombre de la mano paralizada",
+        "reading_ref": "Romans 8:26-27",
+        "title": "EL HOPE los hijos de Dios",
+        "father": "EL HOPE los hijos de Dios",
+        "text": "Descripción general: cuota de los cristianos en el gemido de la\ncreación, ya que espera la revelación de Dios. Esto se debe a que\nsabemos lo que viene y apenas puede esperar a que se cumpla en\nnosotros. La perspectiva escatológica de los padres se desprende de la\nllamada a la esperanza, que por definición se refiere a cosas que todavía\nno vemos. La virtud de la paciencia era muy querido por los Padres,\ncomo se desprende de lo que tienen que decir acerca de Rom_8: 25 .\nLos cristianos tenían que seguir esperando la segunda venida de Cristo\nen cualquier momento, pero no estaban a la desesperación si no volvía\ncuando lo espera. La oración es eficaz sólo cuando se ofrece en el\nEspíritu. Esta fue una de las principales preocupaciones de los padres,\nque eran muy conscientes de los peligros de la oración sin respuesta, lo\nque podría convertir a la gente lejos de su fe. La oración en el Espíritu\nes la oración de acuerdo a la voluntad de Dios, no según nuestros\npropios deseos.",
+        "verse_ref": "Romans 8:23-27"
+      },
+      {
+        "reading_ref": "Romans 8:26-27",
+        "title": "El Espíritu Intercede",
         "father": "Orígenes",
-        "text": "Información general: Los fariseos desafiaron a Jesús dentro de la\nsinagoga, en el caso del hombre con una mano seca. Simbólicamente\nestaban llevando al Salvador la esterilidad de sus propias manos, ya que\nel tener una mano seca significaba esterilidad (Orígenes). El deseo de\nJesús era curar su amargura primero antes de que sanó la mano seca.\nPero incluso en sus intentos de ofrecer la curación de ellos, tanto por lo\nque dijo e hizo, su enfermedad resultó aún más intratable (Crisóstomo).\nLa mano fue restaurada a la misma condición que la otra parte, por lo\nque es un socio en el servicio de los apóstoles en su deber de predicar la\nsalvación (Hilary).",
-        "verse_ref": "Matthew 12:9-14"
+        "text": "El Espíritu nos ayuda en nuestra debilidad. Orígenes: Así como un\nhombre enfermo no preguntar al médico por las cosas que le devolveré\nla salud, sino por aquellas cosas que sus largos enfermedad para, así\ntambién nosotros, como siempre que estamos consumiendo en la\ndebilidad de esta vida, será de vez al tiempo de pedir a Dios cosas que\nno son buenas para nosotros. Esta es la razón por el Espíritu tiene que\nayudarnos.\nLa debilidad que el Espíritu nos ayuda en nuestra carne es. ... Cada vez\nque el Espíritu Santo ve nuestro espíritu que lucha con la carne y de ser\natraídos hacia él, él extiende su mano y nos ayuda en nuestra debilidad.\nComentario a la Epístola a los Romanos. [ CER 4: 76-78.]\nLos importuna Spirit. Novaciano: El Espíritu Santo importuna los oídos\ndivinos en nuestro nombre “con gemidos que no pueden expresarse con\npalabras”, descargando de este modo sus funciones como defensor y la\nprestación de sus servicios en nuestra defensa. Se le ha dado para\nhabitar en nuestros cuerpos y para llevar a cabo nuestra santificación.\nLa Trinidad 29.16. .\nEl Espíritu intercede De acuerdo con su naturaleza. Ambrosiaster:\nNuestras oraciones son débiles porque piden cosas contrarias a la razón,\ny por esta razón Pablo muestra que esta debilidad en nosotros es\nayudado por el Espíritu Santo que nos ha sido dado. El Espíritu Santo ayuda porque no permite que nada le solicitamos antes del momento\nadecuado o en contra de los deseos de Dios que sucedan.\nPablo dice que el Espíritu intercede por nosotros no con palabras\nhumanas sino por su propia naturaleza. Para cuando lo que viene de\nDios habla con Dios, es obvio que va a hablar en la misma forma que la\nde los que habla viene. Por el Espíritu que nos ha dado desborda con\nnuestras oraciones con el fin de compensar nuestra insuficiencia y falta\nde previsión por sus acciones y pedir a Dios por las cosas que serán de\nbeneficio para nosotros. Comentario sobre las Epístolas de Pablo. [CSEL\n81,1: 287-89.",
+        "verse_ref": "Romans 8:26"
       },
       {
-        "reading_ref": "Matthew 12:14-21",
-        "title": "Los fariseos, consultaron",
-        "father": "San Jerónimo",
-        "text": "Se trató de destruirlo. Jerome: La envidia es responsable por el hecho\nde que una trampa para nuestro Señor. ¿Qué había hecho para incitar a\nlos fariseos para matarlo? Desde luego que era porque el hombre había\nextendido su mano. ¿Quién de los fariseos no extendió su mano sobre el\ndía de reposo cuando llevaba comida, cuando él estaba ofreciendo una taza para beber o llevar a cabo otras acciones que son necesarias para\nla nutrición? Así que si extiendes la mano y levantando la comida o\nbebida en el día de reposo no son delitos, ¿por qué deberían hacer esta\nacusación? Ellos mismos se encuentran culpable de hacer lo mismo,\nsobre todo desde que cantero no había llevado nada por el estilo que\ntenían pero sólo había extendido su mano en el orden de nuestro Señor.\nComentario sobre Mateo 2.12.14. Los detractores vehementes. Crisóstomo: Con esto se pone de\nmanifiesto que las almas engañadas ni siquiera son persuadidos por los\nmilagros. Y muestra cómo sus discípulos también habían sido atribuidos\nerróneamente por ellos sin motivo. Nótese cómo vehemente sus\ndetractores han crecido de repente, y esto ocurre especialmente cuando\nven a otros que se benefician de su ministerio! Cuando ven a alguien\nentregado ya sea por enfermedad o maldad, a continuación, que las\nseñales de inmediato ellos encontrar fallos adicional. Se convierten en\nbestias salvajes. De acuerdo con este patrón que en repetidas ocasiones\nle degrada, como cuando él estaba a punto de salvar a la prostituta, y\nde nuevo cuando comía con publicanos, y ahora de nuevo, cuando\nvieron la mano seca restaurado. Tenga en cuenta cuidadosamente la forma en que él no cesa en su\ntierno cuidado para los enfermos aún diluye la envidia de sus\nadversarios. De ahí que “le siguió mucha gente, y sanaba a todos; y\nencargó los que fueron curados que deben darlo a conocer a nadie.”Pero\nlas multitudes parecía más dispuesta a él y después de él rastro de\nadmirar que cambiar sus fo",
-        "verse_ref": "Matthew 12:14"
-      },
-      {
-        "reading_ref": "Matthew 12:14-21",
-        "title": "Siervo escogido",
+        "reading_ref": "Romans 8:26-27",
+        "title": "Intercediendo según la voluntad de Dios",
         "father": "Orígenes",
-        "text": "Descripción general: Jesús vino a las ovejas perdidas de la casa de\nIsrael, pero no estaban preparados para recibir su propio pastor. Al\nenterarse de que se habían tomado consejo para acabar con él, se\nretiró, sin temer su juicio, pero para disipar el mal (Orígenes). Al\nordenar el milagro que mantenerse en secreto se negó a presumir de sí\nmismo (Hilary). No es como un adversario que Cristo trasciende la ley,\ncomo si fuera un enemigo del legislador, sino como si fuera de una\nmente con el Legislador. Los profetas predijeron sus viajes y cambios de\nlugar y la intención con la que actuaría (Crisóstomo). Jesús fue amado\npor Dios y que era agradable a la voluntad de su Padre. El Espíritu de Dios estaba sobre él (Hilary). Él enseñado por su forma de vida no gritar\no para mostrar sino para llevar una vida pública de respeto con acciones\nvirtuosas (Apolinar). Jesús cargó con su oposición con paciencia, a fin de\nno reducirlos a pronunciar el olvido a causa de su debilidad, hasta que\nhubiera cumplido el propósito de su misión (Teodoro de Heraclea).",
-        "verse_ref": "Matthew 12:15-21"
+        "text": "El que escudriña el corazón. Orígenes: Pablo muestra aquí que Dios\npresta menos atención a las palabras que usamos en la oración que él a\nlo que está en nuestra mente y corazón. Comentario a la Epístola a los\nRomanos. [ CER 4:82.]\nConoce la mente del Espíritu. Ambrosiaster: Está claro que la oración\nde todo espíritu es conocido a Dios, de quien nada es secreto u oculto.\n. ¿Cuánto más debe [Padre]\nsé qué, está diciendo el Espíritu Santo, que es la misma esencia que él\nmismo? Comentario sobre las Epístolas de Pablo. De acuerdo con la voluntad de Dios. Crisóstomo: Pablo está\ndescribiendo aquí el hombre espiritual que tiene el don de la oración. Él\nno informa a Dios como si Dios fuera ignorante, pero intercede para que\npodamos aprender lo que es que debemos orar y pedirle a Dios que nos\ndé las cosas que son agradables a él. ... Estas oraciones son\nescuchadas, porque el hombre que ora ellos lo está haciendo “de\nacuerdo a la voluntad de Dios.” Homilías sobre Romanos 14. [1 NPNF. 11:\n447] Espíritu como Gracia. [Pseudo] Constancio: Es una costumbre de la\nEscritura santa llamar gracia “espíritu”. Así que Pablo en este pasaje\nllama a la gracia del Espíritu Santo “espíritu”, que se dispensa y se nos\nda en diferentes formas, como el mismo apóstol dice a los Corintios:\n“hay muchos regalos, pero no hay un solo Espíritu.” [ 1Co_12: 4 .] la Santa\nCarta de St. Paul a los Romanos. [ ENPK 2: 61-62.]\nPelagio: Paul ha llamado un don del Espíritu ... Nos hace solicitamos con\ngemidos que no se pueden describir, al igual que se dice que Dios nos\ntienta con el fin de conocer, es decir, con el fin de hacernos conocer, lo\nque “el Espíritu”. clase de personas que somos. Incluso en el\nlenguaje popular se dice que el maestro para lograr lo que él ordena que\nser hecho por otros, como en las declaraciones como “construyó una casa” o “escribió un libro,” a pesar de que s",
+        "verse_ref": "Romans 8:27"
+      },
+      {
+        "reading_ref": "Matthew 13:24-43",
+        "title": "La parábola de la cizaña entre el trigo",
+        "father": "Orígenes",
+        "text": "Descripción general: La buena semilla son llevados a ser los hijos del\nreino, porque todo lo que las cosas buenas se siembran en el alma\nhumana, estos son los hijos del reino de Dios (Orígenes). El diablo\nsiembra cizaña entre las personas que duermen, entre los que por\nnegligencia son superados por su infidelidad como en una especie de\nletargo (Cromacio). El cabeza de familia ordenó a sus sirvientes que\naguantar las malas hierbas y no separarlos ahora (Agustín). Una\nseparación se produciría en el último día (Orígenes, Cromacio). No\ndebemos ser rápidos para juzgar. Lo que es dudoso se debe dejar al juicio de Dios cuando el día del juicio viene (Jerome). Los ángeles y los\nservidores de la Palabra se reunirán desde el reino de Cristo todas las\ncosas que causan un obstáculo para las almas, que van a dispersar y\nBurn (Origen).",
+        "verse_ref": "Matthew 13:24-30"
+      },
+      {
+        "reading_ref": "Matthew 13:24-43",
+        "title": "Siembra buena semilla",
+        "father": "Orígenes",
+        "text": "Una buena semilla. Orígenes: Consideremos ahora, si además de lo que\nya hemos relatado, que de lo contrario puede tomar la buena semilla a\nser los hijos del reino, porque todo lo bueno que las cosas se siembran\nen el alma humana, estos son los hijos del reino de Dios . Ellos han sido\nsembradas por Dios la Palabra que estaba en el principio con Dios. Sanas palabras sobre cualquier cosa son hijos del reino.\nComentario sobre Mateo 10.2. [GCS 40: 2; ANF 9: 414].\nEl sembrador de la buena semilla. Cromacio: El Señor señala\nclaramente que él es el sembrador de semillas de buena calidad. Él no\ndeja de sembrar en este mundo como en un campo. La palabra de Dios\nes como buena semilla en los corazones de la gente, de modo que cada\nuno de nosotros de acuerdo a las semillas sembradas en nosotros por\nDios pueden dar fruto espiritual y celestial. Tratado en Mateo 51.1. [9a\nCCL: 450.]",
+        "verse_ref": "Matthew 13:24"
+      },
+      {
+        "reading_ref": "Matthew 13:24-43",
+        "title": "Siembra Bad Seed",
+        "father": "Orígenes",
+        "text": "Cuando la gente está dormida. Orígenes: Pero mientras la gente está\ndormida que no actúan de acuerdo con el mandato de Jesús: “Velad y\norad para que no entréis en tentación.” En ese momento, el\ndiablo en las cerdas del reloj lo que se llaman tares- es decir, el malopiniones sobre y entre las buenas semillas que son de la Palabra. De\nacuerdo con este todo el mundo podría llamarse un campo, y no a la\niglesia de Dios solamente. Porque el Hijo del hombre sembró la buena\nsemilla en todo el mundo, pero el maligno sembró cizaña, es decir,\nmalas palabras -que, que surge de la maldad, son hijos del maligno.\nComentario sobre Mateo 10.2. [GCS 40: 2; ANF 9: 414].",
+        "verse_ref": "Matthew 13:25"
       }
     ],
     "meditation": "",
