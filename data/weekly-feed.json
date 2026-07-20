@@ -1,81 +1,64 @@
 {
-  "generated_at": "2026-07-19T08:19:25.910191Z",
-  "week": "2026-W28",
+  "generated_at": "2026-07-20T09:14:14.638990Z",
+  "week": "2026-W29",
   "liturgy": {
-    "date": "2026-07-19",
+    "date": "2026-07-20",
     "season": "Ordinary Time",
     "readings": [
       {
         "type": "first_reading",
-        "reference": "Wisdom 12:13, 16-19",
-        "summary": ""
+        "reference": "Micah 6:1-4, 6-8",
+        "summary": "",
+        "text": "Escuchad lo que dice el Señor,\nel pleito del Señor con su pueblo.\n«En pie, pleitea con las montañas,\nque escuchen tu voz las colinas».\nEscuchad, montañas, el pleito del Señor,\nvosotros, inalterables cimientos de la tierra:\nel Señor pleitea con su pueblo,\ncon Israel se querella.\n«¿Pueblo mío, ¿qué te he hecho?,\n¿en qué te he molestado?\n¡Respóndeme!\nYo te saqué de Egipto\ny te libré de la servidumbre.\nYo te envié a Moisés,\nAarón y María».\n¿Con qué me presentaré al Señor\ny me inclinaré ante el Dios excelso?\n¿Me presentaré con holocaustos,\ncon terneros de un año?\n¿Le agradarán al Señor mil bueyes,\nmiríadas de ríos de aceite?\n¿Le ofreceré mi primogénito por mi falta,\nel fruto de mis entrañas por mi pecado?\nHombre, se te ha hecho saber lo que es bueno,\nlo que el Señor quiere de ti:\ntan solo practicar el derecho,\namar la bondad,\ny caminar humildemente con tu Dios."
       },
       {
         "type": "psalm",
-        "reference": "Psalm 86:5-6, 9-10, 15-16",
-        "summary": ""
-      },
-      {
-        "type": "second_reading",
-        "reference": "Romans 8:26-27",
-        "summary": ""
+        "reference": "Psalm 50:5-6, 8-9, 16bc-17, 21, 23",
+        "summary": "",
+        "text": "«Congregadme a mis fieles,\n que sellaron mi pacto con un sacrificio».\n Proclame el cielo su justicia;\n Dios en persona va a juzgar. R/.\n«No te reprocho tus sacrificios,\n pues siempre están tus holocaustos ante mi.\n Pero no aceptaré un becerro de tu casa,\n ni un cabrito de tus rebaños». R/.\n«¿Por qué recitas mis preceptos\n y tienes siempre en la boca mi alianza,\n tú que detestas mi enseñanza\n y te echas a la espalda mis mandatos?» R/.\n«Esto haces, ¿y me voy a callar?\n ¿Crees que soy como tú?\n Te acusaré, te lo echaré en cara.\n El que me ofrece acción de gracias,\n ese me honra;\n al que sigue buen camino\n le haré ver la salvación de Dios». R/."
       },
       {
         "type": "gospel",
-        "reference": "Matthew 13:24-43",
+        "reference": "Matthew 12:38-42",
         "summary": "",
-        "text": "Las lecturas de este Domingo XVI del Tiempo Ordinario nos ofrecen una enseñanza sobre la forma de actuar de Dios. En un mundo donde a menudo predominan la prisa, el juicio rápido y la intolerancia, la Palabra de Dios nos presenta a un Dios paciente y misericordioso que ofrece esperanza. A través de las tres lecturas se revela el verdadero rostro de Dios: un Dios que no busca la condena del pecador, sino su conversión y salvación.\nFr. Jesús Nguema Ndong Bindang O.P.\n Real Convento de Predicadores (Valencia)\nSoy un fraile dominico originario de Guinea Ecuatorial. Tras obtener mi bachillerato y estudiar en la Universidad Nacional de Guinea, en 2014 ingresé en el prenoviciado del convento de San Pablo y San Gregorio, en Valladolid, y realicé mi noviciado en Sevilla. Tras completar mi formación en filosofía y teología y pronunciar mis votos perpetuos en la Orden de Predicadores en 2020, obtuve un máster en Historia de la Iglesia en Lyon (Francia). En 2021 fui ordenado sacerdote y actualmente estoy destinado en Valencia, donde estudio el doctorado. Enviar comentario al autor/a"
+        "text": "En aquel tiempo, algunos escribas y fariseos dijeron a Jesús:\n«Maestro, queremos ver un milagro tuyo».\nÉl les contestó:\n«Esta generación perversa y adúltera exige una señal; pues no se le dará más signo que el del profeta Jonás. Tres días y tres noches estuvo Jonás en el vientre del cetáceo: pues tres días y tres noches estará el Hijo del hombre en el seno de la tierra.\nLos hombres de Nínive se alzarán en el juicio contra esta generación y harán que la condenen; porque ellos se convirtieron con la proclamación de Jonás, y aquí hay uno que es más que Jonás.\nCuando juzguen a esta generación, la reina del Sur se levantará y hará que la condenen, porque ella vino desde los confines de la tierra, para escuchar la sabiduría de Salomón, y aquí hay uno que es más que Salomón»."
       }
     ],
     "patristic_comments": [
       {
-        "reading_ref": "Wisdom 12:13, 16-19",
-        "title": "POTENCIA Y MODERACIÓN DE DIOS",
-        "father": "San Agustín",
-        "text": "Descripción general: Todo es posible por la misericordia de Dios\n(Epifanio, Agustín), pero la ira de Dios juzgará a los impenitentes. Dios\ncrea en el tiempo pero existe eternamente fuera del tiempo (Agustín).\nLa Trinidad gobierna omnipotentemente todas las cosas. Las promesas\nde Dios siempre se cumplen, porque en Dios la voluntad y el poder son\nuno (Fulgencio).",
-        "verse_ref": "Wisdom 12:12-18"
+        "reading_ref": "Micah 6:1-4, 6-8",
+        "title": "del Señor juicio por Israel",
+        "father": "San Ambrosio",
+        "text": "Información general : “Pueblo mío, ¿qué te he hecho?” Es la carga y\nel veredicto de Cristo contra sus perseguidores (Ambrose). Ellos\nperdieron la oportunidad de recibir a Jesús como el Mesías (Casiodoro).\nLas palabras de Miqueas se aplican contra los arrianos, que se niegan a\nser hechos conforme a la enseñanza de Nicea sobre la Trinidad\n(Gregorio Nacianceno). Miqueas lamentó la ingratitud de los Judios de\nsu tiempo para la liberación de Dios. Dios no puede ser apaciguado con\nsacrificios y rituales; más bien, el Señor requiere la justicia, la\nmisericordia y el amor de los que profesan seguirle (Ambrose). Los\nseres humanos están llamados a procrear y llenar la tierra (Clemente de\nAlejandría). Dios es misericordioso y compasivo, y se espera lo mismo\nde los que él (Tertuliano) siguen. Los creyentes no deben demorar en\nhacer el bien (Ambrose). La verdad se enseña mejor cuando se\nmaterializa en acciones (Bede). El amor de Dios y del prójimo, según lo\nanunciado por Moisés, es superior a los sacrificios y ofrendas\n(Theodore). No menos, sin embargo, no pida a Dios que le demos a\nnosotros mismos (Agustín).",
+        "verse_ref": "Micah 6:1-16"
       },
       {
-        "reading_ref": "Romans 8:26-27",
-        "title": "EL HOPE los hijos de Dios",
-        "father": "EL HOPE los hijos de Dios",
-        "text": "Descripción general: cuota de los cristianos en el gemido de la\ncreación, ya que espera la revelación de Dios. Esto se debe a que\nsabemos lo que viene y apenas puede esperar a que se cumpla en\nnosotros. La perspectiva escatológica de los padres se desprende de la\nllamada a la esperanza, que por definición se refiere a cosas que todavía\nno vemos. La virtud de la paciencia era muy querido por los Padres,\ncomo se desprende de lo que tienen que decir acerca de Rom_8: 25 .\nLos cristianos tenían que seguir esperando la segunda venida de Cristo\nen cualquier momento, pero no estaban a la desesperación si no volvía\ncuando lo espera. La oración es eficaz sólo cuando se ofrece en el\nEspíritu. Esta fue una de las principales preocupaciones de los padres,\nque eran muy conscientes de los peligros de la oración sin respuesta, lo\nque podría convertir a la gente lejos de su fe. La oración en el Espíritu\nes la oración de acuerdo a la voluntad de Dios, no según nuestros\npropios deseos.",
-        "verse_ref": "Romans 8:23-27"
+        "reading_ref": "Micah 6:1-4, 6-8",
+        "title": "“O My People”",
+        "father": "San Ambrosio",
+        "text": "Juicio de Cristo de su pueblo. Ambrose: También hay una tercera\npetición, pues aunque David se puso en medio de gente haciendo malas\nobras, que desea ardientemente que su caso sea separado de contagio\ncon ellos. Muchos suponen que este sentimiento se\ndebe atribuir al Señor Jesús, porque pertenece a él solo no temer el\njuicio, como el que vence cuando sea juzgado. De\nhecho, él tiene el juicio del hombre injusto, y en ella Cristo entró de\nbuena gana, como usted lo encuentra escrito: “Pueblo mío, ¿qué he\nhecho? O en la que te he afligido “Pero dado que el Padre le ha dado\ntodo el juicio a él,? No ciertamente como si a uno que era\ndébil, pero como a un hijo, lo que puede someterse a juicio? Si piensan\nque el Hijo debe someterse a juicio del Padre, sin duda “el Padre no\njuzga a ningún hombre, sino que todo el juicio se ha dado al Hijo, para\nque todos honren al Hijo como honran al Padre.” el Padre\nhonra al Hijo, ¿y no lo pusieron a juicio? Hemos expresado este\npensamiento aquí, para que nadie pensaría que hemos sustituido la\nfigura del salmista en el lugar del Señor por miedo a la investigación.\nSanto David prevé en el espíritu que los Judios se levantará contra el\nSeñor en su pasión. Puesto que no es gran temor del juicio sobre su\npropia fe, suplica que su propio caso se distingue también de una nación\nde perseguidores. De lo contrario, el stock de toda la raza judía podría\nestar implicado con esos malos herederos de su propia raza y la\nposteridad. La oración de Job y David 08/04/29. Juicio y comodidad. Casiodoro: “Porque el Señor juzgará a su pueblo,\ny él [dar] confort, entre sus servidores” La razón\nde la gloria anterior se afirma: “Porque el Señor juzgará su pueblo “, es\ndecir, el pueblo judío, a quien le reveló grandes milagros y asignados a\nsus profetas para que la gente no lo haría pecado. También les envió a\nsu propio",
+        "verse_ref": "Micah 6:3"
       },
       {
-        "reading_ref": "Romans 8:26-27",
-        "title": "El Espíritu Intercede",
+        "reading_ref": "Matthew 12:38-42",
+        "title": "La demanda de una señal del cielo",
+        "father": "San Juan Crisóstomo",
+        "text": "Información general: Los fariseos imaginaron que Jesús no estaba en\ncontrol de sus pasiones y que podría ser en un momento dado se\ntrasladó a la ira y en el momento siguiente manipulado por la adulación\n(Crisóstomo). Para buscar desde el Hijo de Dios una señal de su\ndivinidad era otra cosa que no creen sus palabras, como si él está\nhablando falsamente acerca de sí mismo a menos que respalda sus\npalabras con signos (Anónimo). Aquellos que deseen conocer al Hijo de\nDios a través de una demostración de signos, pero no a través de la fe\npermanecerá atrapado en su incredulidad, que cae sobre el tropiezo de\nsu muerte, que es la señal de Jonás (Anónimo). Los tres días de su\nmuerte y resurrección se refieren al final del viernes, todo el sábado y el\ncomienzo de domingo de la semana pasión (Teodoro de Heraclea).\nJonás prefiguró el Hijo del hombre (Agustín), y el pueblo de Nínive\nprefiguró los creyentes (Anónimo). Sin embargo, hay muchas\nlimitaciones en la analogía entre Jonás y Jesús (Crisóstomo, Cirilo de\nAlejandría). La iglesia cumple el tipo de la reina del Sur, proporcionando\nno dones de cosas perecederas, pero la fe, el incienso de los\nconocimientos, la efusión de una oferta, el sudor de las virtudes y la\nsangre del martirio (Orígenes, Agustín). Sin embargo, sigue habiendo\nmuchos límites a esta analogía, así (Anónimo).",
+        "verse_ref": "Matthew 12:38-42"
+      },
+      {
+        "reading_ref": "Matthew 12:38-42",
+        "title": "Jesús rechaza la demanda de un signo Favorecedor del Maestro. Crisóstomo: Entonces . ¿Cuando? Sólo cuando",
+        "father": "San Juan Crisóstomo",
+        "text": "deberían estar de rodillas delante de él, para admirar, a ser sorprendido\ny dar paso, a continuación, se niegan a cesar de su maldad. Y tomar\nnota de sus palabras también, lleno de halagos y disimulo. Para\nintentaron sonsacarle a su manera engañosa. En primer lugar insultan,\nentonces le adulan; Ahora llamándole un endemoniado, ahora de nuevo\nDominar, tanto a partir de una mente maligna. No hay palabras más\ncontradictorias se ha hablado alguna vez.\nEs por esto que los reprende severamente. Tenga en cuenta que cuando\neran más o menos de interrogarlo e insultar a él, Jesús discutió con ellos\nsuavemente. Pero cuando le fueron halagadores les reprochó con mayor\nseveridad. Se imaginan que él está en control de ninguno pasión y que\npuede ser en un momento dado se trasladó a la ira y en el momento\nsiguiente suavizado por la adulación. El Evangelio de Mateo, Homilía\n43,1. [PG 57: 457; NPNF 1 10: 273].\nSu perversidad. Anónimo: Cuando el endemoniado había sido sanado,\nalgunos de los transeúntes judíos blasfemaron el Señor, diciendo: “Este\nno echa fuera los demonios sino por Beelzebú, príncipe de los\ndemonios.” Y otros le tentaron, diciendo: “Maestro, queremos a verte\ndar una señal del cielo.”La forma de estas expresiones puede ser\ndiferente de hecho, pero tienen una perversión común. Adscribir al\ndiablo las obras del Hijo de Dios es blasfemar el Hijo de Dios o el\nEspíritu Santo. Del mismo modo, para buscar desde el Hijo de Dios una\nseñal de su divinidad es insultar el Hijo de Dios, porque para solicitar de\nél un signo de su divinidad es otra cosa que a no creer las palabras de\naquel que está hablando, por así decirlo, cosas falsas acerca de sí\nmismo a menos que respalda sus palabras con signos manifiestos. El\ntrabajo incompleto en Mateo, Homilía 30. Deseamos ver una señal. Cirilo de Alejandría: Dicen que los milagros\nque ha realizado son de los demonios. Lo",
+        "verse_ref": "Matthew 12:38"
+      },
+      {
+        "reading_ref": "Matthew 12:38-42",
+        "title": "Ninguna muestra sino la señal de Jonás La generación mala y adúltera. Orígenes: Esa generación era malo, por",
         "father": "Orígenes",
-        "text": "El Espíritu nos ayuda en nuestra debilidad. Orígenes: Así como un\nhombre enfermo no preguntar al médico por las cosas que le devolveré\nla salud, sino por aquellas cosas que sus largos enfermedad para, así\ntambién nosotros, como siempre que estamos consumiendo en la\ndebilidad de esta vida, será de vez al tiempo de pedir a Dios cosas que\nno son buenas para nosotros. Esta es la razón por el Espíritu tiene que\nayudarnos.\nLa debilidad que el Espíritu nos ayuda en nuestra carne es. ... Cada vez\nque el Espíritu Santo ve nuestro espíritu que lucha con la carne y de ser\natraídos hacia él, él extiende su mano y nos ayuda en nuestra debilidad.\nComentario a la Epístola a los Romanos. [ CER 4: 76-78.]\nLos importuna Spirit. Novaciano: El Espíritu Santo importuna los oídos\ndivinos en nuestro nombre “con gemidos que no pueden expresarse con\npalabras”, descargando de este modo sus funciones como defensor y la\nprestación de sus servicios en nuestra defensa. Se le ha dado para\nhabitar en nuestros cuerpos y para llevar a cabo nuestra santificación.\nLa Trinidad 29.16. .\nEl Espíritu intercede De acuerdo con su naturaleza. Ambrosiaster:\nNuestras oraciones son débiles porque piden cosas contrarias a la razón,\ny por esta razón Pablo muestra que esta debilidad en nosotros es\nayudado por el Espíritu Santo que nos ha sido dado. El Espíritu Santo ayuda porque no permite que nada le solicitamos antes del momento\nadecuado o en contra de los deseos de Dios que sucedan.\nPablo dice que el Espíritu intercede por nosotros no con palabras\nhumanas sino por su propia naturaleza. Para cuando lo que viene de\nDios habla con Dios, es obvio que va a hablar en la misma forma que la\nde los que habla viene. Por el Espíritu que nos ha dado desborda con\nnuestras oraciones con el fin de compensar nuestra insuficiencia y falta\nde previsión por sus acciones y pedir a Dios por las cosas que serán de\nbeneficio para nosotros. Comentario sobre las Epístolas de Pablo. [CSEL\n81,1: 287-89.",
-        "verse_ref": "Romans 8:26"
-      },
-      {
-        "reading_ref": "Romans 8:26-27",
-        "title": "Intercediendo según la voluntad de Dios",
-        "father": "Orígenes",
-        "text": "El que escudriña el corazón. Orígenes: Pablo muestra aquí que Dios\npresta menos atención a las palabras que usamos en la oración que él a\nlo que está en nuestra mente y corazón. Comentario a la Epístola a los\nRomanos. [ CER 4:82.]\nConoce la mente del Espíritu. Ambrosiaster: Está claro que la oración\nde todo espíritu es conocido a Dios, de quien nada es secreto u oculto.\n. ¿Cuánto más debe [Padre]\nsé qué, está diciendo el Espíritu Santo, que es la misma esencia que él\nmismo? Comentario sobre las Epístolas de Pablo. De acuerdo con la voluntad de Dios. Crisóstomo: Pablo está\ndescribiendo aquí el hombre espiritual que tiene el don de la oración. Él\nno informa a Dios como si Dios fuera ignorante, pero intercede para que\npodamos aprender lo que es que debemos orar y pedirle a Dios que nos\ndé las cosas que son agradables a él. ... Estas oraciones son\nescuchadas, porque el hombre que ora ellos lo está haciendo “de\nacuerdo a la voluntad de Dios.” Homilías sobre Romanos 14. [1 NPNF. 11:\n447] Espíritu como Gracia. [Pseudo] Constancio: Es una costumbre de la\nEscritura santa llamar gracia “espíritu”. Así que Pablo en este pasaje\nllama a la gracia del Espíritu Santo “espíritu”, que se dispensa y se nos\nda en diferentes formas, como el mismo apóstol dice a los Corintios:\n“hay muchos regalos, pero no hay un solo Espíritu.” [ 1Co_12: 4 .] la Santa\nCarta de St. Paul a los Romanos. [ ENPK 2: 61-62.]\nPelagio: Paul ha llamado un don del Espíritu ... Nos hace solicitamos con\ngemidos que no se pueden describir, al igual que se dice que Dios nos\ntienta con el fin de conocer, es decir, con el fin de hacernos conocer, lo\nque “el Espíritu”. clase de personas que somos. Incluso en el\nlenguaje popular se dice que el maestro para lograr lo que él ordena que\nser hecho por otros, como en las declaraciones como “construyó una casa” o “escribió un libro,” a pesar de que s",
-        "verse_ref": "Romans 8:27"
-      },
-      {
-        "reading_ref": "Matthew 13:24-43",
-        "title": "La parábola de la cizaña entre el trigo",
-        "father": "Orígenes",
-        "text": "Descripción general: La buena semilla son llevados a ser los hijos del\nreino, porque todo lo que las cosas buenas se siembran en el alma\nhumana, estos son los hijos del reino de Dios (Orígenes). El diablo\nsiembra cizaña entre las personas que duermen, entre los que por\nnegligencia son superados por su infidelidad como en una especie de\nletargo (Cromacio). El cabeza de familia ordenó a sus sirvientes que\naguantar las malas hierbas y no separarlos ahora (Agustín). Una\nseparación se produciría en el último día (Orígenes, Cromacio). No\ndebemos ser rápidos para juzgar. Lo que es dudoso se debe dejar al juicio de Dios cuando el día del juicio viene (Jerome). Los ángeles y los\nservidores de la Palabra se reunirán desde el reino de Cristo todas las\ncosas que causan un obstáculo para las almas, que van a dispersar y\nBurn (Origen).",
-        "verse_ref": "Matthew 13:24-30"
-      },
-      {
-        "reading_ref": "Matthew 13:24-43",
-        "title": "Siembra buena semilla",
-        "father": "Orígenes",
-        "text": "Una buena semilla. Orígenes: Consideremos ahora, si además de lo que\nya hemos relatado, que de lo contrario puede tomar la buena semilla a\nser los hijos del reino, porque todo lo bueno que las cosas se siembran\nen el alma humana, estos son los hijos del reino de Dios . Ellos han sido\nsembradas por Dios la Palabra que estaba en el principio con Dios. Sanas palabras sobre cualquier cosa son hijos del reino.\nComentario sobre Mateo 10.2. [GCS 40: 2; ANF 9: 414].\nEl sembrador de la buena semilla. Cromacio: El Señor señala\nclaramente que él es el sembrador de semillas de buena calidad. Él no\ndeja de sembrar en este mundo como en un campo. La palabra de Dios\nes como buena semilla en los corazones de la gente, de modo que cada\nuno de nosotros de acuerdo a las semillas sembradas en nosotros por\nDios pueden dar fruto espiritual y celestial. Tratado en Mateo 51.1. [9a\nCCL: 450.]",
-        "verse_ref": "Matthew 13:24"
-      },
-      {
-        "reading_ref": "Matthew 13:24-43",
-        "title": "Siembra Bad Seed",
-        "father": "Orígenes",
-        "text": "Cuando la gente está dormida. Orígenes: Pero mientras la gente está\ndormida que no actúan de acuerdo con el mandato de Jesús: “Velad y\norad para que no entréis en tentación.” En ese momento, el\ndiablo en las cerdas del reloj lo que se llaman tares- es decir, el malopiniones sobre y entre las buenas semillas que son de la Palabra. De\nacuerdo con este todo el mundo podría llamarse un campo, y no a la\niglesia de Dios solamente. Porque el Hijo del hombre sembró la buena\nsemilla en todo el mundo, pero el maligno sembró cizaña, es decir,\nmalas palabras -que, que surge de la maldad, son hijos del maligno.\nComentario sobre Mateo 10.2. [GCS 40: 2; ANF 9: 414].",
-        "verse_ref": "Matthew 13:25"
+        "text": "causa de la influencia que había llegado a estar en ella del maligno. Fue\nadúltera, ya que había dejado a su marido naturales-la palabra o la ley\nde la verdad, y había llegado a ser casado con una mentira. La ley que\nestá “en los miembros” de nuestras guerras carne es contra “la ley de la\nmente.” Es un adúltero del alma. Todo poder oponerse,\ncuando tiene relaciones sexuales con el alma infielmente-alma que tiene\ncomo su novio la Palabra de Dios hace que el alma adulterar. Fragmento\n274. Un deseo para una sesión. Anónimo: ¿Quiere ver una señal? ¿Dónde\nestabas cuando el diablo, castigado por mí, no con un látigo, pero con\nuna palabra, gritó: “¿Qué vamos a hacer contigo, Jesús de Nazaret?\n¿Has venido aquí para atormentarnos antes de tiempo? Sabemos que\neres el Hijo de Dios “. Los demonios se dieron cuenta de mi\npoder, y cómo es que os hemos dejado de ver el signo de mis obras?\n¿Dónde estabas cuando el ciego sentado junto al camino gritó: “Jesús,\nHijo de David, ten piedad de nosotros” Para que veamos? El\ntrabajo incompleto en Mateo, Homilía 30. La señal de Jonás. Anónimo: ¿Cuál es la señal de Jonás? El tropiezo de\nla cruz. Así que no es de los que dudan de conocimiento que serán\nsalvados, pero los que creen verdadera enseñanza. Para la cruz de\nCristo es de hecho una piedra de tropiezo para los que disputan el\nconocimiento, sino la salvación a los que creen. Pablo da testimonio de\nesto: “Pero nosotros, por nuestra parte, anuncian el crucificado de Cristo\na los Judios de hecho un tropezadero, y para la necedad gentiles, sino a\nlos que son llamados, ambos Judios y griegos, Cristo, el poder de Dios y\nla sabiduría de Dios “. [ 1Co_1: 23-24 .] ¿Por qué los Judios buscan señales\ny los griegos buscan sabiduría? Dios señaló a la señal de la piedra de\ntropiezo de la cruz tanto a los Judios y los",
+        "verse_ref": "Matthew 12:39"
       }
     ],
     "meditation": "",
