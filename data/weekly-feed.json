@@ -1,78 +1,71 @@
 {
-  "generated_at": "2026-07-24T08:27:35.526950Z",
+  "generated_at": "2026-07-25T08:06:25.006604Z",
   "week": "2026-W29",
   "liturgy": {
-    "date": "2026-07-24",
+    "date": "2026-07-25",
     "season": "Ordinary Time",
     "readings": [
       {
         "type": "first_reading",
-        "reference": "Jeremiah 3:14-17",
+        "reference": "2 Corinthians 4:7-15",
         "summary": "",
-        "text": "En aquel tiempo llamarán a Jerusalén «Trono del Señor».\nTodas las naciones se incorporarán a ella en el nombre de «El Señor que está en Jerusalén», y ya no se dejarán guiar por su corazón perverso y obstinado."
+        "text": "En aquellos días, los apóstoles daban testimonio de la resurrección del Señor Jesús con mucho valor. Y se los miraba a todos con mucho agrado.\nPor mano de los apóstoles se realizaban muchos signos y prodigios en medio del pueblo.\nTodos se reunían con un mismo espíritu en el pórtico de Salomón.\nLes hicieron comparecer ante el Sanedrín y el sumo sacerdote los interrogó, diciendo:\n«¿No os habíamos ordenado formalmente no enseñar en ese nombre? En cambio, habéis llenado Jerusalén con vuestra enseñanza y queréis hacernos responsables de la sangre de ese hombre».\nPedro y los apóstoles replicaron:\n«Hay que obedecer a Dios antes que a los hombres. El Dios de nuestros padres resucitó a Jesús, a quien vosotros matasteis, colgándolo de un madero. Dios lo ha exaltado con su diestra, haciéndolo jefe y salvador, para otorgar a Israel la conversión y el perdón de los pecados. Testigos de esto somos nosotros y el Espíritu Santo, que Dios da a los que lo obedecen».\nEllos, al oír esto, se consumían de rabia y trataban de matarlos.\nEl rey Herodes hizo pasar a cuchillo a Santiago, hermano de Juan."
       },
       {
         "type": "psalm",
-        "reference": "Jeremiah 31:10, 11-12abcd, 13",
+        "reference": "Psalm 126:1bc-2ab, 2cd-3, 4-5, 6",
         "summary": "",
-        "text": "Escuchad, pueblos, la palabra del Señor,\n anunciadla en las islas remotas:\n «El que dispersó a Israel lo reunirá,\n lo guardará como un pastor a su rebaño». R/.\n«Porque el Señor redimió a Jacob,\n lo rescató de una mano más fuerte».\n Vendrán con aclamaciones a la altura de Sion,\n afluirán hacia los bienes del Señor. R/.\nEntonces se alegrará la doncella en la danza,\n gozarán los jóvenes y los viejos;\n convertiré su tristeza en gozo,\n los alegraré y aliviaré sus penas. R/."
+        "text": "El Señor tenga piedad y nos bendiga,\n ilumine su rostro sobre nosotros;\n conozca la tierra tus caminos,\n todos los pueblos tu salvación. R/.\nQue canten de alegría las naciones,\n porque riges el mundo con justicia,\n y gobiernas las naciones de la tierra. R/.\nLa tierra ha dado su fruto,\n nos bendice el Señor, nuestro Dios.\n Que Dios nos bendiga; que le teman\n todos los confines de la tierra. R/."
       },
       {
         "type": "gospel",
-        "reference": "Matthew 13:18-23",
+        "reference": "Matthew 20:20-28",
         "summary": "",
-        "text": "En aquel tiempo, dijo Jesús a sus discípulos:\n«Vosotros, pues, oíd lo que significa la parábola del sembrador: si uno escucha la palabra del reino sin entenderla, viene el Maligno y roba lo sembrado en su corazón. Esto significa lo sembrado al borde del camino.\nLo sembrado en terreno pedregoso significa el que escucha la palabra y la acepta enseguida con alegría; pero no tiene raíces, es inconstante, y en cuanto viene una dificultad o persecución por la palabra, enseguida sucumbe.\nLo sembrado entre abrojos significa el que escucha la palabra; pero los afanes de la vida y la seducción de las riquezas ahogan la palabra y se queda estéril. Lo sembrado en tierra buena significa el que escucha la palabra y la entiende; ese da fruto y produce ciento o sesenta o treinta por uno»."
+        "text": "En aquel tiempo, se acercó a Jesús la madre de los hijos de Zebedeo con sus hijos y se postró para hacerle una petición.\nÉl le preguntó:\n«¿Qué deseas?».\nElla contestó:\n«Ordena que estos dos hijos míos se sienten en tu reino, uno a tu derecha y el otro a tu izquierda».\nPero Jesús replicó:\n«No sabéis lo que pedís. ¿Podéis beber el cáliz que yo he de beber?».\nContestaron:\n«Podemos».\nÉl les dijo:\n«Mi cáliz lo beberéis; pero sentarse a mi derecha o a mi izquierda no me toca a mí concederlo, es para aquellos para quienes lo tiene reservado mi Padre».\nLos otros diez, al oír aquello, se indignaron contra los dos hermanos. Y llamándolos, Jesús les dijo:\n«Sabéis que los jefes de los pueblos los tiranizan y que los grandes los oprimen. No será así entre vosotros: el que quiera ser grande entre vosotros, que sea vuestro servidor, y el que quiera ser primero entre vosotros, que sea vuestro esclavo.\nIgual que el Hijo del hombre no ha venido a ser servido sino a servir y a dar su vida en rescate por muchos»."
       }
     ],
     "patristic_comments": [
       {
-        "reading_ref": "Jeremiah 3:14-17",
-        "title": "El llamado para el regreso de la infiel Israel",
-        "father": "San Agustín",
-        "text": "Descripción general: Dios es un pastor de los pastores y una guía de\nlas guías (Gregorio Nacianceno). Dios proveerá pastores que gobiernan\ncon sabiduría (albahaca). Dios toma su pueblo lejos de los malos\npastores y les da a los buenos (Agustín). Puesto que Dios reprende a los\nque ama, sacerdotes deben amar a aquellos a los que reprenden\n(Cipriano). No hay pecado que cometemos contra Dios puede enfriar la\npasión de su amor por nosotros (John Cassian). Dios sanará aquellos\nniños que regresan a él (Agustín). Con todo el corazón, volvamos a\nDios, que es bueno para nosotros (Orígenes, Horsiesi).",
-        "verse_ref": "Jeremiah 3:11-25"
-      },
-      {
-        "reading_ref": "Jeremiah 3:14-17",
-        "title": "Pastores según el corazón de Dios",
-        "father": "San Gregorio",
-        "text": "Que el Señor Asistir a un pastor fiel. Gregorio Nacianceno: Dios, que\ndio la palabra a los que anuncian el Evangelio con\ngran poder para la perfección del Evangelio, puede él mismo me\nsostienes de la mano derecha, y la guía mí con su consejo y me recibo\nde gloria. Él es un pastor de pastores y una\nguía de guías que podamos alimentar a su rebaño con el conocimiento, No con los aperos de un pastor insensato , conforme a la bendición, y no de acuerdo con la maldición pronunciada\ncontra el pueblo de antaño. Puede también dar fuerza y poder a su\npueblo, Y él mismo les presentará a sí mismo. En defensa de su vuelo al Ponto, Oración 2.117. .\nDios proveerá un pastor fiel. Basilio el Grande: Debemos tener en\ncuenta que nuestro pastor feliz en su muerte porque ha dejado a un\nlado su vida a una edad más rico en años y se ha ido a su descanso con\nlos mayores honores en el Señor. En relación con todo lo demás que\ntenemos esta recomendar, que se debe desechar toda la depresión,\nrecuperar el autocontrol y el lugar a la cuota necesaria de cuidado de la\niglesia, de modo que el Dios santo puede prestar atención a sus ovejas y prever que una pastor conforme a su voluntad, que va a gobernar\nsabiamente. Carta 62. Rebaño de Cristo escucha a su voz. Agustín: Y lo que estamos\ndiciendo, hermanos? No hay ningún buenos pastores? ¿No dice en otro\npasaje de las Escrituras, “yo levantaré para ellos pastores según mi\ncorazón, y que las apacentará con la instrucción.” Por lo tanto ¿cómo no\ndar la oveja que lleva desde los malos pastores de buenos, y dicen,\ncomo si no hubiera absolutamente ningún buenos dejaron a ningún lado\n“les daré de comer”? Le dijo a Pedro: “Apacienta mis ovejas.” Entonces,\n¿qué vamos a hacer con él? Cuando las ovejas se confió a Pedro, el\nSeñor no dice en esa ocasión: “Voy a",
-        "verse_ref": "Jeremiah 3:14-15"
-      },
-      {
-        "reading_ref": "Jeremiah 31:10, 11-12abcd, 13",
-        "title": "Un remanente volverá",
-        "father": "San Jerónimo",
-        "text": "Descripción general: El resto de Israel es un tipo de todos los que se\nsalvan por la cruz. El pueblo de Dios son el Israel espiritual. Ellos son\nrecogidos por los apóstoles (Jerome), que sucedieron en Pentecostés\n(Tertuliano) cuando el Señor reunió a sus ovejas dispersas entre Israel y\nlas naciones (Jerome).\nLa profecía de Jeremías acerca de Raquel que llora a sus hijos se\ncumplió primero históricamente cuando sus descendientes de la tribu de\nBenjamín, junto con Judá, fueron enviados a Babilonia; pero en un\nsentido espiritual que se cumplieron en que Herodes mató a los niños de\nBelén en busca de Jesús (Teodoreto, Efrén, Crisóstomo). Rachel sembró\nla semilla de sus hijos para Cristo, se lavan bajo la lluvia de lágrimas\n(Ambrose). A través del sufrimiento de los niños, Judah ofreció a Dios\nblanco-revestido, sin pecado, mártires pacíficos (Cesáreo). La voz en\nRamá es el duelo a su vez de la iglesia por sus mártires (Bede).",
-        "verse_ref": "Jeremiah 31:1-17"
-      },
-      {
-        "reading_ref": "Jeremiah 31:10, 11-12abcd, 13",
-        "title": "Coastlands distantes",
-        "father": "San Jerónimo",
-        "text": "El Señor llama a las Naciones. Jerome: El llamado de las naciones se\ndemuestra claramente cuando la Escritura dice, ¿Qué anuncian a las\ncostas lejanas “Oíd la palabra de Jehová, naciones, y anunciar a las\ncostas lejanas.”? Anuncian que “el mismo Señor que dispersó a Israel lo reunirá,” demostrando que nunca estuvo en el poder de sus enemigos\npara dispersar Israel, pero sólo en la voluntad del Señor “, y protegen a\nIsrael como un pastor cuida su rebaño, ”ya que‘el buen pastor da su\nvida por sus ovejas,’ ‘ porque el Señor redimió a Jacob con\nsu propia sangre preciosa y lo liberó de las manos de aquellos que eran\nmás poderosos o más fuerte’...“ ellos vendrán “, continúa, sin duda\nrefiriéndose a aquellos que fueron liberados de la mano de los\npoderosos‘ y alabar a su liberador en el monte Sion’, es decir, en la\niglesia,“y transmitir a la bondad del Señor de toda la abundancia “, que\nse sabe que no en las frutas y alimentos de esta carne, sino en una\ndiversidad de virtudes. Seis Libros de Jeremías 6.17.3-5.",
-        "verse_ref": "Jeremiah 31:10"
-      },
-      {
-        "reading_ref": "Matthew 13:18-23",
-        "title": "Jesús explica la parábola del sembrador",
+        "reading_ref": "2 Corinthians 4:7-15",
+        "title": "vasijas de barro",
         "father": "Orígenes",
-        "text": "Descripción general: Si la semilla de la que es denso es arrebatada, la\nsemilla del espíritu tendría que deben abordarse y cubierto el suelo de la\nmemoria (Orígenes). La diversidad de suelos representa la diversidad de las almas de los creyentes (Jerome). Uno sufre de las preocupaciones\ndel mundo cuando uno no rejuvenecer el propio suelo, pero recibe la\npalabra sin prestar atención (Orígenes). Las riquezas son muy atractivos\nen efecto, que promete una cosa y otra producción. En terreno malo hay\ntres situaciones diversas: por el camino, en un terreno rocoso y entre\nlas espinas. Así también en buena tierra, existen tres tipos: fruto de uno\na ciento, a sesenta y treinta (Jerome).",
-        "verse_ref": "Matthew 13:18-23"
+        "text": "Descripción general : El poder de Dios es más visible cuando se lleva\na cabo grandes obras mediante el uso de lo vil (Crisóstomo). La\nreferencia a los vasos de barro es una alusión a la debilidad de la\nnaturaleza humana, que no puede hacer nada a menos que reciba el\npoder de Dios (Orígenes, Ambrosiaster, Jerome). Aflicciones son\npermitidos por Dios, no por nuestra derrota pero para nuestra disciplina\n(Crisóstomo, Agustín, Teodoreto de Ciro). En el sufrimiento de los\nmártires Cristo mismo sufre (Ambrosiaster). Llevamos en el cuerpo la\nmuerte de Jesús todos los días (Crisóstomo, Pelagio).",
+        "verse_ref": "2 Corinthians 4:7-12"
       },
       {
-        "reading_ref": "Matthew 13:18-23",
-        "title": "El camino y la falta de comprensión",
-        "father": "San Jerónimo",
-        "text": "Lo que se siembra en el corazón. Jerome: “El maligno viene y arrebata\nlo que fue sembrado en su corazón:” El maligno arrebata la buena\nsemilla. También debe comprender que se sembró en el corazón. La\ndiversidad de suelos representa la diversidad de las almas de los\ncreyentes. “Y cuando los problemas y persecución vienen a causa de la\npalabra, que a la vez se cae.” Note lo que se dijo: “De inmediato se cae”\nPor lo tanto hay una cierta distancia entre la persona que está limitado\npor muchos problemas y sufrimientos para negar Cristo y el que en\nmedio de la persecución inmediatamente cae lejos y sucumbe.\nComentario sobre Mateo 2.13.19-21.",
-        "verse_ref": "Matthew 13:18-19"
+        "reading_ref": "2 Corinthians 4:7-15",
+        "title": "poder trascendente",
+        "father": "San Juan Crisóstomo",
+        "text": "El poder sea de Dios. Crisóstomo: Tanto la grandeza de las cosas\ndadas y la debilidad de los que reciben mostrar el poder de Dios, que no\nsólo dio grandes cosas, pero también les dio a los que están poco. Usó\nel término de tierra en alusión a la fragilidad de nuestra naturaleza\nmortal y para declarar la debilidad de nuestra carne. Porque no es mejor\nque la loza de barro, que está pronto dañado y destruido por la muerte,\nla enfermedad e incluso las variaciones de temperatura. El poder de\nDios es más visible cuando se lleva a cabo grandes obras mediante el\nuso de las cosas viles y humildes. Homilías sobre las Epístolas de Pablo\na los Corintios 8.3. Las profundidades de la inspiración divina. Orígenes: Pero al igual\nque la providencia divina no se prueba que es una ficción, sobre todo\npara aquellos que están convencidos de su existencia, debido a su\nfuncionamiento y arreglos están más allá de la comprensión de la mente\nhumana, por lo que tampoco será la inspiración divina de la Santa\nEscritura, que se extiende a través de todo su cuerpo, se supone que es\ninexistente debido a la debilidad de nuestro entendimiento no puede\ndescubrir los pensamientos profundos y ocultos en cada frase. Para el\ntesoro de la sabiduría divina se oculta en los vasos de las palabras\npobres y humildes, como el apóstol señala cuando dice: “Pero tenemos\neste tesoro en vasos de barro, para que la excelencia del poder divino\npueda brillar más,” cuando no hay mancha de la elocuencia humana se\nmezcla con la verdad de las doctrinas. En los primeros principios 4.1.\n[OFP 267.]",
+        "verse_ref": "2 Corinthians 4:7"
       },
       {
-        "reading_ref": "Matthew 13:18-23",
-        "title": "El Rocky Ground y falta de resistencia",
-        "father": "Orígenes",
-        "text": "Por el borde del camino. Orígenes: No todos los escritores de los\nEvangelios utilizan los mismos términos en los informes de esta\nparábola. Mateo escribió sobre “el maligno,” Marca de “Satanás”, y\nLucas de “el diablo.” Las frases “por el\ncamino” y “en el camino” no son exactamente lo mismo. Pesar en la\nalusión de la declaración “Yo soy el camino.” Tanto Mateo y\nMarcos dicen, más felizmente, que la palabra se sembró “en terreno\npedregoso,” no sobre una “piedra”.\nAhora bien, para todo lo que es “en el camino”, “los que no entienden”\nse aplican las palabras. Pero a la buena tierra se aplican estas palabras:\n“Este es el que oye la palabra y la entiende” Quizás entonces esas\nsemillas que caen “en terreno pedregoso” y aquellos que caen caída\nentre las personas sin conocimientos y los “entre las espinas” que\nentender. Este es, pues, una exhortación a meditar diligentemente en la\nfacultad de percepción. Si la semilla de la que es denso es arrebatada, la\nsemilla del espíritu tendría que ser asumido y cubierta en el suelo de la memoria, de modo que pueda extendiendo raíces y no puede ser\nencontrado desnudo o arrebatado por los espíritus de malicia.\nFragmento 291.",
-        "verse_ref": "Matthew 13:20-21"
+        "reading_ref": "2 Corinthians 4:7-15",
+        "title": "Sin triturar o Desesperándose",
+        "father": "San Juan Crisóstomo",
+        "text": "Afligido, pero no angustiados. Crisóstomo: Las aflicciones vienen no\nsólo de los enemigos sino incluso de nuestros propios hogares y amigos.\nEstas cosas son permitidas por Dios, no por nuestra derrota pero para nuestra disciplina. Homilías sobre las Epístolas de Pablo a los Corintios\n9.1. El poder de Dios revelada. Teodoreto de Ciro: Si ninguna de estas\ncosas ha pasado, la grandeza del poder de Dios nunca será revelada.\nComentario sobre la segunda carta a los Corintios 310. La libertad en la aflicción. Orígenes: Porque Dios nos libra de\naflicciones no cuando ya no estamos en la aflicción (... Pablo dice\n“estamos atribulados en todo,” como si nunca hubo un momento en que\nno fueron afectados), pero cuando en nuestra aflicción somos no\naplastado debido a la ayuda de Dios. “Para ser afligidos,” de acuerdo\ncon un lenguaje coloquial de los hebreos, tiene el significado de una\ncircunstancia crítica que nos sucede sin nuestra libre elección, mientras\nque “al ser aplastado” implica nuestra libre elección y que ha sido\nconquistado por la aflicción y entregado en su poder. Y así Pablo tiene\nrazón cuando dice: “Estamos atribulados en todo, pero no angustiados.”\nSobre la oración 30,1. [CWS 162.]\nEl misterio de la oración sin respuesta. Orígenes: ¿Y si no\nentendemos algo que ha escapado a la atención de los muchos\npreocupante rezar para no entrar en tentación, es el momento de decir\nque los apóstoles oraron y en ocasiones no fueron escuchadas. ¿Cuántos\nmiles de sufrimientos qué se experimentan durante toda su vida con\nmucho mayores trabajos, con muchos más golpes, con un sinnúmero de\ncadenas, y la muerte a menudo cerca? Pablo en su propia recibido a\nmanos de los Judios el treinta y nueve azotes, fue golpeado con varas\ntres veces, una vez que fue apedreado, naufragó tres veces, estaba a la\nderiva en el mar una noche y un día. Estaba en todos los sentidos\nafligidos, perplejo, perseguido y abatido. Sobre la oración 29,4.",
+        "verse_ref": "2 Corinthians 4:8"
+      },
+      {
+        "reading_ref": "Matthew 20:20-28",
+        "title": "Solicitud de una madre",
+        "father": "Solicitud de una madre",
+        "text": "Descripción general : Los discípulos hicieron un error saludable en la\nbúsqueda de privilegio especial. Se convirtió en la ocasión, para nuestra\nenseñanza que al deseo de un buen trabajo es bueno, pero el deseo de\nhonor no está en armonía con el reino. Cuando los discípulos dijeron con\ntanta facilidad “podemos” no era tanto por la audacia de su propio\ncorazón como por el desconocimiento de las pruebas que se avecinan.\nPara los que no saben, la guerra es una cosa deseable. Para los\ninexpertos, el juicio de la muerte parece ser una cosa ligera (trabajo\nincompleto en Mateo). Las historias eclesiásticas muestran que a su\ndebido tiempo el espíritu de martirio no le faltaba y que Santiago y Juan\nbebió la copa de la confesión (Jerome). Al igual que Santiago y Juan no\nhan hecho su solicitud si poseían la comprensión espiritual, por lo que el diez no habrían sido triste si habían entendido el significado espiritual de\nlo que había tenido lugar (trabajo incompleto en Mateo). Jesús quitó al\nmismo tiempo la envidia de la decena y la arrogancia de los dos.\nEminencia dentro de esta comunidad no es como el estado en el mundo\n(Crisóstomo). El que persigue jactancia, mientras que el Señor persigue\nla humildad, no refleja la imagen de Cristo. Y uno que es un amante de\nlas riquezas en esta edad, mientras que el Señor es un amante de la\npobreza, repele la semejanza de Cristo. Una persona que no es un\nverdadero discípulo que no imita a su maestro; ni tampoco es una\nverdadera imagen que no es como su creador (trabajo incompleto en\nMateo). Así que no es necesario ser demasiado molesto si tu honor está\nabatida. No importa cuánto se baja, no se descenderá por lo que su\nSeñor había descendido. Y sin embargo, el profundo descenso de uno se\nha convertido en el ascenso de todos. Su gloria resplandece en estas\nmismas profundidades Crisóstomo",
+        "verse_ref": "Matthew 20:20-28"
+      },
+      {
+        "reading_ref": "Matthew 20:20-28",
+        "title": "Pidiendo a Jesús para un honor",
+        "father": "San Juan Crisóstomo",
+        "text": "El desconcierto anterior a la solicitud. Crisóstomo: Sin embargo,\nninguna de estas cosas que había hecho los llevó a ser valiente, incluso\ncuando estaban escuchando continuamente acerca de su resurrección.\nSe preocupó profundamente a ellos oyen no sólo acerca de su muerte,\npero en él se burló y flagelado y similares. Para cuando se consideran\nsus milagros solo hecho, las personas poseídas que lo había librado, a\nquienes los muertos que ha planteado, todas las otras obras\nmaravillosas que estaba haciendo, y luego oído hablar de su muerte, se\nsorprendieron, si debe ser el caso de que quien hizo estas obras\nentonces estaría destinado a sufrir. Por lo tanto cayeron aún más en el\ndesconcierto. Se cree ahora que, ahora no creyeron, y no podían\nentender sus dichos. Hasta ahora, al menos, eran ellos a partir de su\nclara visión de lo que dijo que los hijos de Zebedeo llegaron al mismo\ntiempo a él y le hablaron de precedencia. “Ordena que estos dos hijos\nmíos se sienten, uno a tu derecha y otro a tu izquierda, en tu reino.” El\nEvangelio de Mateo, Homilía 65,2. [PG 58: 618; NPNF 1 10: 398].\nLa madre vino. Crisóstomo: Parece que la madre y los dos hijos de\nZebedeo juntos llegaron a él, con el propósito de hacer más fuerte su\nsúplica y de esta manera de prevalecer con Cristo. Observen bien cómo\nCristo responde a ellos, y verá mejor a través de sus motivos, ya que la\nsolicitud fue sin duda su propia cuenta, sino que presentó a su madre\npara que sea. [Haciendo un recuento de este mismo episodio, Mar_10: 35 sólo tiene los dos\nhijos y la madre hablan permanecer en silencio. Crisóstomo toma esta incoherencia, acentuada por el hecho de que en Mateo la madre hace la petición, pero Jesús responde a los dos hijos, en\ncuenta y lo explica de la manera que sigue.] El Evangelio de Mateo, Homilía 65,2.\n[PG 58: 618; NPNF 1 10: 398].",
+        "verse_ref": "Matthew 20:20"
+      },
+      {
+        "reading_ref": "Matthew 20:20-28",
+        "title": "Lugares en el Reino",
+        "father": "San Hilario",
+        "text": "Estos dos hijos. Hilario de Poitiers: El sentido literal de esto es que la\nmadre le rogó al Señor por el bien de sus dos hijos. Pero el sentido\nespiritual es más profunda y llena de significado simbólico: Piense en la\nanalogía que hay entre los discípulos de Juan el Bautista y los apóstoles.\nLos dos [grupos] sufrieron. Ambos [grupos] eran para morirse. Eran los\ndos hijos de Israel que estaban luchando contra los fariseos. Después de\nque John había sufrido y muerto, algunos de sus discípulos se acercaron\na preguntar al Señor. La súplica es que los dos [grupos] de estos\nllamados podrían ser tratados por igual en el reino, ya que los dos\n[grupos] cree en el Evangelio de Cristo. [¿Por Hilario de Poitiers aquí interpreta los\ndos hijos como análogas a las dos dispensaciones del Bautista y el Señor es un misterio, pero\ntambién ilustra la tendencia en la exégesis patrística a buscar alguna analogía, aunque débil, cuando los números de cualquier tipo emerger en el texto sagrado.] en Mateo 20.11.",
+        "verse_ref": "Matthew 20:21"
       }
     ],
     "meditation": "",
