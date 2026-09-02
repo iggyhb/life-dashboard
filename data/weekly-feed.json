@@ -1,57 +1,71 @@
 {
-  "generated_at": "2026-09-01T11:13:05.692101Z",
+  "generated_at": "2026-09-02T10:46:25.057157Z",
   "week": "2026-W35",
   "liturgy": {
-    "date": "2026-09-01",
+    "date": "2026-09-02",
     "season": "Ordinary Time",
     "readings": [
       {
         "type": "first_reading",
-        "reference": "1 Corinthians 2:10b-16",
+        "reference": "1 Corinthians 3:1-9",
         "summary": "",
-        "text": "Hermanos:\nEl Espíritu lo sondea todo, incluso lo profundo de Dios. Pues, ¿quién conoce lo íntimo del hombre, sino el espíritu del hombre, que está dentro de él? Del mismo modo, lo íntimo de Dios lo conoce solo el Espíritu de Dios.\nPero nosotros hemos recibido un Espíritu que no es del mundo; es el Espíritu que viene de Dios, para que conozcamos los dones que de Dios recibimos.\nCuando explicamos verdades espirituales a hombres de espíritu, no las exponemos en el lenguaje que enseña el saber humano, sino en el que enseña el Espíritu. Pues el hombre natural no capta lo que es propio del Espíritu de Dios, le parece una necedad; no es capaz de percibirlo, porque solo se puede juzgar con el criterio del Espíritu. En cambio, el hombre espiritual lo juzga todo, mientras que él no está sujeto al juicio de nadie. «Quién ha conocido la mente del Señor para poder instruirlo?». Pues bien, nosotros tenemos la mente de Cristo."
+        "text": "Hermanos, no pude hablaros como a espirituales, sino como a carnales, como a niños en Cristo. Por eso, en vez de alimento sólido, os di a beber leche, pues todavía no estabais para más. Aunque tampoco lo estáis ahora, pues seguís siendo carnales. En efecto, mientras haya entre vosotros envidias y contiendas, ¿no es que seguís siendo carnales y que os comportáis al modo humano? Pues si uno dice «yo soy de Pablo» y otro, «yo de Apolo», ¿no os comportáis al modo humano?\nEn definitiva, ¿qué es Apolo y qué es Pablo? Servidores a través de los cuales accedisteis a la fe, y cada uno de ellos como el Señor le dio a entender. Yo planté, Apolo regó, pero fue Dios quien hizo crecer; de modo que, ni el que planta es nada, ni tampoco el que riega; sino Dios, que hace crecer. El que planta y el que riega son una misma cosa, si bien cada uno recibirá el salario según lo que haya trabajado. Nosotros somos colaboradores de Dios y vosotros, campo de Dios, edificio de Dios."
       },
       {
         "type": "psalm",
-        "reference": "Psalm 145:8-9, 10-11, 12-13ab, 13cd-14",
+        "reference": "Psalm 33:12-13, 14-15, 20-21",
         "summary": "",
-        "text": "El Señor es clemente y misericordioso,\n lento a la cólera y rico en piedad;\n el Señor es bueno con todos,\n es cariñoso con todas sus criaturas. R/.\nQue todas tus criaturas te den gracias, Señor,\n que te bendigan tus fieles.\n Que proclamen la gloria de tu reinado,\n que hablen de tus hazañas. R/.\nExplicando tus hazañas a los hombres,\n la gloria y majestad de tu reinado.\n Tu reinado es un reinado perpetuo,\n tu gobierno va de edad en edad. R/.\nEl Señor es fiel a sus palabras,\n bondadoso en todas sus acciones.\n El Señor sostiene a los que van a caer,\n endereza a los que ya se doblan. R/."
+        "text": "Dichosa la nación cuyo Dios es el Señor,\n el pueblo que él se escogió como heredad.\n El Señor mira desde el cielo,\n se fija en todos los hombres. R/.\nDesde su morada observa\n a todos los habitantes de la tierra:\n él modeló cada corazón,\n y comprende todas sus acciones. R/.\nNosotros aguardamos al Señor:\n él es nuestro auxilio y escudo.\n Con él se alegra nuestro corazón,\n en su santo nombre confiamos. R/."
       },
       {
         "type": "gospel",
-        "reference": "Luke 4:31-37",
+        "reference": "Luke 4:38-44",
         "summary": "",
-        "text": "En aquel tiempo, Jesús bajó a Cafarnaún, ciudad de Galilea, y los sábados les enseñaba.\nSe quedaban asombrados de su enseñanza, porque su palabra estaba llena de autoridad.\nHabía en la sinagoga un hombre poseído por un espíritu de demonio inmundo y se puso a gritar con fuerte voz:\n«¡Basta! ¿Qué tenemos que ver nosotros contigo, Jesús Nazareno? ¿Has venido a acabar con nosotros? Sé quién eres: el Santo de Dios».\nPero Jesús le increpó diciendo:\n«¡Cállate y sal de él!».\nEntonces el demonio, tirando al hombre por tierra en medio de la gente, salió sin hacerle daño.\nQuedaron todos asombrados y comentaban entre sí:\n«¿Qué clase de palabra es esta? Pues da órdenes con autoridad y poder a los espíritus inmundos, y salen».\nY su fama se difundía por todos los lugares de la comarca."
+        "text": "En aquel tiempo, al salir Jesús de la sinagoga, entró en la casa de Simón.\nLa suegra de Simón estaba con fiebre muy alta y le rogaron por ella.\nEl, inclinándose sobre ella, increpó a la fiebre, y se le pasó; ella, levantándose enseguida, se puso a servirles.\nAl ponerse el sol, todos cuantos tenían enfermos con diversas dolencias se los llevaban, y él, imponiendo las manos sobre cada uno, los iba curando.\nDe muchos de ellos salían también demonios, que gritaban y decían:\n«Tú eres el Hijo de Dios».\nLos increpaba y no les dejaba hablar, porque sabían que él era el Mesías.\nAl hacerse de día, salió y se fue a un lugar desierto. La gente lo andaba buscando y, llegando donde estaba, intentaban retenerlo para que no se separara de ellos.\nPero él les dijo:\n«Es necesario que proclame el reino de Dios también a las otras ciudades, pues para esto he sido enviado».\nY predicaba en las sinagogas de Judea."
       }
     ],
     "patristic_comments": [
       {
-        "reading_ref": "1 Corinthians 2:10b-16",
-        "title": "La sabiduría de Dios en misterio",
-        "father": "San Juan Crisóstomo",
-        "text": "Descripción general : Incluso aquellos que crucificaron al Señor\n(Ecumenio) no fueron más allá del alcance del perdón (Crisóstomo), a\nmenos que se niegan a arrepentirse y persisten en su incredulidad\n(Teodoreto de Ciro). Las profundidades de Dios (Clemente de\nAlejandría) no se pueden entender sin el Espíritu de Dios (Ambrosiaster,\nTeodoreto de Ciro), que es uno con el Padre y el Hijo (Severiano de\nGabala). La búsqueda humana por sí sola (Ambrosiaster, Ecumenio) no\npuede penetrar en estas profundidades (Orígenes, Crisóstomo). La fe no\nes agarrado por el espíritu engañoso del mundo (Ambrosiaster). La\nsabiduría del mundo es de esta edad (Orígenes), pero el evangelio\nestablece la sabiduría de la edad por venir, cuando la verdad de Dios se\nmanifestará a los que ahora lo niegan (Ambrosiaster, Teodoro de\nMopsuestia). La sabiduría de Dios es tan grande que hace que la\nsabiduría humana parece tonta (Crisóstomo). El evangelio no es\nmeramente un acertijo (Teodoreto de Ciro). Es oculto no en palabras\nsino en el poder (Ambrosiaster). Se ha guardado para nosotros antes de\nnacer (Crisóstomo). Tanto los que niegan que Cristo era totalmente\nhumano (apolinaristas) y los que dicen que Dios sufre en su naturaleza\nesencial como Word (arrianos) malinterpretar la frase “crucificaron al\nSeñor de la gloria” (Pelagio). Aunque los padres debatieron la fuente de\nla cita de Pablo en 1Co_2: 9 (Ambrosiaster, Crisóstomo), coincidieron en\nla importancia central de la muerte de Cristo (Agustín). Dondequiera\nque la cita viene, que muestra el brillo de un cuerpo espiritual puede ser\n(Orígenes) y cómo Dios conoce de antemano y prevé nuestras\ndecisiones humanas (Severian). Los gobernantes son cada poder\nespiritual o demoníaca que establece deliberadamente se levanta contra\nDios (Ambrosiaster).",
-        "verse_ref": "1 Corinthians 2:6-12"
-      },
-      {
-        "reading_ref": "1 Corinthians 2:10b-16",
-        "title": "El Espíritu todo lo escudriña",
+        "reading_ref": "1 Corinthians 3:1-9",
+        "title": "Las personas que no son espirituales Descripción general : El Espíritu Santo mora y permanece en los",
         "father": "Orígenes",
-        "text": "Las cosas profundas de Dios. Clemente de Alejandría: Los que\nposeen el Espíritu buscan las cosas profundas de Dios, es decir, los\nsecretos ocultos que rodean prophecy.Stromateis 2.7.3. Los límites de la Búsqueda humano. Orígenes: Sólo el Espíritu puede\nbuscar todo. El alma humana no puede hacer esto, por lo que necesita\nser fortalecida por el Espíritu, si es que alguna vez va a penetrar en las\nprofundidades de Dios. Comentario sobre 1 Corintios 1.10.6-10. [JTS 9:\n239]. Sólo Dios puede revelar a Dios. Ambrosiaster: Dios revelado estas\ncosas a través de su Espíritu a los creyentes, porque las cosas de Dios\nno se pueden entender sin el Espíritu de Dios, que es de Dios y por lo\ntanto sabe todo sobre él. Comentario sobre las Epístolas de Pablo. El conocimiento exacto de Dios está fuera de nuestro Búsquedas.\nCrisóstomo: Si el Espíritu, que conoce los misterios de Dios, no se había revelado a nosotros, no hay manera de que pudiéramos alguna vez los\nhemos conocido. La palabra de búsqueda no implica que el Espíritu era\nignorante, pero se refiere más bien a un conocimiento preciso y\ndetallado. Es el mismo uso que cuando Pablo habla de Dios, diciendo\nque él busca en el corazón humano. . Homilías sobre las\nEpístolas de Pablo a los Corintios 7.7. La comprensión del Espíritu. Teodoreto de Ciro: Quien ha recibido la\nrevelación del Espíritu también ha recibido la comprensión del Espíritu.\nComentario sobre la Primera Epístola a los Corintios 177.",
-        "verse_ref": "1 Corinthians 2:10"
+        "text": "creyentes que permanecen firmes en la convicción de su nuevo\nnacimiento (Ambrosiaster). Los alimentos sólidos se encuentra en las\nenseñanzas del Padre y el Hijo en el Nuevo Testamento, prefigurada en\nel maná de Moisés en el Antiguo Testamento (Orígenes, Cesáreo de\nArles). Para estar listo sólo para la leche debe ser fijado en milagros\n(Severiano de Gabala). Para estos oyentes el nivel de la enseñanza debe\nser ajustado hacia abajo (Teodoreto de Cyr). Recordemos que el Señor\nmostrará su gloria en la montaña a sólo tres discípulos, a quienes se\npidió que decir nada acerca de lo que había sucedido hasta su\nresurrección (Ambrosiaster). Faccionalismo produce celos, profundiza la\ncarnalidad, y quita la libertad de escuchar el Evangelio (Crisóstomo). El\nénfasis de Pablo en la persona espiritual no ha de entenderse como un\nrechazo maniqueo del cuerpo (Agustín).",
+        "verse_ref": "1 Corinthians 3:1-4"
       },
       {
-        "reading_ref": "Luke 4:31-37",
+        "reading_ref": "1 Corinthians 3:1-9",
+        "title": "Niños en Cristo",
+        "father": "Niños en Cristo",
+        "text": "Abordarse como carnales personas. Ambrosiaster: Estas personas\neran carnales porque estaban siendo esclavos de los deseos de la época\nactual. A pesar de que habían sido bautizados y habían recibido el\nEspíritu Santo, ellos eran carnales porque después de su bautismo que\nhabían regresado a sus antiguas vidas, que habían renunciado. El\nEspíritu Santo mora en una persona sobre la cual él ha derramado\nmismos si dicha persona se mantiene firme en la convicción de su nuevo\nnacimiento. De lo contrario se aparta, pero sólo de forma provisional. Si\nesa persona se arrepiente, el espíritu volverá, porque siempre está listo\npara lo que es bueno, siendo un amante de arrepentimiento.\nComentario sobre las Epístolas de Pablo. No es un rechazo maniqueo del cuerpo. Agustín: Pablo no estaba\nhablando de sus cuerpos, sino de sus espíritus carnales. Ciudad de Dios\n22,21. .",
+        "verse_ref": "1 Corinthians 3:1"
+      },
+      {
+        "reading_ref": "1 Corinthians 3:1-9",
+        "title": "No obstante Ready",
+        "father": "No obstante Ready",
+        "text": "No está listo. Ambrosiaster: A pesar de que habían nacido de nuevo en\nCristo, que aún no estaban en condiciones de recibir las cosas\nespirituales. A pesar de que habían recibido la fe, que es la semilla del\nEspíritu, que habían producido ningún fruto digno de Dios, pero al igual\nque los bebés, que estaban ansiosos por las sensaciones de la\nimperfección. Pero Pablo, que era un hombre de Dios y un médico\nespiritual, dio a cada uno de ellos según su fuerza, por lo que nadie\ndebe sufrir escándalo, donde los asuntos espirituales estaban\npreocupados debido a la imperfección o inexperiencia. Pablo también se\nopone enérgicamente contra los que se quejaban de que no habían oído\nnada espiritual desde hace mucho tiempo, cuando en realidad no eran\ndignos de oírlo. Los falsos apóstoles transmitieron su mensaje\nindiscriminadamente a cualquiera que lo escuchara, pero es\ngeneralmente aceptado que nuestro Señor y Maestro hablaban una\nforma en la vía pública y otro de sus discípulos en privado, y que incluso\nentre este último se hizo una distinción, pues mostrado su gloria en la\nmontaña a sólo tres discípulos y les dijo que no decir nada de lo que\nhabía sucedido hasta que se levante de entre los muertos. Comentario\nsobre las Epístolas de Pablo. Sin excusa. Crisóstomo: La incapacidad del Corinthians para recibir\nalimentos sólidos no era, por naturaleza, sino por elección, por lo que\nfueron sin excusa. Homilías sobre las Epístolas de Pablo a los Corintios\n7.3. Ajuste del nivel de la enseñanza. Teodoreto de Ciro: Pablo está\ndiciendo que ajusta el nivel de sus enseñanzas a su falta de\ncomprensión. Comentario sobre la Primera Epístola a los Corintios 179.",
+        "verse_ref": "1 Corinthians 3:2"
+      },
+      {
+        "reading_ref": "Luke 4:38-44",
         "title": "ENSEÑANZA y la curación en CAPERNAUM",
         "father": "San Cirilo",
         "text": "Descripción general : Inmediatamente después del sermón en\nNazaret, Jesús aparece en la sinagoga de Cafarnaúm para afirmar sus\nenseñanzas en Nazaret a través de milagros de sanidad que muestran\nque él es el gran médico de su creación (Cirilo de Alejandría). La nueva\ncreación comienza donde la vieja creación cesa-en sábado. Jesús\nmuestra que él está presente para liberar los hombres y mujeres de la\nservidumbre (Ambrose). Así, los docentes, exorcismos y curaciones de\nJesús todos dan testimonio de esta nueva “autoridad” en “su palabra”,\nespecialmente en lo que se demuestra el poder de su palabra en su\npoder sobre los demonios. Jesús no hace ninguna distinción entre el\ncuerpo y el alma: que amenaza al demonio, el cual sale después de una\nlucha violenta; reprende a la fiebre de la madre-en-ley de Pedro, y se la\ndeja (Cirilo de Alejandría).\nJesús reprende a los demonios que le llaman “el Hijo de Dios”, ya que él\nsabe que es el Cristo, y esos demonios salir (Cirilo de Alejandría). Pero\nbajo ninguna circunstancia debemos escuchar a los demonios, incluso\ncuando hablan la verdad (Atanasio). Jesús anima a sus discípulos para\nreprender a los que pecan, y si se arrepienten, a perdónalos. Para Jesús\nes el jefe médico que ha venido a sanar de la fiebre de nuestros pecados\n(Jerome). Los signos mesiánicos de la nueva era de la salvación están\npresentes en el Ungido (Atanasio). La curación de la creación viene de la\ncarne santa de Jesús (Cirilo de Alejandría). Este reino de Dios no es otro\nque el reino del Creador de todas las cosas, Jesucristo, que ha venido a\nrecrear (Tertuliano).",
         "verse_ref": "Luke 4:31-44"
       },
       {
-        "reading_ref": "Luke 4:31-37",
+        "reading_ref": "Luke 4:38-44",
         "title": "Expulsando demonios y sanando Enfermedades",
         "father": "San Cirilo",
         "text": "Milagros testifican que Jesús el médico cura a la Creación. Cirilo\nde Alejandría: Las personas que no pueden ser llevados por el\nargumento de que el conocimiento seguro de lo que por naturaleza y en\nverdad es Dios y Señor tal vez puede ser ganado por los milagros a una\nobediencia tranquila. Por lo tanto amablemente, o mejor dicho,\nnecesariamente, a menudo se completa sus lecciones y pasar al realizar\nalguna obra poderosa. Para la gente de Judea no estaban dispuestos a\ncreer. Ellos snubbed las palabras de aquellos que los llamados a la\nsalvación. El pueblo de Cafarnaúm tenían este carácter especial. Por\nesta razón, el Salvador los reprendió. El dijo: “Y tú, Capernaum, que\neres levantada hasta el cielo, será llevada al infierno.” A pesar de que los conoce a ser a la vez rebelde y duro de corazón, sin\nembargo, que los visita como más excelente médico podría visitar a los\nque sufrían de una enfermedad muy peligrosa y se esfuerza para\ndeshacerse de su enfermedad. Él mismo dice: “Los que están sanos no\ntienen necesidad de médico, sólo aquellos que están enfermos.” Él enseñó, por lo tanto, en las sinagogas de ellos con gran libertad\nde expresión. Para él había predicho esto por la voz de Isaías: “No he\nhablado en secreto, ni en un lugar oscuro de la tierra.” Comentario de Lucas, Homilía 12. [ CGSL 96-97 **. ]\nNueva creación comienza en sábado. Ambrose: Describe las obras\nde sanidad divina comenzado en el día de reposo, para mostrar desde el\nprincipio que comenzó la nueva creación, donde cesó la vieja creación.\nNos mostró que el Hijo de Dios no está bajo la ley, sino por encima de la\nley, y que la ley no será destruida, pero cumplió. Para el\nmundo no fue hecho a través de la ley, sino por la Palabra, como\nleemos: “Por la palabra de Jehová fueron hechos los cielos\nestablecidos.” Así, la ley no es destruido, pero cumple, de manera que, ya en er",
         "verse_ref": "Luke 4:31-41"
+      },
+      {
+        "reading_ref": "Luke 4:38-44",
+        "title": "Jesús anuncia el Reino de Dios",
+        "father": "Tertuliano",
+        "text": "Él se fue a un lugar desierto. Tertuliano: “Él salió, y fue a un lugar\ndesierto.” Esta fue, de hecho, la región habitual del creador. Fue\nadecuado que la palabra debe no aparecerá en el cuerpo, donde antes\nhabía aparecido en una nube. Para el Evangelio también era adecuado\nque la condición de lugar que en otro tiempo había sido profetizado por la ley. “Que el desierto y la soledad, por lo tanto, se alegre y se gozan”;\npor lo que tuvo Isaías prometió. Contra Marción 4.8.",
+        "verse_ref": "Luke 4:42-44"
       }
     ],
     "meditation": "",
