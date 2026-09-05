@@ -1,71 +1,57 @@
 {
-  "generated_at": "2026-09-04T10:45:11.729871Z",
+  "generated_at": "2026-09-05T10:03:19.796954Z",
   "week": "2026-W35",
   "liturgy": {
-    "date": "2026-09-04",
+    "date": "2026-09-05",
     "season": "Ordinary Time",
     "readings": [
       {
         "type": "first_reading",
-        "reference": "1 Corinthians 4:1-5",
+        "reference": "1 Corinthians 4:6b-15",
         "summary": "",
-        "text": "Hermanos:\nQue la gente solo vea en nosotros servidores de Cristo y administradores de los misterios de Dios. Ahora, lo que se busca en los administradores es que sean fieles. Para mí lo de menos es que me pidáis cuentas vosotros o un tribunal humano; ni siquiera yo me pido cuentas. La conciencia, es verdad, no me remuerde; pero tampoco por eso quedo absuelto: mi juez es el Señor.\nAsí, pues, no juzguéis antes de tiempo, dejad que venga el Señor. Él iluminará lo que esconden las tinieblas y pondrá al descubierto los designios del corazón; entonces cada uno recibirá de Dios lo que merece."
+        "text": "Hermanos:\nAprended de Apolo y de mí a jugar limpio y no os engriáis el uno contra el otro. A ver, ¿quién te hace tan importante? ¿Tienes algo que no hayas recibido? Y, si lo has recibido, ¿a qué tanto orgullo, como si nadie te lo hubiera dado?\nYa tenéis todo lo que ansiabais, ya sois ricos, habéis conseguido un reino sin nosotros. ¿Qué más quisiera yo? Así reinaríamos juntos. Por lo que veo, a nosotros, los apóstoles, Dios nos coloca los últimos; como condenados a muerte, dados en espectáculo público para ángeles y hombres. Nosotros unos locos por Cristo, vosotros, sensatos en Cristo; nosotros débiles, vosotros fuertes; vosotros célebres, nosotros despreciados; hasta ahora pasamos hambre y sed y falta de ropa; recibimos bofetadas, no tenemos domicilio, nos agotamos trabajando con nuestras propias manos; nos insultan y les deseamos bendiciones; nos persiguen y aguantamos; nos calumnian y respondemos con buenos modos; nos tratan como a la basura del mundo, el desecho de la humanidad; y así hasta el día de hoy.\nNo os escribo esto para avergonzaros, sino para amonestaros. Porque os quiero como a hijos; ahora que estáis en Cristo tendréis mil tutores, pero padres no tenéis muchos; por medio del Evangelio soy yo quien os ha engendrado para Cristo Jesús."
       },
       {
         "type": "psalm",
-        "reference": "Psalm 37:3-4, 5-6, 27-28, 39-40",
+        "reference": "Psalm 145:17-18, 19-20, 21",
         "summary": "",
-        "text": "Encomienda tu camino al Señor,\n confía en él, y él actuará:\n hará tu justicia como el amanecer,\n tu derecho como el mediodía. R/.\nApártate del mal y haz el bien,\n y siempre tendrás una casa;\n porque el Señor ama la justicia\n y no abandona a sus fieles.\n Los inicuos son exterminados,\n la estirpe de los malvados se extinguirá. R/.\nEl Señor es quien salva a los justos,\n él es su alcázar en el peligro;\n el Señor los protege y los libra,\n los libra de los malvados y los salva\n porque se acogen a él. R/."
+        "text": "El Señor es justo en todos sus caminos,\n es bondadoso en todas sus acciones.\n Cerca está el Señor de los que lo invocan,\n de los que lo invocan sinceramente. R/.\nSatisface los deseos de los que lo temen,\n escucha sus gritos, y los salva.\n El Señor guarda a los que lo aman,\n pero destruye a los malvados. R/.\nPronuncie mi boca la alabanza del Señor,\n todo viviente bendiga su santo nombre\n por siempre jamás. R/."
       },
       {
         "type": "gospel",
-        "reference": "Luke 5:33-39",
+        "reference": "Luke 6:1-5",
         "summary": "",
-        "text": "En aquel tiempo, los fariseos y los escribas dijeron a Jesús:\n «Los discípulos de Juan ayunan a menudo y oran, y los de los fariseos también; en cambio, los tuyos, a comer y a beber».\nJesús les dijo:\n «¿Acaso podéis hacer ayunar a los invitados a la boda mientras el esposo está con ellos? Llegarán días en que les arrebatarán al esposo, entonces ayunarán en aquellos días».\nLes dijo también una parábola:\n «Nadie recorta una pieza de un manto nuevo para ponérsela a un manto viejo; porque, si lo hace, el nuevo se rompe y al viejo no le cuadra la pieza del nuevo.\nNadie echa vino nuevo en odres viejos: porque, si lo hace, el vino nuevo reventará los odres y se derramará, y los odres se estropearán.\nA vino nuevo, odres nuevos.\nNadie que cate vino añejo quiere del nuevo, pues dirá: “El añejo es mejor”»."
+        "text": "Un sábado, iba Jesús caminando por medio de un sembrado y sus discípulos arrancaban y comían espigas, frotándolas con las manos.\nUnos fariseos dijeron:\n «¿Por qué hacéis en sábado lo que no está permitido?».\nRespondiendo Jesús, les dijo:\n «¿No habéis leído lo que hizo David, cuando él y sus compañeros sintieron hambre?\nEntró en la casa de Dios, y tomando los panes de la proposición, que solo está permitido comer a los sacerdotes, comió él y dio a los que estaban con él».\nY les decía:\n «El Hijo del hombre es señor del sábado»."
       }
     ],
     "patristic_comments": [
       {
-        "reading_ref": "1 Corinthians 4:1-5",
-        "title": "Identidad de Pablo",
-        "father": "Orígenes",
-        "text": "Descripción general : Pablo se defendió de la culpa irracional de otros\nsin pretender ser completamente libre de culpa (Ignacio de Antioquía,\nOrígenes, Crisóstomo). El sabía que no podía juzgarse a sí mismo con\nrazón, sino que Dios conocía su corazón (Crisóstomo, Teodoreto de\nCiro). El momento en que el veredicto sobre nuestros fracasos morales\nes para el juez final decir, no para nosotros para adelantarse\n(Ambrosiaster, Teodoreto de Ciro). Dios que ve en nuestras\nprofundidades secretas (Crisóstomo) no se centra en elementos\nincidentales. El servidor de Cristo va a leer cuidadosamente las\nEscrituras, pero el administrador de los misterios de Dios va a sondear\nsus profundidades (Origen). Los misterios de Dios no deben ser\nofrecidos de forma indiscriminada, sino sólo a las preparadas para ellos\ny para los que se deben (Crisóstomo). Estamos llamados a ser\nadministradores de confianza como los apóstoles (Orígenes,\nAmbrosiaster), atendiendo fielmente lo que se ha confiado a nosotros\n(Crisóstomo, Ambrosio).",
-        "verse_ref": "1 Corinthians 4:1-5"
+        "reading_ref": "1 Corinthians 4:6b-15",
+        "title": "La identidad de los corintios",
+        "father": "San Juan Crisóstomo",
+        "text": "Descripción general : Pablo fue suave cuando la situación requería\ndelicadeza pero firme cuando se requiere la firmeza (Crisóstomo). La\npequeñez de los quarrelers de Corinto se contrasta con Pablo, que en la\nlucha libre con la maldad espiritual se convirtió en un espectáculo para\nel mundo (Ambrose), a los ángeles (Teodoreto de Ciro) y para los seres\nhumanos. Los fieles de todo el mundo están dispuestos a sufrir sin\ndesesperación o ira, devolviendo bien por mal, teniendo insultos\ndócilmente que podrían crecer en paciencia (Crisóstomo). Todo lo que\nlos corintios tenía, que habían recibido como un regalo (Ambrosiaster,\nCrisóstomo), y lo que no debe presumir (Agustín).",
+        "verse_ref": "1 Corinthians 4:6-13"
       },
       {
-        "reading_ref": "1 Corinthians 4:1-5",
-        "title": "Servidores de Cristo",
-        "father": "Orígenes",
-        "text": "Administrador de los misterios. Orígenes: Hay una gran diferencia\nentre ser un servidor de Cristo y administrador de los misterios de Dios.\nCualquiera que haya leído la Biblia puede ser un servidor de Cristo, pero\npara ser un administrador de los misterios hay que sondear sus\nprofundidades. Paul estaba actuando como administrador de los\nmisterios cuando se encargó a Lucas, por ejemplo, para escribir su\nEvangelio, y cuando envió a Timoteo [ 1Ti_1: 1-4 .] Para solucionar la\niglesia de Éfeso. Incluso me atrevería a decir que en Corinto, Pablo\nactuó como un servidor de Cristo, mientras que en Éfeso se convirtió en\nun dispensador de los misterios de Dios. . Comentario\nsobre 1 Corintios 2.18.10-16. [JTS 9: 354].\nDe acuerdo con los Apóstoles. Ambrosiaster: Pablo dice esto porque\nalgunos de los corintios eran lo denigrantes. No predicó algo diferente\nde los apóstoles. Al llamar a sí mismo un servidor de Cristo y\nadministrador de los misterios de Dios, Pablo señala implícitamente que\nlos falsos apóstoles son. Niega que lo que predican es de Cristo, porque no está de acuerdo con la tradición apostólica. Comentario sobre las\nEpístolas de Pablo. Misterios no se da de forma indiscriminada. Crisóstomo: Pablo\nrinde homenaje a los corintios llamándolos servidores y hace esto aún\nmás precisa cuando añade los comisarios plazo. Para que no deben dar\nlos misterios de Dios indiscriminadamente a todos, sino sólo a aquellos a\nquienes corresponda y para los que es justo que nosotros ministro.\nHomilías sobre las Epístolas de Pablo a los Corintios 10,5.",
-        "verse_ref": "1 Corinthians 4:1"
+        "reading_ref": "1 Corinthians 4:6b-15",
+        "title": "Aplicado para su beneficio",
+        "father": "San Juan Crisóstomo",
+        "text": "La aplicación de tacto. Crisóstomo: Siempre y cuando había una\nnecesidad de expresiones tan duras como éstas, Paul se abstuvo de\nelaboración de la cortina y continuó discutiendo como si él mismo fuera\nla persona a la que se abordaron. Pero cuando llegó el momento de ser\nmás suave, rasgó la cortina de distancia y reveló que las personas eran\nlos que había ocultado bajo los nombres de Pablo y Apolo. Esto no era\nhipocresía, pero suavidad y tacto. Por si hubiera dicho abiertamente que\nlos hombres que los Corintios estaban atacando eran santos, que podrían haber tomado a mal. Pero por primera humillándose él ganó su\natención y respeto. Homilías sobre las Epístolas de Pablo a los Corintios\n9.1.",
+        "verse_ref": "1 Corinthians 4:6"
       },
       {
-        "reading_ref": "1 Corinthians 4:1-5",
-        "title": "Monitores participan digno de confianza",
-        "father": "Orígenes",
-        "text": "Delegados de confianza. Orígenes: Si Pablo puede decir esto de gente\ncomo él, Pedro y Apolos, ¿cuánto más será verdad de nosotros?\nTenemos que estar en guardia para asegurarse de que se encuentran\npara ser administradores de confianza. Comentario sobre 1 Corintios\n2.18.25-27. [JTS 9: 354].\nConfiada por el Maestro. Crisóstomo: El deber de un administrador es\nadministrar bien las cosas que han sido confiados a él. Las cosas del\nmáster no son los comisarios, pero la inversa de lo que es su realidad\npertenece a su amo. Homilías sobre las Epístolas de Pablo a los Corintios\n10,5. Lo que tenemos es de Dios. Ambrose: Al recibir todo, invocar a Dios\npara todo. Lo que tenemos es de Dios. Siempre reconoce que es su\ndeudor. En Teodosio 22. Segura manteniendo el fuerte. Teodoreto de Ciro: No banquero\njuega rápido y libremente con los depósitos de otras personas. Más\nbien, él se ocupa de ellos con el fin de mantenerlos a salvo para el que\nles ha confiado. Comentario sobre la primera carta a los Corintios 188.",
-        "verse_ref": "1 Corinthians 4:2"
+        "reading_ref": "Luke 6:1-5",
+        "title": "LA CONTROVERSIA primer sábado",
+        "father": "San Efrén",
+        "text": "Descripción general : El día de reposo es de decisiones por parte del\npadre, por lo que Jesús, el médico puede prescindir de él para la\ncuración de pies a cabeza (Efrén el Sirio). Este Hijo del hombre trae el\ndía de reposo de la gracia no de ley, el sábado de la resurrección eterna.\nJesús deja claro que los escribas y fariseos que han entendido mal el día\nde reposo. Al participar en los campos de maíz en el día de reposo,\nJesús tiene los discípulos entran en el mundo (el campo) y la abundante\nfecundidad de los santos como se multiplica la humanidad (el maíz) y al\nparticipar en los frutos de la iglesia en el trabajo apostólico (Ambrose) .\nLo que hizo David con el pan de la presencia en el tabernáculo, Cristo ahora lo hace con el grano que aún no es pan en el día de reposo, para\nel pan de la proposición es el pan del cielo que ahora es la Eucaristía en\nnuestras iglesias (Cirilo de Alejandría).\nLa segunda parte de la controversia de reposo está vinculada a la\nprimera, como Jesús sana al hombre con una mano seca con el fin de\nmostrar a los fariseos la clase de misericordia que Dios requiere (Cirilo\nde Alejandría). sanador de Jesús reprende a la mala interpretación del\nsábado por los fariseos. Extendiendo la mano es el remedio común para\ncualquier dolencia, especialmente cuando la mano se extiende establece\nen las obras de caridad (Ambrose).",
+        "verse_ref": "Luke 6:1-11"
       },
       {
-        "reading_ref": "Luke 5:33-39",
-        "title": "LLAMADA Y BANQUETE DE LEVI",
-        "father": "San Cirilo",
-        "text": "Descripción general : Sólo Lucas describe Levi como recaudador de\nimpuestos, haciendo hincapié en que Levi era parte del grupo considera\nque consta de los peores pecadores (Cirilo de Alejandría). La comunidad\nde mesa con los pecadores caracteriza la esencia del ministerio de Jesús\ny estaba en el centro de su controversia con el establecimiento religioso,\nespecialmente los fariseos, para quien esta fiesta con Levi despierta su\nincredulidad (Ambrose). Son envidiosos de Jesús porque ellos no\nentienden que está presente como médico y no como juez (Cirilo de\nAlejandría). Su sanidad es también perdón, porque su misión es la de\nlos pecadores, no a los hipócritas o santurrón (Bede). Para recibir a\nCristo en nuestros hogares en nuestra mesa es preparar para él, el\nnovio, un banquete de buenas obras (Ambrose).\nEstas imágenes de Cristo como el novio se anticipa la presencia de\nCristo en la Cena del Señor (Ambrose) y la fiesta mesiánica cuando\nCristo lleva a su novia, la Jerusalén celeste. Los discípulos son por lo\ntanto digno del título de “invitados” como miembros de la iglesia que\ntambién se convertirán en ministros de la fiesta (Efrén el Sirio). Los\ndiscípulos después de que Jesús asciende rápido, porque ellos serán\ncontinuamente al quitar el vestido viejo del viejo que fue despojado\nprimer lugar en el bautismo (Ambrose). Para los que vienen días cuando\nse tomará el novio de distancia, una referencia a su muerte y su salida\nfuera de este mundo, incluyendo a su ascensión. Las parábolas de la\nnueva prenda, del vino tienen el mismo punto: los que insisten en la\nadhesión a la antigua alianza no tendrá parte en la nueva creación\n(Cirilo de Alejandría).",
-        "verse_ref": "Luke 5:27-39"
-      },
-      {
-        "reading_ref": "Luke 5:33-39",
-        "title": "Segunda respuesta de Jesús a los fariseos y los escribas",
-        "father": "San Ambrosio",
-        "text": "El esposo está siempre con nosotros en la Cena del Señor.\nAmbrose: “Pero vendrán días cuando el esposo les será quitado.”\n¿Cuáles son estos días en que Cristo se nos quita, sobre todo cuando él\nmismo ha dicho, “Yo estaré con vosotros, hasta el fin de la mundo” cuando él ha dicho,‘no voy a hacer que te huérfanos’? Por lo cierto es que si tuviera que dejarnos, no podríamos ser\nsalvados. Nadie puede tomar a Cristo de usted, a menos que usted se toma de distancia. Su jactancia no se quitará, ni la arrogancia, ni\ntampoco puede abusar de la ley por sí mismo. “Porque él no ha venido a\nllamar a justos, sino a pecadores.” ... Los justos son aquellos\nque no lo golpee, que incide sobre ellos, .\nEl que ama su enemigo. Si no soportamos lo\ntanto, se encontró lo contrario. “No he venido a llamar a los justos.”\nCristo no llama a los que dicen que son justos, por no conocer a Dios y\nprocurando establecer la suya propia, no se han sujetado a la justicia de\nDios. Por lo tanto, los usurpadores de la justicia no son llamados a la gracia. En efecto, si la gracia proviene de la penitencia, sin duda, uno\nque desprecia la penitencia renuncia a la gracia. Los que hacen a sí\nmismos para ser santo se heridos. El novio se toma de ellos. Ni Caifás ni Pilato tomó a Cristo de nosotros. No podemos rápido,\nporque tenemos a Cristo, y nos damos un banquete en el cuerpo y la\nsangre de Cristo. Por qué no el que no parece el hambre\nayunar? ¿De qué manera el que no parecen sed de ayunar? Entonces,\n¿cómo puede el que beba de la sed de Cristo cuando él mismo dijo,\n“Cualquiera que beba del agua que yo le daré, será sed no más”? Entonces lo que sigue declarará el dicho al referirse al ayuno del\nespíritu. Exposición del Evangelio de Lucas 5,20-22. [ EHG 153-55 **.]\n¿Por qué los",
-        "verse_ref": "Luke 5:33-35"
-      },
-      {
-        "reading_ref": "Luke 5:33-39",
-        "title": "Resumen Las parábolas de Jesús epítome de la escena",
-        "father": "San Cirilo",
-        "text": "No hay contenido en la nueva creación. Cirilo de Alejandría: los que\nviven conforme a la ley no puede recibir las instituciones de Cristo.\nEstas instituciones no pueden ser admitidos en los corazones de\naquellos que aún no han recibido la renovación en el Espíritu Santo. El\nSeñor muestra esto diciendo que un parche hecho jirones no se puede\nponer en una nueva prenda, ni puede mantener viejas pieles de mosto.\nEl primer pacto ha envejecido, ni estaba libre de culpa. Los que, por lo\ntanto, que se adhieren a ella y mantenerla en el corazón del\nmandamiento anticuada no tuvo parte en el nuevo orden de las cosas en\nCristo. En él todas las cosas son hechas nuevas, [ 2Co_5: 17 .] Pero su\nmente está decaído, no tienen la armonía o punto de mutuo acuerdo con\nlos ministros del nuevo pacto. Comentario de Lucas, Homilías 21-22. [\nCGSL 116-17 **.]",
-        "verse_ref": "Luke 5:36-39"
+        "reading_ref": "Luke 6:1-5",
+        "title": "Teología del sábado de Jesús",
+        "father": "San Efrén",
+        "text": "El sábado es de hacer del Padre. Efrén el Sirio: “He aquí tus\ndiscípulos hacen lo que no es lícito hacer en el día de reposo.” Nuestro Señor les había dado instrucciones por adelantado y ellos\nformados en la verdad de lo justo, de modo que cada vez que se\ndispensa de la ley por completo, no se alarme. Su padre también había\nprescindido de días de reposo para mostrar que el sábado fue de su\npropia creación. También se continúa prescindir de ella que podría\nmostrar que estos eran los remedios más exigentes, propuestas por el\nmédico experto para el dolor que se extiende desde la planta de los pies\na la cabeza. Comentario sobre Diatesarón 5.23 de\nTaciano. [ ECTD 106 *.]\nEl significado alegórico del Campo, el maíz y la fruta. Ambrose: El\nSeñor Jesús comienza a desprenderse hombre [la gente] de la\nobservación de la antigua ley y lo viste con la nueva cubierta de la\ngracia no sólo a través de la comprensión de las palabras sino también\nmediante el uso y la apariencia de acciones. Ya en el día de reposo, que\nle lleva a través de los campos de maíz, es decir, que lo lleva a lo que\nabunda en las frutas. Lo que el día de reposo, los sembrados, y los oídos\nsignifican para él no es un pequeño misterio. El campo es el mundo\nentero, y los sembrados de campo es una fecundidad abundante de\nsantos en la siembra de la raza humana. Las orejas del campo son los\nfrutos de la iglesia que los apóstoles dispersos con sus obras y sobre el\nque se alimentaban, sostenerse sobre nuestro progreso. El maíz ya\nestaba de pie rica en abundantes oídos de virtudes. Los frutos de\nnuestro mérito se comparan con estos, ya que también se marchitan en\nuna ducha o se reseca por el sol o empapados por la lluvia o destruidas\npor las tormentas ni acumuladas por los segadores en los almacenes de\nlos graneros benditos. La tierra ya ha recibido la palabra de Dios, y el campo sembrado de la semilla nutritiva celestial ha traído frutos\ncopiosos. Los dis",
+        "verse_ref": "Luke 6:1-5"
       }
     ],
     "meditation": "",
