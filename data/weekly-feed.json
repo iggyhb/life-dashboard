@@ -1,57 +1,95 @@
 {
-  "generated_at": "2026-09-05T10:03:19.796954Z",
+  "generated_at": "2026-09-06T10:23:46.981477Z",
   "week": "2026-W35",
   "liturgy": {
-    "date": "2026-09-05",
+    "date": "2026-09-06",
     "season": "Ordinary Time",
     "readings": [
       {
         "type": "first_reading",
-        "reference": "1 Corinthians 4:6b-15",
-        "summary": "",
-        "text": "Hermanos:\nAprended de Apolo y de mí a jugar limpio y no os engriáis el uno contra el otro. A ver, ¿quién te hace tan importante? ¿Tienes algo que no hayas recibido? Y, si lo has recibido, ¿a qué tanto orgullo, como si nadie te lo hubiera dado?\nYa tenéis todo lo que ansiabais, ya sois ricos, habéis conseguido un reino sin nosotros. ¿Qué más quisiera yo? Así reinaríamos juntos. Por lo que veo, a nosotros, los apóstoles, Dios nos coloca los últimos; como condenados a muerte, dados en espectáculo público para ángeles y hombres. Nosotros unos locos por Cristo, vosotros, sensatos en Cristo; nosotros débiles, vosotros fuertes; vosotros célebres, nosotros despreciados; hasta ahora pasamos hambre y sed y falta de ropa; recibimos bofetadas, no tenemos domicilio, nos agotamos trabajando con nuestras propias manos; nos insultan y les deseamos bendiciones; nos persiguen y aguantamos; nos calumnian y respondemos con buenos modos; nos tratan como a la basura del mundo, el desecho de la humanidad; y así hasta el día de hoy.\nNo os escribo esto para avergonzaros, sino para amonestaros. Porque os quiero como a hijos; ahora que estáis en Cristo tendréis mil tutores, pero padres no tenéis muchos; por medio del Evangelio soy yo quien os ha engendrado para Cristo Jesús."
+        "reference": "Ezekiel 33:7-9",
+        "summary": ""
       },
       {
         "type": "psalm",
-        "reference": "Psalm 145:17-18, 19-20, 21",
-        "summary": "",
-        "text": "El Señor es justo en todos sus caminos,\n es bondadoso en todas sus acciones.\n Cerca está el Señor de los que lo invocan,\n de los que lo invocan sinceramente. R/.\nSatisface los deseos de los que lo temen,\n escucha sus gritos, y los salva.\n El Señor guarda a los que lo aman,\n pero destruye a los malvados. R/.\nPronuncie mi boca la alabanza del Señor,\n todo viviente bendiga su santo nombre\n por siempre jamás. R/."
+        "reference": "Psalm 95:1-2, 6-7, 8-9",
+        "summary": ""
+      },
+      {
+        "type": "second_reading",
+        "reference": "Romans 13:8-10",
+        "summary": ""
       },
       {
         "type": "gospel",
-        "reference": "Luke 6:1-5",
+        "reference": "Matthew 18:15-20",
         "summary": "",
-        "text": "Un sábado, iba Jesús caminando por medio de un sembrado y sus discípulos arrancaban y comían espigas, frotándolas con las manos.\nUnos fariseos dijeron:\n «¿Por qué hacéis en sábado lo que no está permitido?».\nRespondiendo Jesús, les dijo:\n «¿No habéis leído lo que hizo David, cuando él y sus compañeros sintieron hambre?\nEntró en la casa de Dios, y tomando los panes de la proposición, que solo está permitido comer a los sacerdotes, comió él y dio a los que estaban con él».\nY les decía:\n «El Hijo del hombre es señor del sábado»."
+        "text": "Vivimos tiempos difíciles para lo común. Cada día podemos ver y constatar cómo la experiencia de lo compartido, de aquello que no se reduce únicamente a lo propio, se encuentra profundamente cuestionada. Los ejemplos abundan. Hace tiempo que todo lo político tiene que ver más con intereses económicos que con la búsqueda del bien común. Las redes sociales, aunque nos ofrecen nuevas posibilidades de encuentro, también pueden acostumbrarnos a una relación superficial con nosotros mismos y con los demás. La lógica de la inmediatez, la comparación permanente y la búsqueda de aprobación nos alejan de la complejidad de lo humano y, sobre todo, de los demás.\nEs en nuestros vínculos donde encontramos las mayores alegrías, pero también los sufrimientos más profundos. La pérdida del sentido de la gratuidad, el aislamiento y la superficialidad nos conducen por caminos en los que el otro termina transformándose en un objeto de consumo afectivo. Sin embargo, Jesús y su Evangelio nos presentan un horizonte distinto, en el que los vínculos ocupan un lugar esencial y crean un espacio para Dios mediante la escucha y el encuentro, invitándonos a mirar al otro y a nuestra capacidad de relacionarnos de una manera nueva.\nFray Ignacio Castro Ortega O.P.\n Convento de San Esteban (Salamanca)\nSoy fraile dominico de la Provincia de Hispania y estudiante de la Pontificia Facultad de Teología San Esteban de Salamanca. Me encuentro finalizando los estudios de licenciatura. Desde 2023 colaboro en el espacio de reflexión web La llama, en España, y formo parte de la misión de la Orden en el Vicariato de Uruguay y Paraguay, donde ha desarrollado labores pastorales con jóvenes, las nuevas generaciones de la vida religiosa y la familia dominicana. Enviar comentario al autor/a"
       }
     ],
     "patristic_comments": [
       {
-        "reading_ref": "1 Corinthians 4:6b-15",
-        "title": "La identidad de los corintios",
+        "reading_ref": "Ezekiel 33:7-9",
+        "title": "EZEQUIEL COMO VIGILANTE DE ISRAEL",
+        "father": "San Agustín",
+        "text": "Descripción general : Hay una necesidad de que el profeta, el obispo\no el presbítero de hablar (Agustín, Cesáreo, Gregorio Nacianceno,\nJerome, Simeón el Nuevo Teólogo, Possidio) y argüirá los malvados\n(Juan). Resultados bien en la paz; la maldad, en las guerras\n(Teodoreto).",
+        "verse_ref": "Ezekiel 33:1-9"
+      },
+      {
+        "reading_ref": "Ezekiel 33:7-9",
+        "title": "Un centinela de la casa de Israel",
+        "father": "San Jerónimo",
+        "text": "Un rey, profeta, obispo o presbítero. Jerome: El vigilante de la casa\nde Israel puede entenderse como rey o un profeta; el vigilante de la\niglesia se puede entender como ser el obispo o el presbítero que ha sido\nelegido por el pueblo, en la lectura de las Escrituras, reconocer y prever\nlo que será el futuro, proclamando a la gente y corregir lo que está mal.\nComentario a Ezequiel 10.33.1-9. Agustín un modelo del vigilante. Possidio: En todo esto pensaba en\nsí mismo como un vigilante establecido por el Señor de la casa de\nIsrael; predicó la palabra a tiempo y fuera de tiempo, convencer,\nexhortar, reprender y enseñar con paciencia inagotable [ 2Ti_4: 2 .] y el\ncuidado especial para enseñar a su vez los montados para enseñar a\notros. [ 2Ti_2: 2 .] Cuando se le preguntó por algunos para intervenir en\nsus asuntos temporales, escribió cartas a varias personas para ellos,\npero que consideraba esta ocupación como una especie de trabajo\nforzado que lo alejó de cosas más importantes. Su verdadera delicia era\nhablar de las cosas de Dios, ya sea en direcciones públicas o en casa en\nconversación familiar con sus hermanos. La vida de Agustín 19,5-6. [AS\n1:86.]",
+        "verse_ref": "Ezekiel 33:7"
+      },
+      {
+        "reading_ref": "Ezekiel 33:7-9",
+        "title": "Advertir a los malvados",
+        "father": "Advertir a los malvados",
+        "text": "Siempre hay una necesidad especial de hablar. Juan Damasceno:\nAunque es mejor para nosotros estar siempre al tanto de nuestra\nindignidad y confesamos nuestros pecados ante Dios, sin embargo, es\nbueno y necesario para hablar cuando los tiempos lo exigen, porque veo\nla iglesia que Dios fundada sobre los apóstoles y profetas, siendo Cristo\nsu Hijo su piedra angular, sacudida en un mar embravecido, golpeado\npor las olas corriendo, agitado y preocupado por los ataques de los\nespíritus malignos. Las personas impías tratan de destrozar la túnica sin\ncosturas de Cristo y cortar su cuerpo en pedazos: su cuerpo, que es la\nPalabra de Dios y la antigua tradición de la iglesia. Por lo tanto creo que\nes razonable para mantener el silencio y mantenga la lengua. En\nimágenes divinas 1.1. [Jddi 13 *.]",
+        "verse_ref": "Ezekiel 33:8"
+      },
+      {
+        "reading_ref": "Romans 13:8-10",
+        "title": "El cumplimiento de la LEY",
+        "father": "El cumplimiento de la LEY",
+        "text": "Descripción general: La única deuda que deberíamos debe a otros es\nla deuda de amor, que es la base fundamental de todos los\nmandamientos. Conducta cristiana se rige por la expectativa del regreso\nde Cristo y el juicio final. Ahora que Cristo ha venido a la luz de ese día\nya ha amanecido, y no pasará mucho tiempo antes de la consumación\nfinal vendrá. Despojarse de las obras de la oscuridad y sin hacer caso de\nla carne, estamos llamados a poner en Cristo, dispuestos a tomar las\narmas para el reino de la luz.",
+        "verse_ref": "Romans 13:8-14"
+      },
+      {
+        "reading_ref": "Romans 13:8-10",
+        "title": "Sólo debo una deuda de amor",
+        "father": "Orígenes",
+        "text": "Pecado como deuda. Orígenes: En muchos casos la deuda es\nequivalente al pecado. Por lo tanto, Pablo quiere que debemos nada a\ncausa del pecado y de mantenerse alejado de las deudas de este tipo,\nconservando sólo la deuda que nace de amor, que debe ser el pago de\ntodos los días. Comentario a la Epístola a los Romanos. [ CER 5: 104.]\nMe encanta el vecino. Ambrosiaster: Pablo quiere que tengamos paz\ncon todo el mundo y amamos a los hermanos. Entonces no vamos a\ndeberle nada a nadie.\nEl que ama al prójimo ha cumplido la ley de Moisés. El mandamiento de\nla nueva ley es que debemos amar a nuestros enemigos también. Comentario sobre las Epístolas de Pablo. Cumplir la ley. Crisóstomo: El amor es una deuda que le debe a su\nhermano a causa de su relación espiritual con él ... Si el amor se aleja\nde nosotros, todo el cuerpo despedazado.. Por lo tanto, el amor de su\nhermano, por si se puede cumplir con la ley por él amistad, entonces el\nbeneficio que recibe le pone en su deuda. Homilías sobre Romanos 23. Caridad logra lo que el miedo no podía Do. Agustín: Pablo muestra\nque el cumplimiento de la ley se encuentra en el amor, es decir, en la\ncaridad. Así también el Señor dice que toda la ley y los profetas\ndependen de estos dos preceptos, el amor de Dios y del prójimo. . Así que el que vino a cumplir la ley\ndio amor a través del Espíritu Santo, para que la caridad puede lograr lo\nque el miedo no podía. Agustín en Romanos 75. [ AOR 43, 45.]\nAmar al modelo de rectitud en la Persona. Agustín: La única\nmanera de escindir a ese patrón [. El patrón es la imagen de Dios en cada persona]\nes por el amor. Si amamos a otra que creemos para ser justos, no\npodemos menos que encanta el patrón mismo, lo que nos muestra lo\nque el alma justa es, a fin de que nosotros también podemos llegar a\nser justos. De hecho, si no nos gusta la imagen de D",
+        "verse_ref": "Romans 13:8"
+      },
+      {
+        "reading_ref": "Romans 13:8-10",
+        "title": "Amar al prójimo",
+        "father": "Orígenes",
+        "text": "La relación de Amor y Ley. ORIGEN: Si amas a alguien, no lo\nmatarás. Ni va a adulterar, robar de él o falso testimonio contra él. Es lo\nmismo con todos los demás comandos de la ley: el amor asegura que se\nmantengan. Comentario a la Epístola a los Romanos. [ CER 5: 106.]\nAmor Cumple la ley. Ambrosiaster:. Moisés escribió todo esto con el\nfin de reformar la ley natural ... Aunque puede haber otras leyes que\nPaul no le ha mencionado, el amor es el cumplimiento de todos ellos.\nPorque si la raza humana había amado desde el principio, nunca habría\nhabido ninguna maldad en la tierra. Para que el resultado de la injusticia\nes la discordia. Comentario sobre las Epístolas de Pablo. Amarás a tu prójimo como a ti mismo. Crisóstomo: El principio y el\nfin de la virtud es el amor ... Pero Pablo no está mirando simplemente\npor amor;. él quiere que sea un amor intenso. Para él no dice\nsimplemente: “Ama a tu vecino”, pero añade: “como a ti mismo” Cristo\nmismo dijo que la ley y los profetas penden de esto. Homilías sobre Romanos 23. Crisóstomo: Tenga en cuenta que el amor tiene dos excelentes\ncualidades: se abstiene del mal y hace buenas acciones. Homilías sobre\nRomanos 23. La ley escrita en el corazón. Agustín: Esta ley no está escrita en\ntablas de piedra, sino que ha sido derramado en nuestros corazones por\nel Espíritu Santo que nos ha sido dado. El espíritu y la letra\n29.51. [LCC 8: 217.]\nEl amor de Dios derramada sobre el vecino. Agustín: Nadie ama a\nsu vecino a menos que ama a Dios, y amándolo como a sí mismo, hasta\nel límite de su capacidad, que derrama su amor sobre él para que él\ntambién puede amar a Dios. Pero si él no ama a Dios, ama a sí mismo ni\na su vecino. Letter 20. La suma de los Mandamientos. Pelagio: La totalidad de la justicia se\nresume en el amor al prójimo. Injusticia nace cuando a nosotros mismos\nmás que otros. Para el que ama a su prójimo como a sí",
+        "verse_ref": "Romans 13:9"
+      },
+      {
+        "reading_ref": "Matthew 18:15-20",
+        "title": "Un cristiano que Sins",
+        "father": "San Jerónimo",
+        "text": "Descripción general : Debemos reprender inmediatamente a nuestro\nhermano, si él ha perdido la vergüenza, de modo que él no permanece\nen el pecado. Si se niega a escuchar, hay que llamar a un hermano, y\nluego otro, y finalmente la congregación si se mantiene recalcitrante\n(Jerome). Una respuesta menos cuidado podría haber sido dejar que él\nsea si persistía sin corregir de la primera reunión. Pero en lugar de Jesús\nnos muestra cómo buscar su curación una vez, dos veces y muchas\nveces: primero solo, luego con dos, luego con muchos más\n(Crisóstomo). No haga su peor comportamiento mediante la\nintensificación de la actitud defensiva y la racionalización. Buscar el\ncambio de comportamiento, no la vergüenza de sí mismo (Agustín).",
+        "verse_ref": "Matthew 18:15-17"
+      },
+      {
+        "reading_ref": "Matthew 18:15-20",
+        "title": "Informamos sobre una Falla privada",
         "father": "San Juan Crisóstomo",
-        "text": "Descripción general : Pablo fue suave cuando la situación requería\ndelicadeza pero firme cuando se requiere la firmeza (Crisóstomo). La\npequeñez de los quarrelers de Corinto se contrasta con Pablo, que en la\nlucha libre con la maldad espiritual se convirtió en un espectáculo para\nel mundo (Ambrose), a los ángeles (Teodoreto de Ciro) y para los seres\nhumanos. Los fieles de todo el mundo están dispuestos a sufrir sin\ndesesperación o ira, devolviendo bien por mal, teniendo insultos\ndócilmente que podrían crecer en paciencia (Crisóstomo). Todo lo que\nlos corintios tenía, que habían recibido como un regalo (Ambrosiaster,\nCrisóstomo), y lo que no debe presumir (Agustín).",
-        "verse_ref": "1 Corinthians 4:6-13"
+        "text": "El arte de la Reconciliación. Crisóstomo: No dice “lo acusan” o\n“castigarlo” o dice “lo correcto.” Para que se posee, por así decirlo, por\nalgún estupor, y se bebe en su ira y vergüenza “llevarlo a los\ntribunales.” . El que es saludable debe ir a la persona que está enferma.\nDebe mantener su criterio de él en privado. Haga su cura fácil de\naceptar. Por las palabras “corregirlo” significa otra cosa que le ayudan a\nver su indiscreción. Dile lo que ha sufrido de él.\nEntonces, ¿qué si él no escucha, si obstinadamente se enciende? Llamar\na su lado a alguien más, o incluso a otros dos, de modo que dos testigos\npueden corroborar todo lo que se dijo. Para la negrita más descarada y\nes, tanto más tienes que ser serio hacia su curación, no hacia la\nsatisfacción de su ira y sentimientos heridos. Para cuando un médico ve\nla enfermedad implacable, que no resiste a un lado o tomar difícil pero\nentonces es aún más serio. Que a continuación es lo que Cristo nos\nmanda a hacer. Que apareció demasiado débil desde que eras solo, así\nque ser más fuerte con la ayuda de otros. Dos son suficientes para\nreprobar al malhechor. ¿Ves cómo busca el interés no de la parte\nperjudicada solo, sino también la de la persona que causó el dolor? Para\nla persona lesionada puede ser el que está más hecho cautivo por la\npasión. Se convierte en el que está enfermo y débil y enfermo.\nEste esfuerzo puede ocurrir muchas veces, en su intento de conducirlo\nprimero solo y luego con los demás. Si persiste, a continuación, hacer el\nesfuerzo de toda la congregación. “Dile a ella”, dice, “a la iglesia.” Si hubiera buscado el interés de los agraviados solo, no lo habría dicho a\nacercarse a los enfermos individuales setenta y siete veces. Él no habría intentado tantas veces o traído tantos tratamientos para la\nenfermedad. Él podría tener sólo sea él si persistía sin corregir de la\nprimera reunión. Pero en lugar de eso nos muestra cómo buscar su\ncuración una vez, dos",
+        "verse_ref": "Matthew 18:15"
       },
       {
-        "reading_ref": "1 Corinthians 4:6b-15",
-        "title": "Aplicado para su beneficio",
-        "father": "San Juan Crisóstomo",
-        "text": "La aplicación de tacto. Crisóstomo: Siempre y cuando había una\nnecesidad de expresiones tan duras como éstas, Paul se abstuvo de\nelaboración de la cortina y continuó discutiendo como si él mismo fuera\nla persona a la que se abordaron. Pero cuando llegó el momento de ser\nmás suave, rasgó la cortina de distancia y reveló que las personas eran\nlos que había ocultado bajo los nombres de Pablo y Apolo. Esto no era\nhipocresía, pero suavidad y tacto. Por si hubiera dicho abiertamente que\nlos hombres que los Corintios estaban atacando eran santos, que podrían haber tomado a mal. Pero por primera humillándose él ganó su\natención y respeto. Homilías sobre las Epístolas de Pablo a los Corintios\n9.1.",
-        "verse_ref": "1 Corinthians 4:6"
-      },
-      {
-        "reading_ref": "Luke 6:1-5",
-        "title": "LA CONTROVERSIA primer sábado",
-        "father": "San Efrén",
-        "text": "Descripción general : El día de reposo es de decisiones por parte del\npadre, por lo que Jesús, el médico puede prescindir de él para la\ncuración de pies a cabeza (Efrén el Sirio). Este Hijo del hombre trae el\ndía de reposo de la gracia no de ley, el sábado de la resurrección eterna.\nJesús deja claro que los escribas y fariseos que han entendido mal el día\nde reposo. Al participar en los campos de maíz en el día de reposo,\nJesús tiene los discípulos entran en el mundo (el campo) y la abundante\nfecundidad de los santos como se multiplica la humanidad (el maíz) y al\nparticipar en los frutos de la iglesia en el trabajo apostólico (Ambrose) .\nLo que hizo David con el pan de la presencia en el tabernáculo, Cristo ahora lo hace con el grano que aún no es pan en el día de reposo, para\nel pan de la proposición es el pan del cielo que ahora es la Eucaristía en\nnuestras iglesias (Cirilo de Alejandría).\nLa segunda parte de la controversia de reposo está vinculada a la\nprimera, como Jesús sana al hombre con una mano seca con el fin de\nmostrar a los fariseos la clase de misericordia que Dios requiere (Cirilo\nde Alejandría). sanador de Jesús reprende a la mala interpretación del\nsábado por los fariseos. Extendiendo la mano es el remedio común para\ncualquier dolencia, especialmente cuando la mano se extiende establece\nen las obras de caridad (Ambrose).",
-        "verse_ref": "Luke 6:1-11"
-      },
-      {
-        "reading_ref": "Luke 6:1-5",
-        "title": "Teología del sábado de Jesús",
-        "father": "San Efrén",
-        "text": "El sábado es de hacer del Padre. Efrén el Sirio: “He aquí tus\ndiscípulos hacen lo que no es lícito hacer en el día de reposo.” Nuestro Señor les había dado instrucciones por adelantado y ellos\nformados en la verdad de lo justo, de modo que cada vez que se\ndispensa de la ley por completo, no se alarme. Su padre también había\nprescindido de días de reposo para mostrar que el sábado fue de su\npropia creación. También se continúa prescindir de ella que podría\nmostrar que estos eran los remedios más exigentes, propuestas por el\nmédico experto para el dolor que se extiende desde la planta de los pies\na la cabeza. Comentario sobre Diatesarón 5.23 de\nTaciano. [ ECTD 106 *.]\nEl significado alegórico del Campo, el maíz y la fruta. Ambrose: El\nSeñor Jesús comienza a desprenderse hombre [la gente] de la\nobservación de la antigua ley y lo viste con la nueva cubierta de la\ngracia no sólo a través de la comprensión de las palabras sino también\nmediante el uso y la apariencia de acciones. Ya en el día de reposo, que\nle lleva a través de los campos de maíz, es decir, que lo lleva a lo que\nabunda en las frutas. Lo que el día de reposo, los sembrados, y los oídos\nsignifican para él no es un pequeño misterio. El campo es el mundo\nentero, y los sembrados de campo es una fecundidad abundante de\nsantos en la siembra de la raza humana. Las orejas del campo son los\nfrutos de la iglesia que los apóstoles dispersos con sus obras y sobre el\nque se alimentaban, sostenerse sobre nuestro progreso. El maíz ya\nestaba de pie rica en abundantes oídos de virtudes. Los frutos de\nnuestro mérito se comparan con estos, ya que también se marchitan en\nuna ducha o se reseca por el sol o empapados por la lluvia o destruidas\npor las tormentas ni acumuladas por los segadores en los almacenes de\nlos graneros benditos. La tierra ya ha recibido la palabra de Dios, y el campo sembrado de la semilla nutritiva celestial ha traído frutos\ncopiosos. Los dis",
-        "verse_ref": "Luke 6:1-5"
+        "reading_ref": "Matthew 18:15-20",
+        "title": "Confirmado por dos o tres testigos",
+        "father": "San Agustín",
+        "text": "Pedir la modificación, evitando la vergüenza. Agustín: Si alguien ha\nhecho que las lesiones y que han sufrido, lo que se debe hacer? Usted\nha oído la respuesta ya en la Escritura de hoy: “Si tu hermano peca\ncontra ti, ve y repréndele, entre tú y él a solas.” Si no lo hace, usted es peor de lo que es. Él ha hecho daño a alguien, y\nal hacerlo mal que ha asolado a sí mismo con una herida grave. Va a\ncontinuación, pasar por alto completamente la herida de su hermano?\n¿Simplemente verlo tropezar y caer hacia abajo? Va a no tener en\ncuenta su situación? Si es así, usted es peor en el silencio de lo que en\nsu abuso.\nPor lo tanto, se producirá cuando una peca contra nosotros, tomemos\ngran cuidado, pero no sólo para nosotros mismos. Porque es una cosa\ngloriosa olvidar las lesiones. Justo a un lado su propio lesión, pero no\ndescuide la herida de su hermano. Por lo tanto, “ir y repréndele, entre\ntú y él solos”, empeñado en su enmienda, pero ahorradores de su\nsentido de la vergüenza. Por podría ocurrir que a través de la actitud\ndefensiva que comenzará a justificar su pecado, y por lo que tendrá que\ninadvertidamente le dio un codazo aún más hacia el mismo\ncomportamiento que desea modificar. Por lo tanto “repréndele estando\ntú y él solos. Si te hace caso, has ganado a tu hermano “, porque podría\nhaberse perdido, si no se hubiera hablado con él. Sermón 82,7. [PL 38:\n508-9; NPNF 1 6: 359].",
+        "verse_ref": "Matthew 18:16"
       }
     ],
     "meditation": "",
