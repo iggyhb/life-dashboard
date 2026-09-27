@@ -1,50 +1,95 @@
 {
-  "generated_at": "2026-09-26T10:55:32.350236Z",
+  "generated_at": "2026-09-27T11:32:04.999622Z",
   "week": "2026-W38",
   "liturgy": {
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "season": "Ordinary Time",
     "readings": [
       {
         "type": "first_reading",
-        "reference": "Ecclesiastes 11:9—12:8",
-        "summary": "",
-        "text": "Disfruta mientras eres muchacho y pásalo bien en la juventud; déjate llevar del corazón y de lo que te recrea la vista; pero sábete que Dios te llevará a juicio para dar cuenta de todo.\nRechaza las penas del corazón y rehúye los dolores del cuerpo: adolescencia y juventud son efímeras.\nAcuérdate de tu Creador en tus años mozos, antes de que lleguen los días aciagos y te alcancen los años en que digas: «No les saco gusto»; antes de que se oscurezcan el sol, la luz, la luna y las estrellas, y tras la lluvia vuelva el nublado.\nEse día temblarán los guardianes de la casa, y los valientes se encorvarán; las que muelen serán pocas y se pararán; los que miran por las ventanas se ofuscarán; las puertas de la calle se cerrarán y el ruido del molino será solo un eco; se debilitará el canto de los pájaros, las canciones se irán apagando; darán miedo las alturas y en las calles rondarán los terrores; cuando florezca el almendro y se arrastre la langosta y sea ineficaz la alcaparra; porque el hombre va a la morada de su eternidad y el cortejo fúnebre recorre las calles.\nAntes de que se rompa el hilo de plata y se destroce la copa de oro, y se quiebre el cántaro en la fuente y se raje la polea del pozo, y el polvo vuelva a la tierra que fue, y el espíritu vuelva al Dios que lo dio.\nVanidad de vanidades, dice Qohélet, vanidad de vanidades, todo es vanidad."
+        "reference": "Ezekiel 18:25-28",
+        "summary": ""
       },
       {
         "type": "psalm",
-        "reference": "Psalm 90:3-4, 5-6, 12-13, 14 and 17",
-        "summary": "",
-        "text": "Tú reduces el hombre a polvo,\ndiciendo: «Retornad, hijos de Adán».\nMil años en tu presencia son un ayer, que pasó;\nuna vela nocturna. R/.\nSi tú los retiras\nson como un sueño,\ncomo hierba que se renueva:\nque florece y se renueva por la mañana,\ny por la tarde la siegan y se seca. R/.\nEnséñanos a calcular nuestros años,\npara que adquiramos un corazón sensato.\nVuélvete, Señor, ¿hasta cuándo?\nTen compasión de tus siervos. R/.\nPor la mañana sácianos de tu misericordia,\ny toda nuestra vida será alegría y júbilo.\nBaje a nosotros la bondad del Señor\ny haga prósperas las obras de nuestras manos.\nSí, haga prósperas las obras de nuestras manos. R/."
+        "reference": "Psalm 25:4-5, 6-7, 8-9",
+        "summary": ""
+      },
+      {
+        "type": "second_reading",
+        "reference": "Philippians 2:1-11",
+        "summary": ""
       },
       {
         "type": "gospel",
-        "reference": "Luke 9:43b-45",
+        "reference": "Matthew 21:28-32",
         "summary": "",
-        "text": "En aquel tiempo, entre la admiración general por lo que hacía, Jesús dijo a sus discípulos:\n «Meteos bien en los oídos estas palabras: el Hijo del hombre va a ser entregado en manos de los hombres».\nPero ellos no entendían este lenguaje; les resultaba tan oscuro, que no captaban el sentido.\nY les daba miedo preguntarle sobre el asunto."
+        "text": "Nuestra historia cristiana, en estos veintiún siglos, está llena de palabras muy hermosas y sistemas doctrinales monumentales, recogiendo el pensamiento cristiano con gran hondura, pero la verdadera fe, hoy y siempre, la viven aquellas personas que saben traducir el evangelio en las obras cada día.\nEl problema está en si el evangelio que hemos recibido de Jesús responde a nuestro compromiso o se queda solo en las palabras bonitas y profundas.\nPorque cuántas veces nos admiramos de esas palabras evangélicas, en quien “habla con autoridad…” pero Jesús no nos dice esas palabras para que le admiremos, sino para que las cumplamos, aunque sea como el primero de los hermanos de la parábola de hoy o como el hijo pródigo…\nEn definitiva, debemos hacer realidad ese dicho tan repetido, pero hoy al filo del evangelio: obras son amores y no buenas razones.\nFray Carmelo Preciado Medrano O.P.\n Convento de San Pablo y San Gregorio (Valladolid) Enviar comentario al autor/a"
       }
     ],
     "patristic_comments": [
       {
-        "reading_ref": "Ecclesiastes 11:9—12:8",
-        "title": "Alégrate Ahora, para juicio vendrá",
-        "father": "San Gregorio",
-        "text": "Un fallo verdadera. Gregorio Magno: Una declaración se introduce\n[Salomón] a través de su imitación de los débiles, mientras que el otro\nse añade a los dictados de la razón, para que analiza inmediatamente\nlos dictados de la razón y muestra la ventaja de una casa de duelo.\n“Para que es el fin de todos los hombres”, dice, “y los vivos debe tomar\nen serio.” “Alégrate, joven, en tu juventud” Y de nuevo,\nescribe, mientras un poco más adelante añade: “el amanecer de la\njuventud es fugaz.” al criticar lo que acaba de recomendar, que indica\nclaramente que el anterior pronunciamiento procedió de los deseos\ncarnales, mientras que el segundo se basa en un juicio verdadero.\nDiálogo 4.4. .",
-        "verse_ref": "Ecclesiastes 11:9"
+        "reading_ref": "Ezekiel 18:25-28",
+        "title": "LA FORMA DE LA Señor es justo",
+        "father": "LA FORMA DE LA Señor es justo",
+        "text": "Descripción general : El camino del Señor es el yugo de Cristo, y que\ndepende de nosotros, no para que sea más gravosa de lo necesario a\ntravés de nuestros pecados (Casiano), ya que tenemos la oportunidad\nde arrepentirse todo el tiempo (Fulgencio) y enfrentarse a la justicia de\nDios (Casiodoro, Teodoreto).",
+        "verse_ref": "Ezekiel 18:25-29"
       },
       {
-        "reading_ref": "Luke 9:43b-45",
-        "title": "La liberación de los cautivos",
-        "father": "San Cirilo",
-        "text": "Cristo concede dones en los que son capaces de recibirlos. Cirilo\nde Alejandría: Esta lección demuestra que nos libró del poder de los\nespíritus impuros. Hemos oído leemos que un hombre corrió hacia él\nentre la multitud y se relaciona la enfermedad intolerable de su hijo.\nDijo que fue cruelmente desgarrado por un espíritu maligno y sufrió\nconvulsiones violentas. La forma de su enfoque no estaba libre de culpa, porque él gritó en voz alta contra la compañía de los santos apóstoles,\ndiciendo que no podían reprender a Satanás. Hubiera sido más\napropiado para él en honor a Jesús cuando se le pide su ayuda e\nimplorando la gracia. Él nos concede nuestra petición cuando honramos\ny confiamos en él como el Todopoderoso, cuyo poder no puede resistir.\nComentario de Lucas, Homilía 52. [ CGSL 229 **.]\nLa incredulidad del hombre no tiene Resultado Milagrosa. Cirilo de\nAlejandría: El padre del endemoniado era grosero y no cortés. Él no se\nlimitó a pedir la curación del niño, y al hacerlo coronar el sanador con\nalabanzas. Por el contrario, habló sin respeto de los discípulos y\nencontró fallas en la gracia les ha dado. “Me lo traje”, dice, “a sus\ndiscípulos, y no podían echarlo fuera.” Fue debido a su falta de fe en que\nla gracia no ayudó. ¿No entienden que usted era la causa de que el niño\nno fue liberado de su grave enfermedad? Comentario sobre Lucas,\nHomilía 52. [ CGSL 230 **.]\nLa falta fue hallado el hombre con el poder de Cristo en los\nApóstoles. Cirilo de Alejandría: El hombre era un incrédulo a fondo y\nperversa, rechazando los caminos rectos, apartarse de la marca, y\nyendo de la forma correcta. Cristo no quiere estar con los que piensan\nde esta manera y han caído en esta maldad. Si se puede hablar de la\nmanera de la gente, Cristo es fatigan y se cansan de ellos. Él nos\nenseña esta palabra, “¿Cuánto tiempo me a estar contigo y dará a luz\ncontigo?” El padre dice que los discípulos, que recibieron al poder de la\nvoluntad de Cristo para echarlos fue",
-        "verse_ref": "Luke 9:37-43"
+        "reading_ref": "Ezekiel 18:25-28",
+        "title": "Sólo Camino del Señor",
+        "father": "Sólo Camino del Señor",
+        "text": "Tomando el yugo de Cristo. John Cassian: Cuando hemos hecho el\nyugo del Señor pesada y difícil de nosotros, a la vez se quejan en un\nespíritu blasfemo de la dureza y rugosidad del propio yugo o de Cristo,\nque la pone sobre nosotros, Conferencia 24.25. [2 NPNF 11: 543 *.]",
+        "verse_ref": "Ezekiel 18:25"
       },
       {
-        "reading_ref": "Luke 9:43b-45",
-        "title": "El misterio de la pasión de Cristo",
-        "father": "San Cirilo",
-        "text": "El misterio de la pasión sigue a la transfiguración. Cirilo de\nAlejandría: Con el fin de que los que iban a enseñar a todo el mundo\npueda saber exactamente su misterio, que de manera útil y\nnecesariamente lo explica claramente a ellos de antemano. Él dice, “Lay\nestas palabras a sus corazones; porque el Hijo del hombre está a punto\nde ser entregado en manos de hombres.”La razón que llevó a Cristo a\nhablar esto es, pienso, un tema a la vez útil y necesario para nuestra\nconsideración. A continuación, que había llevado a Pedro, Santiago y\nJuan al monte. Se transfiguró delante de ellos, y su rostro brillaba como\nel sol. Les mostró la gloria, la que a su debido tiempo se levantará sobre\nel mundo. Él vendrá, no en la humillación como la nuestra o en la bajeza\nde la condición humana como tal, sino en la grandeza y el esplendor de\nla divinidad, y en la gloria trascendente. Una vez más, cuando bajó de la\nmontaña, le entregó a un hombre de un espíritu malvado y violento.\nDesde luego, era dispuestos a soportar por el bien de su pasión\nsalvadora y soportar la maldad de los Judios. A medida que el ministro\nde sus misterios, por la gracia de Dios “gustó la muerte por todos.” Cuando esto sucedió, no hay nada improbable en el supuesto de que le perturbaría los discípulos. Tal vez en sus pensamientos\nsecretos, incluso dirían: “¿Cómo es una manera gloriosa, que levantó a\nlos muertos por el poder divino, reprendió a los mares y los vientos, y\npor una palabra aplastado Satanás, ahora tomó como prisionero y\natrapado en estos asesinos trampas? ¿Estábamos equivocados en\npensar que él es Dios? Hemos caído de la verdadera opinión respecto a\nél?”Los que no conocen el misterio que nuestro Señor Jesucristo podría\nsoportar la cruz y la muerte se encontrarían en el mismo un motivo de\ntropiezo. Comentario de Lucas, Homilía 53. [ CGSL 232-33 **.]\nEl chivo expiatorio prefiguró la pasión de Cristo. Cirilo de\nAlejandría: El misterio de la pasión puede",
-        "verse_ref": "Luke 9:43-45"
+        "reading_ref": "Ezekiel 18:25-28",
+        "title": "La muerte maldad Medios",
+        "father": "La muerte maldad Medios",
+        "text": "El arrepentimiento significa dándose la vuelta. Fulgencio de Ruspe:\n“Cuando los malvados a su vez lejos de la maldad que han cometido y\nhacer lo que es justo y recto, que salvará su vida. Porque consideraban\ny se apartó de todas las transgresiones que había cometido, que de\ncierto vivirá. No morirán.”Cada afirmación es cierta porque cada uno es\ndivina, si es que la persona en el momento en que se han apartado de\nsu justicia, todas sus justicias será consignado al olvido, o si es que el\nmalvado , cuando se hayan convertido de la maldad a la justicia, será\nsalvo, y no serán recordadas todas sus malas acciones. Letter 7,10.",
+        "verse_ref": "Ezekiel 18:26"
+      },
+      {
+        "reading_ref": "Philippians 2:1-11",
+        "title": "La Regla de Amor",
+        "father": "San Juan Crisóstomo",
+        "text": "Descripción general : Pablo suplica a los filipenses que tiene la mente\nde Cristo (Crisóstomo). Si obedecen lo que está diciendo, sus\nesperanzas se convertirán en realidades (Ambrosiaster). Están llamados\na estar unidos en el mismo amor y el mismo sentir. Cristo provoca este\namor, que a su vez produce la simpatía de una beca espiritual que\ntiende hacia la unidad (Marius Victorinus). Pablo desea que la unidad en\nel amor sea completa (Crisóstomo). El autor muestra cómo el\nconocimiento produce el amor y cómo los dos cooperan para llevar a\ncabo una unidad cada vez mayor. Todo tipo de ambición, ya sea de la\npropia voluntad o restricción de los demás, debe evitarse (Marius\nVictorinus), así como la tentación de convertirse en un esclavo de\npopularidad (Crisóstomo). El antídoto es poner los intereses de los\ndemás antes que las propias (Marius Victorinus). Debe contar con los\ndemás como superiores a sí mismo, no simplemente decir esto, pero se\naseguró de ello. La forma más humilde de Cristo aviva nuestra fe\n(Crisóstomo), inculcar la humildad y el servicio (Marius Victorinus).",
+        "verse_ref": "Philippians 2:1-5"
+      },
+      {
+        "reading_ref": "Philippians 2:1-11",
+        "title": "El amor, la participación en el Espíritu, afecto y simpatía",
+        "father": "El amor, la participación en el Espíritu, afecto y simpatía",
+        "text": "Cómo correlacionar estos Términos. Marius Victorinus: Cuando\nestamos en medio de los males y el trabajo bajo los males del mundo, si\ntenemos amor mutuo el uno al otro, Dios será nuestro “consuelo en el\namor.” “Si, por lo tanto,” dice, “no hay es este consuelo en el amor, por\nlo que, debido te amo, me consuelas en medio de mis males, haces que\nmi alegría sea completa.”... Él ha hecho bien en poner [el Espíritu]\ntercero. Para el primero es para ser llamado en Cristo, el siguiente para\ntener amor. Pero cuando ambos son verdaderos y que ya han sido\nllamados en Cristo y disfrutar el consuelo de amar y ser amado, sin\nduda, la comunión del Espíritu está allí. ... La iglesia se convierte en un\ncuerpo cuando aquellos que han sido llamados están unidos el uno al\notro en el amor de Cristo, cuando están unidos también en el Espíritu y\ntienen el mismo “afecto y simpatía.” el afecto corresponde al llamado en\nCristo y la comunión del Espíritu, la simpatía con el consuelo de amor.\nEpístola a los Filipenses 2.1-4. [BT 1972: 80 [1203D-1204B].]",
+        "verse_ref": "Philippians 2:1"
+      },
+      {
+        "reading_ref": "Philippians 2:1-11",
+        "title": "Estar de acuerdo y de una mente",
+        "father": "Estar de acuerdo y de una mente",
+        "text": "Teniendo el mismo amor. Marius Victorinus: ¿Qué quiere decir con “el\nmismo amor”? Que debe tener el mismo amor por otra que el otro tiene\npara usted, no un amor dividido sino un amor incrustado en la vida en\nCristo. Luego añade “totalmente de acuerdo y de una sola mente.” Se\nparece a mí que lo que subraya lo que ha dicho más arriba, pero en un\norden inverso. “En total acuerdo” corresponde a “el mismo amor. De un\nmismo corazón”se refiere a la frase anterior:‘ siendo de la misma\nopinión’Sin embargo, hay algo más matizado en este par que en la\nanterior. Por “ser de la misma mente” y “de una sola mente” sólo\ndifieren ligeramente. Ambos pertenecen al conocimiento. “Al ser de la\nmisma mente” sugiere un conocimiento que aún no se ha establecido,\nsin embargo, su capacidad de saber puede ser visto a ser el mismo. ...\n“Al ser de la misma mente” parece ser todavía un proceso continuo. Es\nla forma de vida. Sin embargo, “teniendo el mismo amor” es la forma de\nvida a la que que conduce a sabiendas. [El camino a la vida es tener la misma\nmente. El modo de vida está teniendo el mismo amor.] Carta a los Filipenses 2.2-5.\n[BT 1972:. 82 [1205B-C]]",
+        "verse_ref": "Philippians 2:2"
+      },
+      {
+        "reading_ref": "Matthew 21:28-32",
+        "title": "La parábola de los dos hijos",
+        "father": "La parábola de los dos hijos",
+        "text": "Descripción general : La identidad de los dos hijos en esta parábola\nvaría con los diferentes comentaristas. Por un lado el hijo mayor\nrepresenta las naciones, y el hijo menor representa los Judios (trabajo\nincompleto en Mateo). Por otra representa el más viejo de los fariseos o\naquellos influenciados por su enseñanza; la más joven representa los\npublicanos y pecadores (Hilary de Poitiers). Es sorprendente que los\npublicanos y pecadores creyeron en Cristo, incluso antes de los\nsacerdotes, que eran demasiado arrogante. Para trabajar en la viña es\nhacer justicia. Lecciones extraídas de la parábola incluyen el punto de\nque es mejor que hacer la justicia de Dios sin la promesa de hacerlo que\nes prometer y luego incumplir (trabajo incompleto en Mateo). El hijo\nque primero se negó a trabajar pero después se arrepintió hizo la\nvoluntad del padre. El hijo que dijo que iba a ir, pero no pasó es\nconvencido. Incluso después de que los publicanos y las rameras habían\ncreído, los líderes judíos no habían creído. Por lo que se elimina así de\ntodas las excusas. Él está diciendo: “Para que llegó en primer lugar, no\na ellos. Que no creía. Ellos no se sintieron ofendidos. Ellos creyeron. Sin\nembargo, esto no se ha aprovechado en absoluto”(Crisóstomo).",
+        "verse_ref": "Matthew 21:28-32"
+      },
+      {
+        "reading_ref": "Matthew 21:28-32",
+        "title": "Dos hijos y una Vineyard",
+        "father": "Dos hijos y una Vineyard",
+        "text": "Los dos hijos. El trabajo incompleto en Mateo: ¿Quién es esto sino el\nDios que creó todas las personas y los ama con un afecto paterno, el\nDios que prefiere ser amado como un padre en lugar de temer como un\nseñor, a pesar de que era el Señor por la naturaleza? A causa de esto, a\nprincipios de los mandamientos de la ley, que no dijo, “Temerás el\nSeñor con todo tu corazón”, pero “Amarás al Señor con todo tu\ncorazón.” Para suscitar el amor no es característico de un\nseñor, sino de un padre.\nDe los dos hijos en esta parábola, la más antigua representa los\ngentiles, ya que proceden de su padre Noé. El hijo menor representa los\nJudios, que vienen de Abraham. “Y acercándose al primero, le dijo: Hijo,\nve hoy a trabajar en mi viña.\" ”‘Hoy’se refiere a la era presente. No\npudo hablar con sus hijos? No se dirigió a ellos cara a cara como el\nhombre, pero él habló con el corazón, como Dios. El hombre sólo\npronuncia palabras al oído, pero Dios provee a la mente inteligencia.\nHomilía 40.",
+        "verse_ref": "Matthew 21:28"
+      },
+      {
+        "reading_ref": "Matthew 21:28-32",
+        "title": "Un hijo trabaja, uno no lo hace",
+        "father": "Un hijo trabaja, uno no lo hace",
+        "text": "No prometa, entonces renegar. El trabajo incompleto en Mateo:\n¿Qué significa trabajar en la viña? Para trabajar en la viña es hacer\njusticia. Ya hemos señalado que la viña es la justicia que Dios ha\nsembrado en general en la naturaleza de todas las personas, pero más\nparticularmente en las Escrituras judías. Cada vid en la viña representa\nun tipo diferente de la justicia, y cada persona, de acuerdo con sus\nvirtudes individuales, produce ya sea mayor o menor de vides. Yo no\nconozco a nadie, sin embargo, que es suficiente para trabajar todo el\nviñedo.\n“Y él dijo, 'no lo haré.' ”¿Cómo lo hizo decir:‘No lo haré’? Lo dijo en sus\npensamientos, para quien entiende la diferencia entre el bien y el mal y\nabandona el bien de seguir el mal parece estar rebelándose contra el\nSeñor en sus pensamientos; para “no voy” se habla contra la facultad\ndel intelecto, que fue creado por Dios por sí mismo. Nadie nunca habría\nsido capaz de pecado a menos que había dicho por primera vez en su\ncorazón “No lo haré”, como el profeta indica: “La injusticia habla dentro\nde él que pudiera pecar” los paganos, que abandonaron a Dios y su justicia desde el principio y se convierte en el\nculto de los ídolos, a una vida de pecado, parecen haberse rebelado en\nsus pensamientos, como si hubieran dicho: “no vamos a hacer justicia a\nla que nos aprendido de ustedes “.\n“Al acercarse al otro”, le preguntó a Jesús la misma cosa, y él\nrespondió: “ 'Voy a ir', pero no entró.” Cuando el pueblo judío,\nrepresentados aquí por el hijo menor, se les pidió tanto por Moisés y por\nJohn el Bautista, como si Dios habla a través de cada uno de ellos, que\nprometió que iban a hacer todo lo que el Señor ha mandado.\nPosteriormente, sin embargo, se dio la vuelta y mintieron a Dios, como\nel profeta había predicho: “hijos extranjeros me han engañado.” “¿Cuál de estos dos hizo la voluntad del padre? Ellos respondieron: 'el\nprimero'. ”Nótese cómo",
+        "verse_ref": "Matthew 21:29-30"
       }
     ],
     "meditation": "",
