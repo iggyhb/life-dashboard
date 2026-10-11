@@ -1,64 +1,95 @@
 {
-  "generated_at": "2026-10-10T12:00:48.214927Z",
+  "generated_at": "2026-10-11T12:13:31.001223Z",
   "week": "2026-W40",
   "liturgy": {
-    "date": "2026-10-10",
+    "date": "2026-10-11",
     "season": "Ordinary Time",
     "readings": [
       {
         "type": "first_reading",
-        "reference": "Galatians 3:22-29",
-        "summary": "",
-        "text": "Hermanos:\nLa Escritura lo encerró todo bajo el pecado, para que la promesa se otorgara por la fe en Jesucristo a los que creen.\nAntes de que llegara la fe, éramos prisioneros y estábamos custodiados bajo la ley hasta que se revelase la fe.\nLa ley fue así nuestro a yo, hasta que llegara Cristo, a fin de ser justificados por fe; pero una vez llegada la fe, ya no estamos sometidos al a yo. Pues todos sois hijos de Dios por la fe en Cristo Jesús.\nCuantos habéis sido bautizados en Cristo, os habéis revestido de Cristo. No hay judío y griego, esclavo y libre, hombre y mujer, porque todos vosotros sois uno en Cristo Jesús. Y si sois de Cristo, sois descendencia de Abrahán y herederos según la promesa."
+        "reference": "Isaiah 25:6-10a",
+        "summary": ""
       },
       {
         "type": "psalm",
-        "reference": "Psalm 105:2-3, 4-5, 6-7",
-        "summary": "",
-        "text": "Cantadle al son de instrumentos,\n hablad de sus maravillas.\n Gloriaos de su nombre santo,\n que se alegren los que buscan al Señor. R/.\nRecurrid al Señor y a su poder,\n buscad continuamente su rostro.\n Recordad las maravillas que hizo,\n sus prodigios, las sentencias de su boca. R/.\n¡Estirpe de Abrahán, su siervo;\n hijos de Jacob, su elegido!\n El Señor es nuestro Dios,\n él gobierna toda la tierra. R/."
+        "reference": "Psalm 23:1-3a, 3b-4, 5, 6",
+        "summary": ""
+      },
+      {
+        "type": "second_reading",
+        "reference": "Philippians 4:12-14, 19-20",
+        "summary": ""
       },
       {
         "type": "gospel",
-        "reference": "Luke 11:27-28",
+        "reference": "Matthew 22:1-14",
         "summary": "",
-        "text": "En aquel tiempo, mientras Jesús hablaba a la gente, una mujer de entre el gentío, levantando la voz, le dijo:\n «Bienaventurado el vientre que te llevó y los pechos que te criaron».\nPero él dijo:\n «Mejor, bienaventurados los que escuchan la palabra de Dios y la cumplen»."
+        "text": "En el célebre Salmo responsorial propuesto a nuestra meditación en la misa de este día, al final el salmista le dice a Dios: «tu bondad y tu misericordia me acompañan todos los días de mi vida, y habitaré en la casa del Señor por años sin término». Esto indica que la presencia del Señor en la vida de todo creyente, o incluso de todo no creyente, siempre es una presencia bondadosa y misericordiosa, nunca una presencia inerte o dañina. Dios siempre está difundiendo su bondad, haciendo el bien a todos, llamándonos a la comunión más estrecha, expresada con imágenes elocuentes, como la «alianza», el lenguaje nupcial, la amistad, la filiación… Dios nos llama a compartir su felicidad, su alegría, su bondad, su compasión… Pero con frecuencia huimos de su presencia porque estamos llenos de prejuicios, pensamos mal de él, distorsionamos su imagen como hicieron Adán y Eva en el Paraíso; creyeron que Dios se oponía a sus anhelos de plenitud. Hay que estar muy convencidos de que, aunque la vida no siempre nos sonría, Dios nos sigue queriendo con un amor indefectible. Las lecturas de este domingo nos lo recuerdan desde diferentes perspectivas.\nFray Manuel Ángel Martinez Juan O.P.\n Convento de San Esteban (Salamanca) Enviar comentario al autor/a"
       }
     ],
     "patristic_comments": [
       {
-        "reading_ref": "Galatians 3:22-29",
-        "title": "Restringido por ley, hasta que se reveló Fe",
-        "father": "San Agustín",
-        "text": "Descripción general : La ley no puede contradecir las promesas del\nlegislador (Marius Victorinus). La ley nos prepara para la fe (Teodoreto).\nSe provocó el pecado para hacernos humildes (Agustín). Sólo la gracia\npuede aplicar el remedio (Fulgencio). Dios reemplaza a la ley. Ninguna\nley da la vida. Cuando el cumplimiento de la ley apareció en la propia\npersona de Cristo (Marius Victorinus), la ley no tenía ninguna función\nrestante (Crisóstomo). Estamos hechos perfectos como hijos de Dios\n(Teodoreto) cuando asumimos su forma a través de la fe en el bautismo\n(Crisóstomo). Esto excluye a los incrédulos, sino que nos une en el\nEspíritu (Jerome). De hecho todos somos un solo cuerpo (Crisóstomo), aunque potencialmente más bien que realmente en la actualidad\n(Agustín). Sin embargo ya somos herederos de Abraham en espíritu,\ncomo Cristo estaba en la naturaleza (Jerome).",
-        "verse_ref": "Galatians 3:21-29"
-      },
-      {
-        "reading_ref": "Galatians 3:22-29",
-        "title": "La interacción de la Ley y la Gracia",
-        "father": "La interacción de la Ley y la Gracia",
-        "text": "La enfermedad expuesto sin Remedy. Fulgencio: Ley y sin gracia,\nentonces, puede exponer a la enfermedad, pero no se puede curar.\nPuede revelar las heridas, pero no administrar el remedio. Pero por lo\nque los preceptos de la ley se cumplan, la gracia provee asistencia\ndentro. En la verdad de la predestinación 1,41. [CCL 91A: 485 [980-83].]",
-        "verse_ref": "Galatians 3:22"
-      },
-      {
-        "reading_ref": "Galatians 3:22-29",
-        "title": "Restringido hasta que la fe es revelada",
-        "father": "San Agustín",
-        "text": "El doctor desea una mayor urgencia. Agustín: “¿Por qué entonces\nfue que ningún beneficio a los Judios que se pusieron en la mano de un\nmediador por medio de ángeles dispensación de la ley” nadie debe ser\nprudente suficiente decir aquí, era rentable para ellos más allá de lo que\npuede ser expresado. Por lo que las iglesias de las naciones se vendían\nsus posesiones y poner el precio de los mismos a los pies de los\napóstoles, que tantos miles de personas lo hicieron con tanta rapidez? ... Y cuando alaba la iglesia de los Tesalonicenses antes de todas las otras iglesias, se dice que han llegado a ser como las\niglesias de los Judios, porque habían sufrido muchas cosas de su pueblo\na causa de su fe, así como los demás tenían de los Judios. [ 1Th_2: 14-16 .]\n... Y la conciencia de una enfermedad mayor, que se encontró que eran\ntransgresores de la ley misma, no trabajadas a la ruina, sino para el\nbien de los que creyeron, haciendo que desear más fervientemente una\nel doctor y el amarle con más ardor. Epístola a los Gálatas 26 [1b.3.23].",
-        "verse_ref": "Galatians 3:23"
-      },
-      {
-        "reading_ref": "Luke 11:27-28",
-        "title": "Oposición a Jesús Descripción general : La Oración del Señor se le dio en una",
+        "reading_ref": "Isaiah 25:6-10a",
+        "title": "Canto de agradecimiento",
         "father": "San Cirilo",
-        "text": "conversación privada entre Jesús y sus discípulos. Ahora el público\ncambia a la multitud, que al principio se sorprenderá de exorcismo de\nun hombre que es sordo y mudo de Jesús. Entonces algunos de la\nmultitud, acusándolo de expulsar los demonios por Beelzebul, ponerlo a\nprueba por pedir una señal (Cirilo de Alejandría). La oposición contra\nJesús surge después de su exorcismo de un sordomudo; El primer\ndesafío se refiere a si su capacidad para expulsar demonios es de Dios o\nBelcebú. La realidad del reino de Dios en Cristo es que es eterna e\nindivisible. Respuesta de sentido común de Jesús es clara: si estuviera\nen liga con Satanás, él no estaría atacando emisarios de Satanás (Cirilo\nde Alejandría).\nJesús expulsa a los demonios por el dedo de Dios, que es el Espíritu\nSanto, porque él es el nuevo y más grande profeta como Moisés, que\ntrae consigo el reino de Dios. La declaración de Jesús de que ‘el reino de\nDios ha llegado a vosotros’ significa que él es el profeta final,\nescatológico prometido por Moisés (Cirilo de Alejandría).\nJesús ya ha demostrado su poder sobre Satanás cuando, con la Palabra\nde Dios, se sobrepuso a las sugerencias del diablo que pasar por alto la\ncruz. Jesús va a completar su misión y alcanzar la victoria final sobre\nSatanás. Satanás no es con Jesús, pero se opone a él. Cuando Satanás\nes echado fuera, el vacío debe ser llenado con el Mesías, el más fuerte,\no de lo contrario Satanás volverá con más fuerza y vehemencia (Cirilo\nde Alejandría). El alma humana es representada como una casa que\nnecesita un ocupante, y si se deja en blanco, un inquilino indeseable\nserá su residencia. Una vez que una casa ha sido barrida por el\nbautismo y la proporcionada por la Cena del Señor, que debe seguir\nsiendo santo y puro por una vida de gracia (Orígenes). Esta foto apoya\nla opinión de Agustín, que todas las personas tienen un vacío en forma\nde Dios dentro que sólo Dios",
-        "verse_ref": "Luke 11:14-36"
+        "text": "Visión general: Las “cosas maravillosas” son la unción de los cristianos\ny de la Eucaristía (Eusebio). Los vecinos de Israel, en un primer\nmomento empobrecida, son llevados a glorificar a Dios. Simeón es un\nejemplo de uno en Israel anticipando la venida de Cristo (Cirilo de\nAlejandría). La unción es la práctica cristiana de ungir a los nuevos\nbautizados con aceite (Cirilo de Jerusalén). La buena noticia fue\ntransferido de los Judios a las naciones (Rufino). La iglesia puede saber\nque los sacramentos son puros porque son del Señor (Primasio), y se\nregocijará en la sangre de Cristo (vino) (Cirilo de Alejandría). Antes de\nla resurrección, la muerte era amargo. Hay que evitar el orgullo, para\nque la muerte no nos va a superar (Ambrose). Esta llegando un\nmomento en que se superará la carne (Agustín). Cristo es el vencedor\nde la muerte (Eusebio, Jerónimo, Cirilo de Alejandría). En el futuro resto\nno habrá dolor (albahaca). Cuando Isaías dice: “He aquí nuestro Dios”,\npodemos ver que esto se refiere a Cristo (Cirilo de Alejandría).",
+        "verse_ref": "Isaiah 25:1-12"
       },
       {
-        "reading_ref": "Luke 11:27-28",
-        "title": "Bendiciones para la audición y guardar la Palabra",
+        "reading_ref": "Isaiah 25:6-10a",
+        "title": "Ungido con ungüento",
+        "father": "San Cirilo",
+        "text": "Ungen. Cirilo de Jerusalén: Después de haber sido tenidos por dignos\nde este santo crisma, [En el siglo IV, los cristianos en la iglesia de Jerusalén fueron\nungidos con aceite antes y después de su bautismo. Esta unción, o crisma, era una parte del\nservicio de bautismo.] Te llaman cristianos, verificando el nombre también por su nuevo nacimiento. Para antes se consideraban dignos de esta\ngracia, que tenía adecuadamente no tiene derecho a este título, pero\navanzaban en su camino hacia el ser cristianos.\nPor otra parte, sabrán que en la antigua Escritura ahí está el símbolo de\neste crisma. Porque al tiempo de Moisés impartió a su hermano el\nmandato de Dios y le hizo pontífice, y lo ungió después de bañarlo en\nagua. Y Aarón fue llamado Cristo o ungido, evidentemente, de la unción\ntípico. Así también el sumo sacerdote, en el avance de Salomón para el\nreino, lo ungió después de que él se había bañado en Guijón. [ 1Ki_1: 39 .]\nPara ellos, sin embargo, estas cosas sucedió en una figura, pero al que\nno en una figura pero en verdad; porque estabas verdaderamente\nungido por el Espíritu Santo. Cristo es el comienzo de su salvación. Él es\nverdaderamente el primer fruto, y que son los que siguen. Si el primer\nfruto es santo, obviamente, su santidad pasará al resto también.\nMantener esta enseñanza sin mancha, para que os enseñará todas las\ncosas, si no permanece en ti. Por esta ... cosa santa es una salvaguarda\nespiritual del cuerpo y la salvación del alma. De esta bendita Isaías\nprofetiza el tiempo de edad, dijo: “En esta montaña van al Señor hacer\npara todas las naciones una fiesta; beberán el vino, beberán alegría,\nque se ungen con ungüento.”Catequesis Conferencias 11,5-7. Para todas las naciones. Rufino de Aquileya: Por otra parte, este\nmismo Isaías predice que mientras que los que se dedicaban al estudio\nde la ley de la infancia a la vejez no creían, a los gentiles cada misterio\ndebe ser transferido. Sus palabras son: “Y el Señor de",
+        "verse_ref": "Isaiah 25:6"
+      },
+      {
+        "reading_ref": "Isaiah 25:6-10a",
+        "title": "Dios enjugará las lágrimas de todos los ojos",
+        "father": "San Ambrosio",
+        "text": "La muerte ha sido devorada. Ambrose: En el Antiguo Testamento la\nmandíbula de la muerte es amarga, ya que se dice, “la muerte Fuerte es\ntodo lo que consume.” En el Nuevo Testamento la mandíbula de la\nmuerte es dulce, ya que se ha tragado la muerte, como dice el apóstol: “Muerte ha sido devorada en la victoria! Oh muerte, ¿dónde está tu\nvictoria? Oh muerte, donde es su Sting “? [ 1Co_15: 54-55 .] Carta 50\n(6.31.9). .\nOrgullo deben tragarse. Ambrose: Afectado por la indecencia de este\nacto [el becerro de oro], Moisés rompió las tablas y se rompió la cabeza\ndel ternero y golpearon hasta reducirlo a polvo con el fin de destruir\ntodo rastro de la impiedad. Los primeros comprimidos se\nrompen de manera que los segundos pueden ser reparados sobre el\ncual, a través de la enseñanza del Evangelio, infidelidad, ahora\ncompletamente destruido, desaparecieron. Por lo tanto Moisés hizo\npedazos que el orgullo de Egipto y por la autoridad de la ley eterna\ncomprobado que excelsitud extralimitación en sí. Y David dice: “Y el\nSeñor va a romper los cedros del Líbano, y quebrarás como el becerro\ndel Líbano. Así, la gente tragarse toda la falta de fe y\norgullo, de manera que la impiedad y la soberbia podrían no tragarlas.\nPorque mejor es que cada uno sea dueño de su carne y de sus vicios,\nque no se puede decir de él que todo poderoso muerte lo ha devorado,\nsino más bien, “la muerte ha sido devorada en la victoria!”\n[ 1Co_15: 54 .] Letter 87 (7.78.5). Lust será superada. Agustín: El apóstol dijo: “Con la mente sirvo a la\nley de Dios, mas con la carne a la ley del pecado” No dando\nmis miembros a iniquidades que cometen sino sólo por la sensación de\ndeseo, sin embargo dando una mano a la lujuria ilícita. Por lo tanto,\ncuando dijo: “Con la mente sirvo a la ley de Dios, mas con la carne a la\nley del pecado”, pasó a añadir: “Existe, pues, ninguna condenación hay\nahora par",
+        "verse_ref": "Isaiah 25:8"
+      },
+      {
+        "reading_ref": "Philippians 4:12-14, 19-20",
+        "title": "imitando Paul",
+        "father": "San Juan Crisóstomo",
+        "text": "Información general : Paul concluye con fuerza (Crisóstomo),\nindicando que una virtud sigue de otro (Marius Victorinus) a fin de\nexpulsar a los vicios correspondientes (Crisóstomo). Debemos recordar\nque todas las virtudes vienen de Dios (Marius Victorinus) y debe ser\npracticado con sinceridad. Pablo mismo es el epítome de esta\n(Crisóstomo). El resultado es la paz, tanto entre sí (Marius Victorinus) y\ncon Dios (Ambrosiaster). Se alude a flojedad en los Filipenses, pero\nelogia su buena voluntad y servicio (Crisóstomo). La abundancia es\ntanto una prueba como la pobreza (Orígenes, Agustín), ya que ni es\nesencial para el verdadero bien (Crisóstomo).",
+        "verse_ref": "Philippians 4:8-13"
+      },
+      {
+        "reading_ref": "Philippians 4:12-14, 19-20",
+        "title": "Contenido en cualquier Estado",
+        "father": "Orígenes",
+        "text": "La tentación de la Abundancia. Orígenes: la pobreza sufrimiento a\nmenudo se piensa que es una aflicción, pero también la abundancia\npuede ser una ocasión para que la tribulación. La persona sabia se\nabstiene de ser enervado por la abundancia. Comentario sobre Romanos\n4.9. [PG 14: 996 [539]; a partir de la traducción latina de Rufino.]\nSabiendo tener abundancia. Agustín: Todo tipo de personas pueden\nsufrir de hecho, la pobreza, sino a “saber sufrir la pobreza” es una\nmarca de la grandeza. Del mismo modo, ¿quién hay que no crezca? Sin embargo, para “saber cómo abundan” pertenece a nadie más que\naquellos que no están corrompidos por la abundancia. En el bien del\nmatrimonio 25.",
+        "verse_ref": "Philippians 4:11-12"
+      },
+      {
+        "reading_ref": "Philippians 4:12-14, 19-20",
+        "title": "En todas y en todas las circunstancias",
+        "father": "San Juan Crisóstomo",
+        "text": "La holgura de convertirse en afluente. Crisóstomo: Abundancia no\nproduce ya sea conocimiento o virtud. ¿Cómo es eso? Porque así como\nocasiones penury mucha maldad, también lo hace un montón. Muchos\nde los que se han convertido en ricos se han convertido en ruinas. Ellos\nno saben cómo soportar su buena fortuna. Pero no es así con Pablo, por\nlo que recibió que pasó en otros. Se despojó de sí mismo a los demás.\nHomilía en Filipenses 16.4.10-14. [IOEP 5: 160.]",
+        "verse_ref": "Philippians 4:12"
+      },
+      {
+        "reading_ref": "Matthew 22:1-14",
+        "title": "La parábola de las bodas",
+        "father": "La parábola de las bodas",
+        "text": "Descripción general: La mesa del Señor está abierta a todos los que\nestán dispuestos correctamente para recibirlo. Pero es importante que\ncada uno examina la forma en que él o ella se acerca. Tanto los clientes\nbuenos y malos están presentes en esta fiesta. Todos los que se\nexcusaron de esta fiesta son falta de atención, pero no todos los que\nentraron en son buenos (Agustín). La gracia de Dios hacia las personas\nde fe se puede comparar con una fiesta de bodas. El Padre en el cielo está haciendo una fiesta de bodas a su Hijo al unirse a la iglesia a él a\ntravés del misterio de su encarnación. La fiesta está lista, pero algunos\nque se ven no son dignos. Esto representa la iglesia de este tiempo, en\nel que el mal están presentes junto con el bien, sólo para ser separados\nen el juicio final (Gregorio Magno). La prenda adecuada de la boda es la\ncaridad nacida de corazón limpio. El vestido de boda no es el bautismo\ncomo tal, sino el amor que viene de un corazón puro, una buena\nconciencia y de una fe sincera (Agustín). Esto es lo que nuestro creador\nposeía cuando llegó a la fiesta de bodas para unirse a la iglesia a sí\nmismo. Mientras tanto, antes de la sentencia definitiva, el lado bueno y\nmalo existir al lado del otro en la iglesia (Gregorio Magno).",
+        "verse_ref": "Matthew 22:1-14"
+      },
+      {
+        "reading_ref": "Matthew 22:1-14",
+        "title": "El reino de los cielos es como un matrimonio Fiesta",
+        "father": "San Gregorio",
+        "text": "Invitación a la Fiesta. Gregorio Magno: En primer lugar debemos\npreguntarnos si esta lección en Mateo es lo que Lucas describe como\nuna cena, ya que algunos detalles no parecen coincidir. [De hecho, la\nparábola dada en Luk_14: 15-35 contiene diferencias considerables de la de Mateo. Gregory\narmoniza los dos textos, en referencia al texto de Mateo a la condición actual de la iglesia y el de\nLucas al banquete escatológico]. Aquí se trata de una comida del mediodía, hay una cena; aquí el que vino a la boda vestido inapropiadamente fue\nlanzado fuera, y no se muestra ninguno de los que dice que han entrado\nhaber sido expulsado. De Mateo se puede inferir que en este pasaje la\nfiesta de bodas representa a la iglesia de la actualidad, y la cena en\nLucas representa el banquete final y eterno. Algunos de los que entre en\nel uno va a salir de ella, pero nadie que una vez que ha entrado en la\notra tarde se apagará. Pero si alguien sostiene que es la misma lección,\ncreo que es mejor para guardar la fe y el rendimiento de la\ninterpretación de otra que ceder a la distensión. Tal vez podemos\nrazonablemente considerar que Lucas se mantuvo en silencio sobre el\nhombre dijo Mateo llegó sin traje de boda y fue expulsado. Que uno lo\nllamó una cena y el otro una comida del mediodía no se interpone en el\ncamino de mi interpretación, ya que cuando los antiguos tomaron su\ncomida diaria del mediodía a la hora novena también se llama una cena.\n...\nUna cosa más clara y más seguro decir es que el Padre hizo fiesta de\nbodas a su Hijo al unirse a la iglesia a él a través del misterio de su\nencarnación. El vientre de la Virgen que le dio fue la cámara nupcial de\nesta novio, por lo que el salmista dice: “Él ha puesto su tienda en el sol,\ny él es como un esposo que sale de su tálamo.” Él realmente salió como un novio de su cámara nupcial que, como Dios encarnado, abandonó el vientre inviolable de la Virgen a unir a l",
+        "verse_ref": "Matthew 22:1-2"
+      },
+      {
+        "reading_ref": "Matthew 22:1-14",
+        "title": "Ven a la Fiesta de Bodas",
         "father": "San Agustín",
-        "text": "Maria bendecida por la fe. Agustín: María era más dicha en la\naceptación de la fe de Cristo que en la concepción de la carne de Cristo.\nPara alguien que dijo: “Bienaventurado el vientre que te trajo”,\nrespondió, “bien, bienaventurados los que oyen la palabra de Dios y la\nguardan”.\nPor último, para sus hermanos, sus parientes según la carne que no\ncreen en él, de lo que era la ventaja de que la relación? Incluso su\nrelación maternal de María habría hecho ningún bien a menos que ella\nhabía dado a luz a Cristo más felices en su corazón que en su carne.\nSanta virginidad 3. Aquellos que adoran a Jesús bendito es. Efrén el Sirio:\n“Bienaventurado el vientre que te llevó.” Tomó la bienaventuranza de\naquel que le dio a luz y se la dio a los que lo estaban adorando. Fue con\nMaría durante un cierto tiempo, pero sería de los que le adoraban por la\neternidad. “Dichosos los que escuchan la palabra de Dios y la guardan.”\nComentario sobre Diatesarón 11.10 de Taciano. [ ECTD 180.]",
-        "verse_ref": "Luke 11:27-28"
+        "text": "Todo está listo. Agustín: Todos los fieles conocen la historia de la boda\ndel hijo del rey, y su fiesta. Ellos saben que la mesa del Señor está\nabierta a todos los que están dispuestos correctamente para recibirlo.\nPero es importante que cada uno examina la forma en que se acerca,\nincluso cuando no está prohibido acercarse.\nLas Sagradas Escrituras nos enseñan que hay dos fiestas del Señor: uno\nde los cuales provienen del mal, el bien y [. El relato de Mateo] la otra a la\nque el mal no vienen. [El relato de Lucas.] Así que la fiesta de la que hemos\noído hace un momento, cuando se estaba leyendo el evangelio tiene dos\nclientes buenos y malos. Todos los que se excusaron de esta fiesta son\nmalos, pero no todos los que entraron en son buenos. Me dirijo ahora a\nvosotros, por lo tanto, que son los buenos invitados a esta fiesta. Usted\nestá tomando buena nota de las palabras “Porque el que come y bebe\nsin discernir el cuerpo del Señor, come y bebe su propia condenación.” [\n1Co_11: 29 .] Es que le hablo. Les suplico que no mirar en vano por el bien\naparte de la iglesia, pero que soportar el mal dentro de él. Sermón 90,1.\n[PL 38: 559; NPNF 1 6: 392 ** (Sermón 40)].",
+        "verse_ref": "Matthew 22:3-4"
       }
     ],
     "meditation": "",
