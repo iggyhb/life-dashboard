@@ -1,71 +1,71 @@
 {
-  "generated_at": "2026-10-16T10:50:49.890917Z",
+  "generated_at": "2026-10-17T10:14:55.201105Z",
   "week": "2026-W41",
   "liturgy": {
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "season": "Ordinary Time",
     "readings": [
       {
         "type": "first_reading",
-        "reference": "Ephesians 1:11-14",
+        "reference": "Ephesians 1:15-23",
         "summary": "",
-        "text": "Hermanos:\nEn Cristo hemos heredado también los hijos de Israel,\n los que ya estábamos destinados por decisión\n del que lo hace todo según su voluntad,\n para que seamos alabanza de su gloria\n quienes antes esperábamos en el Mesías.\nEn él también vosotros,\n después de haber escuchado la palabra de la verdad\n —el evangelio de vuestra salvación—,\n creyendo en él\n habéis sido marcados con el sello del Espíritu Santo prometido.\nÉl es la prenda de nuestra herencia,\n mientras llega la redención del pueblo de su propiedad,\n para alabanza de su gloria."
+        "text": "Hermanos:\nHabiendo oído hablar de vuestra fe en Cristo y de vuestro amor a todos los santos, no ceso de dar gracias por vosotros, recordándoos en mi oración, a fin de que el Dios de nuestro Señor Jesucristo, el Padre de la gloria, os dé espíritu de sabiduría y revelación para conocerlo, e ilumine los ojos de vuestro corazón, para que comprendáis cuál es la esperanza a la que os llama, cuál la riqueza de gloria que da en herencia a los santos, y cuál la extraordinaria grandeza de su poder en favor de nosotros, los creyente, según la eficacia de su fuerza poderosa, que desplegó en Cristo, resucitándolo de entre los muertos y sentándolo a su derecha en el cielo, por encima de todo principado, poder, fuerza y dominación, y por encima de todo nombre conocido, no solo en este mundo, sino en el futuro.\nY «todo lo puso bajo sus pies», y lo dio a la Iglesia, como cabeza, sobre todo. Ella es su cuerpo, plenitud del que llena todo en todos."
       },
       {
         "type": "psalm",
-        "reference": "Psalm 33:1-2, 4-5, 12-13",
+        "reference": "Psalm 8:2-3ab, 4-5, 6-7",
         "summary": "",
-        "text": "Aclamad, justos, al Señor,\n que merece la alabanza de los buenos.\n Dad gracias al Señor con la cítara,\n tocad en su honor el arpa de diez cuerdas. R/.\nLa palabra del Señor es sincera,\n y todas sus acciones son leales;\n él ama la justicia y el derecho,\n y su misericordia llena la tierra. R/.\nDichosa la nación cuyo Dios es el Señor,\n el pueblo que él se escogió como heredad.\n El Señor mira desde el cielo,\n se fija en todos los hombres. R/."
+        "text": "Señor, dueño nuestro,\n¡qué admirable es tu nombre en toda la tierra!\nEnsalzaste tu majestad sobre los cielos.\nDe la boca de los niños de pecho has sacado una alabanza. R/.\nCuando contemplo el cielo, obra de tus dedos,\nla luna y las estrellas que has creado,\n¿Qué es el hombre, para que te acuerdes de él,\nel ser humano, para mirar por él? R/.\nLo hiciste poco inferior a los ángeles,\nlo coronaste de gloria y dignidad,\nle diste el mando sobre las obras de tus manos.\nTodo lo sometiste bajo sus pies. R/."
       },
       {
         "type": "gospel",
-        "reference": "Luke 12:1-7",
+        "reference": "Luke 12:8-12",
         "summary": "",
-        "text": "En aquel tiempo, miles y miles de personas se agolpaban. Jesús empezó a hablar, dirigiéndose primero a sus discípulos:\n«Cuidado con la levadura de los fariseos, que es la hipocresía, pues nada hay cubierto que no llegue a descubrirse, ni nada escondido que no llegue a saberse.\nPor eso, lo que digáis en la oscuridad será oído a plena luz, y lo que digáis al oído en las recámaras se pregonará desde la azotea.\nA vosotros os digo, amigos míos: no tengáis miedo a los que matan el cuerpo, y después de esto no pueden hacer más.\nOs voy a enseñar a quién tenéis que temer: temed al que, después de la muerte, tiene poder para arrojar a la “gehenna”. A ese tenéis que temer, os lo digo yo.\n¿No se venden cinco pájaros por dos céntimos? Pues ni de uno solo de ellos se olvida Dios.\nMás aún, hasta los cabellos de vuestra cabeza están contados. No tengáis miedo: valéis más que muchos pájaros»."
+        "text": "En aquel tiempo, dijo Jesús a sus discípulos:\n«Todo aquel que se declare por mí ante los hombres, también el Hijo del hombre se declarará por él ante los ángeles de Dios, pero si uno me niega ante los hombres, será negado ante los ángeles de Dios.\nTodo el que diga una palabra contra el Hijo del hombre podrá ser perdonado, pero al que blasfeme contra el Espíritu Santo no se le perdonará.\nCuando os conduzcan a la sinagoga, ante los magistrados y las autoridades, no os preocupéis de cómo o con qué razones os defenderéis o de lo que vais a decir, porque el Espíritu Santo os enseñará en aquel momento lo que tenéis que decir»."
       }
     ],
     "patristic_comments": [
       {
-        "reading_ref": "Ephesians 1:11-14",
-        "title": "Nuestra herencia en Cristo",
+        "reading_ref": "Ephesians 1:15-23",
+        "title": "Acción de Gracias de Pablo",
         "father": "San Juan Crisóstomo",
-        "text": "Descripción general : La elección es un gran privilegio (Crisóstomo)\ndada primero a los Judios (Ambrosiaster) y luego al nuevo pueblo de Dios. Nuestra herencia está sellado, asegurado (Crisóstomo). El sello del\nEspíritu provoca y se desarrolla hacia el interior virtud (Dídimo el Ciego).\nToda virtud se basa en la esperanza (Marius Victorinus). Refutando los\nfalsos maestros (Jerome) Pablo recuerda a los Efesios que la salvación\nes por el Evangelio (Crisóstomo), la garantía segura del resultado final\n(Jerome, Teodoreto), que evoca que el elogio debe sólo a Dios\n(Ambrosiaster).",
-        "verse_ref": "Ephesians 1:11-14"
+        "text": "Descripción general : elogio de Pablo se convierte en el preludio de su\nconsejo. Sus oraciones por los efesios son a la vez un patrón para\nnosotros (Marius Victorinus) y una expresión de su piedad (Crisóstomo).\nEl Padre es Padre de Cristo como Dios y el Dios de Jesús como hombre\n(Jerome). La gloria de Dios se manifiesta en sus efectos (Crisóstomo,\nHilario de Poitiers). Su revelación ya ha dado a conocer a los Efesios\n(Jerome), que ahora se inspiró aún más con el celo por la oración de\nPablo por ellos (Ambrosiaster). Los ojos del corazón, abiertas por la fe\n(Jerome, Efrén el Sirio), se suman a la revelación visión (Marius\nVictorinus) pero no sin la responsabilidad moral (Jerome).",
+        "verse_ref": "Ephesians 1:15-18"
       },
       {
-        "reading_ref": "Ephesians 1:11-14",
-        "title": "Dios realiza todo conforme a su voluntad",
-        "father": "San Juan Crisóstomo",
-        "text": "El conocimiento previo de Dios ve todas las cosas antes de que\nocurran. Crisóstomo: Dado que la herencia es una cuestión de fortuna,\nno de elección o virtud, a menudo depende de circunstancias poco claras\no fortuitas, con vistas a la virtud. Se puede poner en primer plano los\nque son de menor estima. Pero note cómo Pablo califica esta\ndeclaración. ... Él dice que “se han destinado”, es decir, Dios nos ha\nescogido para sí mismo. Es como si dijera: Dios nos vio antes de que se\nconvirtió en herederos. El conocimiento previo de Dios es maravilloso y\nve todas las cosas antes de que ocurran. Homilía en Efesios 2.1.11-14.\n[IOEP 4: 114-16.]",
-        "verse_ref": "Ephesians 1:11"
+        "reading_ref": "Ephesians 1:15-23",
+        "title": "La fe en el Señor Jesús El amor fiel Todos los Santos. Marius Victorinus: Se pasa ahora a",
+        "father": "La fe en el Señor Jesús El amor fiel Todos los Santos. Marius Victorinus: Se pasa ahora a",
+        "text": "exhortaciones específicas para los Efesios, y al mismo tiempo les\nadvierte que no entretener a ideas contrarias. La primera vez que se\nexpresa generosamente: “habiendo oído”, dice, “de vuestra fe en el\nSeñor Jesucristo.” Por esto es la suma de las cosas, esto es virtud, este\nes el misterio, que no debe haber fe en Jesucristo . Esta fe también\nanima a amar a todos los santos, todos los que tienen fe en Cristo y han\nsido santificados a través de él. Así, uno que es fiel en Cristo ama a los\nsantos. ... “Por tanto, también yo, habiendo oído de vuestra fe, te amo.”\nCarta a los Efesios 1.1.15. [BT 1972: 139-40 [1247a-B].]",
+        "verse_ref": "Ephesians 1:15"
       },
       {
-        "reading_ref": "Ephesians 1:11-14",
-        "title": "Vivir para alabanza de la gloria de Dios",
-        "father": "Vivir para alabanza de la gloria de Dios",
-        "text": "Vivir para alabanza de su gloria. Marius Victorinus: En primer lugar\nel creyente se habilita a la esperanza en Cristo, es decir, seguir a Cristo\ny creer que todas las promesas de Cristo se pueden cumplir. Sólo\nentonces la consecuencia será que va a vivir para alabanza de la gloria\nde Dios. Epístola a los Efesios 1.1.12. [BT 1972: 138-39 [1246B].]\nNosotros los que primeramente esperábamos. Ambrosiaster: Lo\nque quiere decir es que Dios primero le asigna la tarea de predicar a\naquellos que creen en Cristo que eran de origen judío. Por lo tanto hay\nuna de la gentilidad fue elegido para ser un apóstol. Era lógico que los\nprimeros predicadores deben ser elegidos entre los que había esperado\npreviamente para la salvación que había sido prometido a ellos en\nCristo. Epístola a los Efesios 1.12.",
-        "verse_ref": "Ephesians 1:12"
+        "reading_ref": "Ephesians 1:15-23",
+        "title": "Acordarse de ellos en sus oraciones",
+        "father": "Acordarse de ellos en sus oraciones",
+        "text": "Pablo recuerda a los Efesios en sus oraciones. Marius Victorinus:\nCada oración que ofrecemos a Dios se hace ya sea en agradecimiento\npor lo que hemos recibido en la petición o para recibir otra cosa. Se nos\nanima a orar tanto para nosotros y para nuestros seres queridos. Así\nque Pablo dice, “me acuerdo de ti en mis oraciones.” “Por lo tanto mi\njefe de la oración es el primero en mi cuenta, [es decir,‘gracias por el amor para\ncon todos los santos.’] Entonces en el suyo.” Epístola a los Efesios 1.1.16. [BT\n1972:. 140 [1247B-C]] La fe une con amor en la oración. Crisóstomo: Considere la cantidad\nde gente que tenía en mente, quien era un trabajo duro incluso para\nrecordar. Todos estos que se ha acordado en su oración, dando gracias\na Dios como si él mismo fuera el principal beneficiario. ... A donde\nquiera que se une a la fe y el amor en una unión notable. Homilía en\nEfesios 3.1.15-19. [IOEP 4: 124.]",
+        "verse_ref": "Ephesians 1:16"
       },
       {
-        "reading_ref": "Luke 12:1-7",
+        "reading_ref": "Luke 12:8-12",
         "title": "JESÚS confesando",
         "father": "San Cirilo",
         "text": "Descripción general : El principio de este discurso podría ser un\nresumen apropiado de la crítica de Jesús de los fariseos y los abogados, Ahora etiquetada como la hipocresía, que, como Jesús les\ndijo simplemente, quita la llave del conocimiento. Amar a Cristo es ser\nafines con él e imitar la fe de los antepasados como Abraham, que temía\nni la vida ni la muerte (Cirilo de Alejandría). Los que temen a las\npersonas que pueden matar el cuerpo son los que serán lanzados al\ninfierno, porque les daba vergüenza confesar a Jesús en medio de la\npersecución; Jesús no los confesará ante el Padre en el cielo (Orígenes).\nEn el mundo futuro, nada de lo que es parte del cuerpo natural se\npierde, para todos será restaurado, incluso crecimientos feos, incluso\ntodo nuestro cabello (Agustín). Cuidado de Dios por gorriones y su\nconocimiento del número de cabellos en nuestra cabeza dan comodidad\na los que dudan de su solicitud providencial (Cirilo de Alejandría). Jesús describe aquí la fuerza de un Evangelio fe.El no corrompido no\npuede ser firme en parte y en parte vacilar (Cipriano). La vida eterna es\ndada a aquellos que reconocen a Cristo, a través de los que se han\nsalvado (Pseudo-Clemente de Roma). Para blasfemar contra el Espíritu\nes blasfemar contra la Santa Trinidad (Cirilo de Alejandría). El Espíritu\nSanto será su catequista, dándoles la enseñanza que se necesita en el\nmomento crítico, ya que inspira a los mártires en la cara de la muerte\n(Cirilo de Jerusalén). Están advertidos de no resistir al Espíritu, y tienen\nla promesa de Jesús de que serán enseñados por el Espíritu (Basilio el\nGrande).",
         "verse_ref": "Luke 12:1-12"
       },
       {
-        "reading_ref": "Luke 12:1-7",
-        "title": "Cuidado con la hipocresía de los fariseos",
-        "father": "San Cirilo",
-        "text": "La hipocresía quita la llave del conocimiento. Cirilo de Alejandría:\nEstar enojado en este reproche, se dice que comenzaron á apretar le.\nEsto significa atacarlo con astucia, oponerse a él y mostrar su odio de\nél. También trataron, se dice, para silenciarlo por muchas cosas. Lo\nnuevo es el significado de su silenciándolo? Es que lo requieren para\nresponder de forma inmediata y sin tener en cuenta sus preguntas\nmalvados, esperando que iba a caer y decir algo desagradable. Ellos no\nsabían que él era Dios. Le tuvieron en poco, eran orgullosos y una falta\nde respeto. Cristo dijo a sus amigos, es decir, sus discípulos, que tengan\ncuidado con la levadura de los fariseos y los escribas, es decir, por la\nlevadura de su identidad falsa. La hipocresía es odioso para Dios y la\nhumanidad. No trae una recompensa, y es completamente inútil para la\nsalvación del alma. Es más bien la causa de su condenación. Aunque a\nveces puede no ser detectados por un rato, en poco tiempo, es seguro\npara ser descubierto y traer la desgracia sobre ellos. Es como una mujer\npoco atractiva cuando es despojado de ese adorno externo que se\nproduce por medios artificiales. Comentario de Lucas, Homilía 86. [ CGSL\n351 **.]",
-        "verse_ref": "Luke 12:1-3"
+        "reading_ref": "Luke 12:8-12",
+        "title": "Confesando y negando Ahora y en el Eschaton",
+        "father": "San Cipriano",
+        "text": "La fuerza de una fe incorrupto. Cipriano: En el Evangelio, el Señor\nhabla diciendo: “Todo aquel que se declare por mí ante los hombres, yo\ntambién le confesaré delante de mi Padre que está en los cielos; pero el\nque me niegue, incluso voy a negarlo.”Él no le niega o negar que\nreconocerlo que reconoce. El Evangelio no puede ser firme en parte y en\nparte vacilar. Ambos términos deben ser fuertes o ambos deben perder\nla fuerza de la verdad. Si aquellos que niegan no será culpable de un\ndelito, los que lo reconocen no recibirán la recompensa de la virtud. Si\ncorona la fe que ha conquistado, se debe castigar la traición que ha sido\nconquistado. Si el Evangelio puede ser roto, los mártires pueden ser de\nningún beneficio. Si el Evangelio no puede ser rota, los que se\nconvierten en mártires, de acuerdo con el Evangelio, no puede actuar de\nforma contraria al Evangelio. La mayoría de los queridos hermanos y\nhermanas, que nadie difamen a la dignidad de los mártires. Que nadie\ndestruya sus glorias y coronas. La fuerza de una fe no corrompida es el\nsonido. Nadie puede decir o hacer nada en contra de Cristo, cuya\nesperanza, la fe, la virtud y la gloria están totalmente en Cristo. Ellos\nque han realizado los mandatos de Dios no pueden ser los autores de\ncualquier cosa hecha por los obispos en contra de la orden de Dios. El\nLapsed 20. [FC 36: 75 **; ACW 25: 29-30 **].\nReconócelo por quien también se guardan. Pseudo-Clemente de\nRoma: “El que se declare por mí ante los hombres, yo le confesaré\ndelante de mi Padre.” Esta es nuestra recompensa, si lo reconocemos\nque nos salva. ¿Cómo lo reconocemos? Lo reconocemos por hacer lo\nque dice y por obedecer sus órdenes, y honrándolo no sólo con nuestros\nlabios, sino con todo el corazón y la mente. Él dice en Isaías, así, “Este pueblo me honra con los labios, pero su corazón está\nlejos de mí.” 2 Clemente 3.1-5. [LCC 1:\n194 *.] La blasfemi",
+        "verse_ref": "Luke 12:8-10"
       },
       {
-        "reading_ref": "Luke 12:1-7",
-        "title": "A quién deben temer y no tener miedo",
+        "reading_ref": "Luke 12:8-12",
+        "title": "El Espíritu enseñar a los creyentes",
         "father": "San Cirilo",
-        "text": "Imitando la fe de los antepasados. Cirilo de Alejandría: Para decirlo\nde otra luz, como sus amigos, no hay que temer a la muerte, sino más\nbien imitar la fe de los antepasados sagrados. Cuando fue tentado, el\npatriarch Abraham ofreció a su hijo unigénito Isaac, considerando que\nDios es poderoso para levantar aun de entre los muertos. Lo que el terror de la muerte nos puede atacar, ahora la muerte que la\nvida ha abolido? [ 2Ti_1: 10 .] Cristo es la resurrección y la vida. Comentario de Lucas, Homilía 87. [ CGSL . 353 **]\nTemer el único que puede matar el cuerpo. Orígenes: Tenga en\ncuenta que este mandamiento no se le da a los servidores de Jesús, sino\na sus amigos. “Que puede destruir el alma y el cuerpo en el\ninfierno”. “No temáis a los que matan el cuerpo, y después nada más\ntiene que lo pueden hacer” Uno para el temor es que él solo\n“después de haber quitado la vida,” tiene “poder de echar en el\ninfierno.” él lanza al infierno a los que temen a los que matan el cuerpo\ny no temas “aquel que, después de haber quitado la vida, tiene poder de\nechar en el infierno.”Podemos suponer que no importa quién más tiene\nel pelo de la cabeza numerada, el verso es obviamente cierto de los que\nse cortó para Jesús. Vamos a confesar al Hijo de Dios delante de la\ngente y no antes de los dioses, que el que se nos confesó puede\nconfesar a su vez delante de Dios y su Padre, y confesar en el cielo el\nque lo confesó en la tierra. Exhortación al martirio 34. [ OSW 64: 66 *.]\nNo hay pérdida de pelo en el mundo venidero. Agustín: Cuando\nnuestro Señor dijo, “ni un pelo”, que no estaba pensando en longitud,\npero el número de pelos, como vemos en estas palabras: “Los cabellos\nde vuestra cabeza están contados.” Sigo pensando que nada de lo que\nera una parte natural del cuerpo se debe perder. Excrecencias feas, que\ntienen el propósito de recordarnos la condición penal de la vida mortal,\nse integr",
-        "verse_ref": "Luke 12:4-7"
+        "text": "El Espíritu Santo inspira a los Mártires. Cirilo de Jerusalén: Usted\ntambién debe saber que el Espíritu Santo da poder a los mártires a dar\ntestimonio ... Una persona no puede declarar como un mártir por la\ncausa de Cristo, sino por el Espíritu Santo.. Si “nadie puede llamar a\nJesús Señor, sino en el Espíritu Santo,” [ 1Co_12: 3 .] Habrá ningún hombre dar su vida por causa de Jesús, sino por el Espíritu Santo?\nLecturas Catequéticas 16.21. La instrucción del Espíritu Santo. Basilio el Grande: El cristiano no\ndebe temer o estar en dificultades en circunstancias difíciles y por lo\ntanto distraerse de la confianza en Dios. Se debe tomar el valor como si\nel Señor estuviera a la mano dirigir sus asuntos y el fortalecimiento de\nél contra todos sus adversarios. Es como si el Espíritu Santo le\nenseñaban incluso a las mismas respuestas que debe hacer a sus\nenemigos. La Moral 63.",
+        "verse_ref": "Luke 12:11-12"
       }
     ],
     "meditation": "",
