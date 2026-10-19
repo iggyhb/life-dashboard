@@ -1,88 +1,71 @@
 {
-  "generated_at": "2026-10-18T10:30:23.725465Z",
-  "week": "2026-W41",
+  "generated_at": "2026-10-19T12:20:22.697574Z",
+  "week": "2026-W42",
   "liturgy": {
-    "date": "2026-10-18",
+    "date": "2026-10-19",
     "season": "Ordinary Time",
     "readings": [
       {
         "type": "first_reading",
-        "reference": "Isaiah 45:1, 4-6",
-        "summary": ""
+        "reference": "Ephesians 2:1-10",
+        "summary": "",
+        "text": "Hermanos:\nUn tiempo estabais muertos por vuestras culpas y pecados, cuando seguíais el proceder de este mundo, según el príncipe de la potestad del aire, el espíritu que ahora actúa en los rebeldes contra Dios. Como ellos, también nosotros vivíamos en el pasado siguiendo las tendencias de la carne, obedeciendo los impulsos del instinto y de la imaginación; y, por naturaleza, estábamos destinados a la ira, como los demás. Pero Dios, rico en misericordia, por el gran amor con que nos amó, estando nosotros muertos por los pecados, nos ha hecho revivir con Cristo —estáis salvados por pura gracia—; nos ha resucitado con Cristo Jesús, nos ha sentado en el cielo con él, para revelar en los tiempos venideros la inmensa riqueza de su gracia, mediante su bondad para con nosotros en Cristo Jesús.\nEn efecto, por gracia estáis salvados, mediante la fe. Y esto no viene de vosotros: es don de Dios. Tampoco viene de las obras, para que nadie pueda presumir. Somos, pues, obra suya. Dios nos ha creado en Cristo Jesús, para que nos dediquemos a las buenas obras, que de antemano dispuso él que practicásemos."
       },
       {
         "type": "psalm",
-        "reference": "Psalm 96:1, 3, 4-5, 7-8, 9-10",
-        "summary": ""
-      },
-      {
-        "type": "second_reading",
-        "reference": "1 Thessalonians 1:1-5b",
-        "summary": ""
+        "reference": "Psalm 100:1b-2, 3, 4ab, 4c-5",
+        "summary": "",
+        "text": "Aclama al Señor, tierra entera,\n servid al Señor con alegría,\n entrad en su presencia con vítores. R/.\nSabed que el Señor es Dios:\n que él nos hizo y somos suyos,\n su pueblo y ovejas de su rebaño. R/.\nEntrad por sus puertas con acción de gracias,\n por sus atrios con himnos,\n dándole gracias y bendiciendo su nombre. R/.\nEl Señor es bueno,\n su misericordia es eterna,\n su fidelidad por todas las edades. R/."
       },
       {
         "type": "gospel",
-        "reference": "Matthew 22:15-21",
+        "reference": "Luke 12:13-21",
         "summary": "",
-        "text": "Hay evangelios que parecen responder a una pregunta concreta y, sin embargo, terminan planteándonos otra mucho más profunda. El de este domingo es uno de ellos. A Jesús le preguntan si es lícito pagar el impuesto al César. La intención no es aprender, sino tenderle una trampa. Si responde que sí, perderá el favor del pueblo; si responde que no, podrá ser acusado ante la autoridad romana. Pero Jesús no acepta quedar encerrado en esa lógica. Como tantas veces, cambia el plano de la discusión y lleva a sus interlocutores al verdadero centro de la cuestión.\nTambién nosotros vivimos rodeados de preguntas que nos obligan a tomar partido: ideologías, polarizaciones, enfrentamientos, intereses… Con frecuencia acabamos creyendo que todo consiste en elegir un bando. Sin embargo, el Evangelio nos recuerda que existe una libertad mucho más profunda. La de quien sabe distinguir lo importante de lo accesorio, lo pasajero de lo definitivo, y reconoce que solo Dios merece ocupar el lugar central del corazón. Desde ahí cobran sentido también la vida social, la política, el trabajo, la economía y todas las responsabilidades humanas.\nFray Vicente Niño Orti O.P.\n Convento de Ntra. Sra. de Atocha (Madrid)\nSoy sacerdote dominico nacido en Córdoba, España. Antes de ingresar en la Orden estudié Derecho y en la universidad descubrí mi vocación a través de la Pastoral Juvenil Dominicana. Ya como fraile ha sido uno de mis ámbitos de predicación el de los jóvenes. He trabajado durante casi una década en la gestión y la pastoral educativa. Soy licenciado en Teología Moral, con especial interés en las relaciones entre fe y política. He publicado el libro \"Santo Domingo nos cuenta su vida\" para acercar su figura a los más jóvenes, y colaboro como columnista en distintos medios digitales. Enviar comentario al autor/a"
+        "text": "En aquel tiempo, dijo uno de entre la gente a Jesús:\n«Maestro, dije a mi hermano que reparta conmigo la herencia».\nÉl le dijo:\n«Hombre, ¿quién me ha constituido juez o árbitro entre vosotros?».\nY les dijo:\n«Mirad: guardaos de toda clase de codicia. Pues, aunque uno ande sobrado, su vida no depende de sus bienes».\nY les propuso una parábola:\n«Las tierras de un hombre rico produjeron una gran cosecha. Y empezó a echar cálculos, diciéndose:\n“¿Qué haré? No tengo donde almacenar la cosecha”.\nY se dijo:\n“Haré lo siguiente: derribaré los graneros y construiré otros más grandes, y almacenaré allí todo el trigo y mis bienes. Y entonces me diré a mí mismo: alma mía, tienes bienes almacenados para muchos años; descansa, come, bebe, banquetea alegremente”.\nPero Dios le dijo:\n“Necio, esta noche te van a reclamar el alma, y ¿de quién será lo que has preparado?”.\nAsí es el que atesora para sí y no es rico ante Dios»."
       }
     ],
     "patristic_comments": [
       {
-        "reading_ref": "Isaiah 45:1, 4-6",
-        "title": "Ciro el Liberador",
+        "reading_ref": "Ephesians 2:1-10",
+        "title": "El Estado de la Unredeemed",
+        "father": "San Juan Crisóstomo",
+        "text": "Descripción general : fallas del organismo por sí solos no pueden\nmatar, como si sin alma o voluntad (Crisóstomo). La muerte tiene dos\nsignificados: la separación del alma del cuerpo y la búsqueda del alma\ndel pecado (Marius Victorinus). El mundo como creado no es malo\n(Tertuliano). El diablo ha corrompido el mundo en su deseo de tener\ncómplices (Ambrosiaster). La naturaleza humana se ha convertido\nvoluntariamente sujetos a su dominio (Crisóstomo). Los hijos de\ndesobediencia están sujetos al diablo por elección, sin embargo, y no\npor su naturaleza creada (Marius Victorinus). Los cristianos se les da la\ngracia para resistirle (Teodoreto). Pablo confiesa sus transgresiones\npasadas (Jerome). Amonestando tanto la inmoralidad y la herejía, Pablo\ndescribe la desobediencia voluntaria de los pecadores como la\nnaturaleza de pecado (Pseudo-Agustín), basándose en los precedentes\nde las escrituras (Gregorio de Nisa) y dando a entender que nuestra\nprimera naturaleza ha sido corrompida (Agustín), de acuerdo con la\nEscritura (Gregory de Nisa).",
+        "verse_ref": "Ephesians 2:1-3"
+      },
+      {
+        "reading_ref": "Ephesians 2:1-10",
+        "title": "Muertos en delitos y pecados",
+        "father": "Muertos en delitos y pecados",
+        "text": "Muerto en el pecado. Marius Victorinus: La muerte es entendida de\ndos maneras. El primero es la definición, cuando conoce el alma se\nsepara del cuerpo en el final de la vida. La segunda es que, aunque\npermaneciendo en el mismo cuerpo, el alma persigue los deseos de la\ncarne y vive en el pecado. Epístola a los Efesios 1.2.1-2. [BT 1972: 148\n[1253a].] El alma peca de elección, no la naturaleza. Crisóstomo: Hay una\ndiferencia entre la muerte del cuerpo y de la muerte del alma. No hay\nningún reproche en la muerte del cuerpo como tal y por lo tanto no hay\npeligro moral, ya que no hay reproche. La muerte del cuerpo es\nsimplemente una cuestión de la naturaleza, no de la elección. Esta\nmuerte tuvo su origen en la transgresión del primer ser humano, ya\npartir de entonces ha tenido su efecto subsiguiente en la naturaleza. Su\nlanzamiento será rápida. Pero la muerte del alma es el resultado de la\nlibre elección. Por lo tanto, implica reproche, de la que no hay liberación\nfácil. Es una tarea mucho más peso para curar un alma amortiguado\nque levantar un cadáver, como Pablo ya ha demostrado. Sin embargo,\nesto es lo que ha ocurrido ahora, por increíble que pueda ser. Homilía en\nEfesios 4.2.1-3. [IOEP 4: 136.]\nTrespass Se diferencia del pecado. Jerome: [] Los griegos hablan de\nla culpa como el primer paso hacia el pecado. Es cuando un\npensamiento secreto roba, y, sin embargo, ofrecemos una medida de\ncolusión, sin embargo, no nos conduzca a la ruina. ... Pero el pecado es\nalgo más. Es cuando la colusión se ha concluido efectivamente y alcanza\nsu objetivo. Epístola a los Efesios siguientes 1.2.1. [PL 26: 465C [571],\nsiguiendo Orígenes Epístola a los Efesios [S 3:. 403]]",
+        "verse_ref": "Ephesians 2:1"
+      },
+      {
+        "reading_ref": "Ephesians 2:1-10",
+        "title": "El Espíritu que actúa en los hijos de desobediencia",
+        "father": "El Espíritu que actúa en los hijos de desobediencia",
+        "text": "¿Cómo funciona el espíritu satánico. Marius Victorinus: Luz y\noscuridad son dos cosas, como son la verdad y la falsedad, la bondad y\nla maldad. Pero no están a ser imaginados como iguales, ya que no es\npiadosa para comparar nada a Dios, ni siquiera por los contrarios. Así\nhay que entender que hay dos espíritus, uno de fe y una de\ndesobediencia. Satanás y sus demonios tienen su sustancia del aire, es\ndecir, de la realidad material. Ellos derivan su poder de esa misma\nmanera, sobre los que piensan materialmente. El príncipe de ese poder\nque está en el aire trabaja a través de la materia. Por lo tanto, es el\nespíritu ahora en el trabajo a través de medios materiales entre los hijos\nde desobediencia. Él posee sus mentes y tiene dominio sobre ellos. Por\nlo tanto el que vive “siguiendo la corriente de este mundo vive conforme\nal príncipe de la potestad del aire, el espíritu que ahora opera en los\nhijos de desobediencia.” Epístola a los Efesios 1.2.1-2. [BT 1972: 148-49\n[1253C-D].] Los hijos de desobediencia. Teodoreto: Hace mucho tiempo, antes de\nla caída, una cierta autoridad fue confiado primordialmente al diablo.\nPero la caída de esto a través de la maldad se convirtió en un maestro de la impiedad y la maldad. Sin embargo, él no tiene poder sobre todos,\nsino sólo sobre aquellos que no reciben la revelación divina. Estos Pablo\nllama “hijos de desobediencia”. Epístola a los Efesios 2.1-2. [CPE 02:11.]",
+        "verse_ref": "Ephesians 2:2"
+      },
+      {
+        "reading_ref": "Luke 12:13-21",
+        "title": "La parábola de los FOOL RICH",
+        "father": "San Agustín",
+        "text": "Descripción general : Lo que se debe buscar es una herencia de la\ninmortalidad, ni uno solo de dinero, y uno nunca debe llamar a Jesús\nque sea divisor de este último (Ambrose). La codicia divide, pero la\ncaridad reúne a la gente (Agustín). La codicia no es más que una forma\nde idolatría. Este principio general conduce a una parábola que gira en\ntorno al concepto de regalo. ¿Se va a acaparar el don, como un fariseo\norgulloso y temible podría hacer y por lo tanto ser culpable de la codicia\n(Cirilo de Alejandría)? Los estómagos de los pobres son más seguros\nque los almacenes de uno graneros (Agustín).\nNo había visto que el amor de Dios crea un hábito de las buenas obras\nque son la única preparación necesaria para la vida futura. Los que\nsaben que son mortales no debe llegar al final sin preparación (León\nMagno). Sólo la virtud y la compasión nos siguen después de la muerte\n(Ambrose). Para ser rico para con Dios es amar la virtud en lugar de la\nriqueza y creer que Dios es el dador de todas las cosas, incluyendo la\nvida y la salvación (Cirilo de Alejandría).",
+        "verse_ref": "Luke 12:13-21"
+      },
+      {
+        "reading_ref": "Luke 12:13-21",
+        "title": "La cuestión de la herencia",
         "father": "San Ambrosio",
-        "text": "Descripción general: Cyrus fue elegido por Dios para cumplir una\nfunción (Teodoreto). En la obra de Ciro, Dios muestra su soberanía\nsobre el mundo (Cyril). La cifra de Ciro prefigura la de Jesucristo\n(Tertuliano). Dios tiene el poder de hacer cambios en la estructura\ngeológica de la tierra (Ambrose). El Señor ha invertido Cyrus con la\nsoberanía (Teodoreto). Conocer nuestro Dios tiene tal fuerza, ni siquiera\nla muerte es de temer, sobre todo porque tenemos más certeza sobre lo\nque está más allá de lo que aquellos en los tiempos del Antiguo\nTestamento (Crisóstomo). Tesoros ocultos ahora serán revelados\n(albahaca). Esta proyección de los tesoros divinos forma anticipada\npuede suceder en esta vida a través de la lectura espiritual de la\nEscritura (Orígenes, Gregorio Nacianceno). O los tesoros de las\nprofundidades podrían ser los patriarcas que esperaron por Cristo en el\ninfierno (Crisóstomo). En esta revelación, la Palabra ilumina las cosas\noscuras en las almas de los creyentes (Casiano).",
-        "verse_ref": "Isaiah 45:1-3"
+        "text": "Una herencia de la inmortalidad debe ser buscada. Ambrose:.\nTodo este pasaje se proporciona para que el sufrimiento puede ser\nsoportado por la confesión del Señor ... Desde la codicia es a menudo\nacostumbrados a tentar a la virtud, el Señor añade el precepto para\neliminar este pecado declarando el precedente, “¿Quién ha nombrado a\nmí juez o partidor sobre vosotros?”el que descendió para un propósito\ndivino adecuadamente declina tareas terrenales y no permite a sí mismo como un juez de demandas y un árbitro de las riquezas. Él es para\njuzgar a vivos y muertos, y distribuir los desiertos. No se debe tener en cuenta lo que buscan, pero de quien lo solicita.\nTampoco se debe pensar que hay que gritar contra las cosas grandes o\npequeñas. Este hermano es reprendido apropiadamente. Él desea\nansiosamente problemas para el administrador de la celestial con los\ncorruptibles. No es un juez neutral, pero la piedad como mediador debe\ndividir una herencia entre hermanos, aunque las personas deben buscar\nuna herencia de la inmortalidad, no de dinero. Exposición del Evangelio\nde Lucas 7.122. [ EHG 279-80 **.]\nDivide avaricia; Caridad reúne. Agustín: Él tenía razón cuando no\nescuchó al hombre que, en desacuerdo con su hermano, dijo: “Maestro,\ndi a mi hermano que parta conmigo la herencia” Él dijo: “Maestro, di a\nmi hermano.” Dile ¿Qué? El dijo: “Para dividir la herencia conmigo.” El\nSeñor dijo: “Habla, hombre.” ¿Por qué quiere dividirla excepto porque\neres un robot? Cada vez que alguien dice: “Yo soy de Pablo”, pero otro,\nno “yo soy de Apolos,” ¿estás meramente humano? [ 1Co_3: 4 .] “Dime,\nhombre, que me ha nombrado juez de la herencia entre vosotros? He\nvenido a recoger, no a dispersarse.”El dijo:‘Yo digo, y guardaos de toda\navaricia.’La codicia quiere dividir, así como el amor desea reunir. ¿Cuál\nes el significado de “guardia contra toda avaricia”, a menos que sea\n“llénense de amor”? Nosotros, que posee el amor por nuestra part",
+        "verse_ref": "Luke 12:13-14"
       },
       {
-        "reading_ref": "Isaiah 45:1, 4-6",
-        "title": "Para su Ungido",
-        "father": "Para su Ungido",
-        "text": "Los designados para una función específica. Teodoreto de Ciro: La\ndivina Escritura designa con el nombre de “ungidos” no sólo a los que\nson llevados adelante para unción, sino también aquellos que el Dios del\nuniverso se ha señalado con miras a [el cumplimiento de] una función\nrequerida. De este modo, en referencia a los patriarcas que vivieron\nantes de la ley, ha dicho, “No toques a mis ungidos.” Aquí, en cualquier caso, que ha dado a Ciro el título “ ungido “, con el fin de anunciar que es [Dios] que le ha elegido como rey de una\nmanera tal como para derrotar al imperio de los babilonios, y poner fin a\nla cautividad de los Judios y para [re] construir el templo de Dios.\nComentario a Isaías 14.45.1. [ ITA 668; SC 315: 18].\nCyrus prefigura Sin saberlo, el Ungido. Cirilo de Alejandría: Lo más\nclaro es el poder de la profecía o la predicación profética. Debemos\ntener en cuenta cada una de las líneas para ver claramente lo que\nparece oscuro. Para que llama Ciro “Cristo” y no como si fuera uno de\nlos santos, que podría llevar este nombre, pero funciona en el sentido\nde que lleva el nombre como ungido por Dios, en que Dios tenía la\ncostumbre de ungir a los que llama al reino, incluso si no eran santos o\nadoradores. Pues encontramos los santos profetas que dicen a quienes\nhan recibido este, “El Señor te ha ungido por rey sobre Israel.” Así Cyrus es el ungido, anticipándose a Cristo como rey. Sólo\na través de Dios tiene que triunfó y ha traído a esta canción de triunfo\ncon el fin de reflejar que desde que se llama “ungido”, es decir, por el\ncrisma y selección, es llamado por Dios para el reino ... de manera que\nse puede saber. ... “yo soy el Señor Dios que llama su nombre, el Dios\nde Israel, por el bien de mi siervo Jacob / hijo y Jacob mis escogidos.\nYo, solo Dios, te he llamado para esto, y te he honrado con radiación,\nque va a ser civil para mi siervo Israel. Los he llamado y le he coronado\nde glo",
-        "verse_ref": "Isaiah 45:1"
-      },
-      {
-        "reading_ref": "1 Thessalonians 1:1-5b",
-        "title": "Saludos y Alabanza",
-        "father": "San Juan Crisóstomo",
-        "text": "Descripción general : la intención de Pablo en esta sección inicial está\npor venir antes de que los tesalonicenses en toda humildad, evitando\ntodos los títulos, magnificando el trabajo de sus asociados y alabar a los\ntesalonicenses por su gran fe y su trabajo duro durante la persecución (Crisóstomo). La naturaleza de la verdadera fe es que despierta a los\ncreyentes buen trabajo, porque el amor produce paciencia al trabajar, y\nla esperanza produce paciencia con paciencia. Pablo da gracias por\ntodos los avances que los tesalonicenses han hecho, que mantienen\nhasta las otras iglesias y orar por su continuo crecimiento\n(Ambrosiaster). Pablo muestra aquí que el creyente que tiene el amor\nperfecto, cuya fe es todo, es capaz de soportar todas las cosas con\npaciencia por el bien de la esperanza futura (Pelagio).",
-        "verse_ref": "1 Thessalonians 1:1-10"
-      },
-      {
-        "reading_ref": "1 Thessalonians 1:1-5b",
-        "title": "Pablo, Silvano y Timoteo",
-        "father": "San Juan Crisóstomo",
-        "text": "Sin Título. Crisóstomo: Aquí Pablo se da ningún título. Se refiere a sí\nmismo ni como “apóstol” ni como “un sirviente.” Paul evita tales títulos,\nsupongo, porque los tesalonicenses estaban recién instruido y todavía\nno sabía bien Paul. Su ministerio de la predicación de esta iglesia estaba\nempezando. Homilías sobre 1 Tesalonicenses 1. [1 NPNF 13: 323 *.]\nUna armonía divina. Orígenes: Dos hizo una sinfonía, Pablo y\nSóstenes, al escribir la primera carta a los Corintios. Después de esto\nPablo y Timothy sang en armonía cuando escribieron su segunda carta a\nla misma iglesia. Y hasta tres hicieron una sinfonía cuando Pablo,\nSilvano y Timoteo dieron instrucciones por carta a los Tesalonicenses.\nComentario sobre Mateo 14.1.",
-        "verse_ref": "1 Thessalonians 1:1"
-      },
-      {
-        "reading_ref": "1 Thessalonians 1:1-5b",
-        "title": "Damos gracias a Dios por vosotros",
-        "father": "San Juan Crisóstomo",
-        "text": "Estímulo de apertura. Crisóstomo: Para dar gracias a Dios por ellos es\nel acto de un testimonio de la forma en que han avanzado en la fe. No\nsólo son los Tesalonicenses elogiado por Pablo, pero Pablo da gracias a\nDios por ellos, como si Dios mismo había logrado todo. Pablo también\nles enseña a ser moderados en su propia estimación, todos menos\ndiciendo que toda su crecimiento es del poder de Dios. Homilías sobre 1\nTesalonicenses 1.",
-        "verse_ref": "1 Thessalonians 1:2"
-      },
-      {
-        "reading_ref": "Matthew 22:15-21",
-        "title": "La pregunta sobre pagar impuestos",
-        "father": "La pregunta sobre pagar impuestos",
-        "text": "Información general : Los fariseos fueron y tuvieron consejo sobre la\nmanera de atrapar a Jesús en la conversación. Cada vez que alguien\ndesea cerrar una corriente de agua corriente, la fuerza ráfagas solo a\ntravés de otra ruta de acceso desde una nueva dirección. Así fue con la\nplanificación del mal de estos hombres. Cuando cortada en una\ndirección, simplemente buscaron otra abertura. La moneda del César es\noro; la de Dios, la humanidad. César se ve en su moneda; Dios, sin\nembargo, se conoce a través de los seres humanos. Y así dar a su\nriqueza a César, pero a Dios reserva para la inocencia de su conciencia,\ndonde se reunió y vio Dios. Para la mano de César ha elaborado una\nimagen por semejanzas y vive cada año por decreto renovable. Sin\nembargo, la mano divina de Dios ha mostrado su imagen en las\nvirtudes. Es con este tipo de inscripciones que Dios imprime sus\nmonedas. Para César necesaria su imagen en cada moneda, pero Dios\nha elegido la personalidad humana, a la que se ha creado en el amor,\npara reflejar su gloria (trabajo incompleto en Mateo). La pasión de la\nhipocresía es ocultar la hostilidad por debajo de la adulación. Pagar\nimpuestos al César no impide que uno de servir a Dios (Severo).",
-        "verse_ref": "Matthew 22:15-22"
-      },
-      {
-        "reading_ref": "Matthew 22:15-21",
-        "title": "Los fariseos Trate de enredar a Jesús",
-        "father": "Los fariseos Trate de enredar a Jesús",
-        "text": "Los fariseos planeado como enredarlo. El trabajo incompleto en\nMateo: La verdad con frecuencia confunde a toda la intención mal pero\nsin la intención de ser de esta manera reformado. Esto es especialmente\ncierto para aquellos que pecan intencionalmente por la malicia en lugar de salir de la ignorancia. Por ejemplo, los sacerdotes de la Antigua\nAlianza no podían intimidar al Señor cuando le preguntaron, “¿Con qué\nautoridad haces estas cosas?” Y después que la fuerza de\nsus parábolas les frustraron aún más, pasaron condenación para sí\nmismos diciendo: “Él va a destruir por completo esos desgraciados.” Puesto que ningún testigo un taladro en contra de ellos, tenía\nque haber sido su conciencia a solas lo que provocó que dicen esto. Sin\nembargo, sin duda el temor al pecado no pinchar su conciencia. Ni\ntampoco la idea de la libertad del pecado que frenar. ¿Qué era,\nentonces? “Salieron y planearon cómo atraparlo en sus palabras.” Si\nalguien intenta apagar una corriente de agua mediante la construcción\nde una especie de bloqueo, el agua va a estallar a través y crear un\nnuevo camino en la otra dirección. Del mismo modo frustrados malas\nintenciones de los sacerdotes descubrieron otras vías por sí mismos.\nHomilía 42.",
-        "verse_ref": "Matthew 22:15"
-      },
-      {
-        "reading_ref": "Matthew 22:15-21",
-        "title": "Enseñando el camino de Dios",
-        "father": "Enseñando el camino de Dios",
-        "text": "Enviaron a sus discípulos. El trabajo incompleto en Mateo: Estos\nmismos fariseos, con la esperanza de eliminar Cristo, de acuerdo con lo\nllevó no delante de los siervos de Dios o los hombres verdaderamente\nreligiosos, pero antes de que los herodianos secularizadas, los gentiles.\n[En realidad, los partidarios del rey Herodes también fueron Judios, pero desde la carrera de Herodes es de Idumea, el autor piensa de sus partidarios como paganos también.] Tal era su plan, y tales eran los planificadores. Pero, ¿quién tiene el poder de\ntomar consejo en contra de Cristo, excepto el diablo, el adversario de\nCristo?\nLos sacerdotes veían a sí mismos como los patrones de la esperanza\nmesiánica. Sin embargo, si salían solas, cuestionando Cristo, nadie les\ncreería. Todo el mundo sabría que los fariseos eran enemigos de Cristo.\nYa había hablado con la pregunta de si era lícito pagar tributo al César.\nPor lo que se unieron a su partido los herodianos. El testimonio de los\nenemigos siempre se juzga con cuidado, especialmente si es cierto, ya\nque lo que es sospechoso es juzgado por partida doble. Los fariseos no\ndesean interrogar a Cristo con los herodianos. Pero tenían un enemigo\ncomún, Cristo. Ambas partes mantuvieron Cristo en gran sospecha. Sin\nembargo, cada uno, siendo sospechar sí mismos, tenían miedo de que\npodría no ser capaz de acusar a Cristo. Un enemigo en campo abierto es\nmucho mejor que uno oculta a la vista. Para mientras que la primera\npuede ser temido, que es fácil de tratar. La segunda, ya que se\ndesconoce, puede prevalecer. Por lo tanto le enviaron los discípulos, como si aún menos conocido y menos sospechoso, para que le podrían\nengañar fácilmente y sigilosamente, o, si se detecta, serían al menos\navergonzarse menos. Homilía 42. Maestro, sabemos que eres veraz. El trabajo incompleto en Mateo:\nLo llamaban maestro, y verdaderamente era él. Sin embargo, ellos sólo\nestaban fingiendo que era un maestro, un honrado y alabad",
-        "verse_ref": "Matthew 22:16"
+        "reading_ref": "Luke 12:13-21",
+        "title": "El primer principio: La vida de una persona no consiste en la abundancia",
+        "father": "San Cirilo",
+        "text": "de bienes\nLa codicia es equivalente a la idolatría. Cirilo de Alejandría: Jesús\nno nos deja sin instrucción. Después de haber encontrado una buena\noportunidad, que hace un discurso rentable y de ahorro. Protestando\ncontra ellos, él declara: “Mirad, y guardaos de toda avaricia.” Nos\nmostró que la avaricia es una trampa del diablo y de odio a Dios. La\nsabia Pablo incluso lo llama idolatría, Tal como adecuados para\nsólo aquellos que no conocen a Dios o como si fueran iguales en el\nequilibrio con la contaminación de esas personas que eligen para servir\npalos y piedras. Es una trampa de malos espíritus, por el cual se\narrastran alma de una persona a las redes de los demonios. Por esta razón, se dice muy correctamente, como el establecimiento en guardia,\n“Mirad, y guardaos de toda avaricia,” de grandes y pequeños y de\ndefraudar a cualquier persona quien quiera que sea. La codicia es odioso\na Dios y la humanidad. Comentario de Lucas, Homilía 89. [ CGSL 360 **.]",
+        "verse_ref": "Luke 12:15"
       }
     ],
     "meditation": "",
